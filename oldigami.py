@@ -1,5 +1,5 @@
-# Scrapes from first superbowl to present day
-# This file scrapes necessary data to igami.csv. Scrapes approx. 1600 webpages and takes ~ 2 hours.
+# Scrapes from first football season to first superbowl
+# Script created after chartigami.py because I wanted to include data from the start of the NFL
 # Easily modifable to scrape different data from profootballreference.com
 import requests
 from bs4 import BeautifulSoup
@@ -8,7 +8,7 @@ import time
 import csv
 
 # Set up season/team abbrs to iterate over and declare lists to be populated.
-seasons = [str(season) for season in range(1966, 2023)] # From first superbowl to present day
+seasons = [str(season) for season in range(1932, 1966)] # From first superbowl to present day
 team_abbrs = ['crd', 'atl', 'rav', 'buf', 'car', 'chi', 'cin', 'cle', 'dal', 'den', 'det', 'gnb', 'htx', 'clt', 'jax',
               'kan',
               'sdg', 'ram', 'rai', 'mia', 'min', 'nwe', 'nor', 'nyg', 'nyj', 'phi', 'pit', 'sea', 'sfo', 'tam', 'oti',
@@ -76,8 +76,19 @@ for season in seasons:
 #print(year)
 #print(teams)
 # Write to CSV file. Formate ex: Josh Allen, 37, 10, 2020
+existing_data = []
+with open('igami.csv', newline='') as csvfile:
+    reader = csv.reader(csvfile)
+    header_skipped = False
+    for row in reader:
+        if not header_skipped:
+            header_skipped = True
+            continue  # Skip the header row
+        existing_data.append(row)
+
 with open('igami.csv', 'w') as test_file:
    csv_writer = csv.writer(test_file)
    csv_writer.writerow(['player name', 'team', 'year', 'td', 'int', 'starts'])
    for i in range (len(qb_name)):
     csv_writer.writerow([qb_name[i], teams[i], year[i], pass_td[i], pass_int[i], starts[i]])
+   csv_writer.writerows(existing_data)
