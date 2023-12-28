@@ -176,6 +176,7 @@ fetch('igami.csv')
               const colIndex = clickedPoint.x;
               const info = tdint_info[rowIndex][colIndex];
               if (grid[rowIndex][colIndex] > 0) {
+                setTimeout(() => {
             // Split the string into individual entries
             const entries = info.split('\r\n').filter(entry => entry.trim() !== '');
             // Construct a table with each entry as a row
@@ -209,6 +210,7 @@ fetch('igami.csv')
 
               // Show the modal
               $('#infoModal').modal('show');
+            }, 1000);
           }
         }
       });
