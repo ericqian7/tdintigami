@@ -210,7 +210,7 @@ fetch('igami.csv')
 
               // Show the modal
               $('#infoModal').modal('show');
-            }, 1000);
+            }, 500);
           }
         }
       });
