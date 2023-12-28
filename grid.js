@@ -186,7 +186,7 @@ fetch('igami.csv')
                 tableContent += `<tr><td>${playerName}</td><td>${team}</td><td>${year}</td><td>${starts}</td></tr>`;
             });
             tableContent += '</tbody></table>';
-
+              console.log(tableContent);
               $('#infoModal').find('.modal-body').html(tableContent);
               if (colIndex == 1) {
                 pluralTD = "Touchdown"
