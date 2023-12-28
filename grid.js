@@ -149,7 +149,6 @@ fetch('igami.csv')
                 
             }
             // Process rowData - you can log or manipulate the data here
-            console.log(rowData.team);
         }
 
         // Create data for Plotly only after processing the CSV data
@@ -178,7 +177,9 @@ fetch('igami.csv')
               if (grid[rowIndex][colIndex] > 0) {
                 setTimeout(() => {
             // Split the string into individual entries
+            console.log("info is " + info);
             const entries = info.split('\r\n').filter(entry => entry.trim() !== '');
+            console.log("entries is " + entries);
             // Construct a table with each entry as a row
             let tableContent = '<table class="table"><thead><tr><th>Player Name</th><th>Team</th><th>Year</th><th>Starts</th></tr></thead><tbody>';
             entries.forEach(entry => {
