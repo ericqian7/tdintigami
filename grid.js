@@ -178,7 +178,7 @@ fetch('igami.csv')
                 setTimeout(() => {
             // Split the string into individual entries
             console.log("info is " + info);
-            const entries = info.split('\n').filter(entry => entry.trim() !== '');
+            const entries = info.split('\n');
             console.log("entries is " + entries);
             // Construct a table with each entry as a row
             let tableContent = '<table class="table"><thead><tr><th>Player Name</th><th>Team</th><th>Year</th><th>Starts</th></tr></thead><tbody>';
