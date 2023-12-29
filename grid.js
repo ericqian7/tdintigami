@@ -182,11 +182,12 @@ fetch('igami.csv')
             console.log("entries is " + entries);
             // Construct a table with each entry as a row
             let tableContent = '<table class="table"><thead><tr><th>Player Name</th><th>Team</th><th>Year</th><th>Starts</th></tr></thead><tbody>';
-            entries.forEach(entry => {
-              console.log("num entries " + entries.length);
-                const [playerName, team, year, starts] = entry.split(','); // Assuming data is separated by spaces
-                tableContent += `<tr><td>${playerName}</td><td>${team}</td><td>${year}</td><td>${starts}</td></tr>`;
-            });
+            for (let i = 0; i < entries.length - 1; i++) {
+              const entry = entries[i];
+              const [playerName, team, year, starts] = entry.split(',');
+              tableContent += `<tr><td>${playerName}</td><td>${team}</td><td>${year}</td><td>${starts}</td></tr>`;
+          }
+          
             tableContent += '</tbody></table>';
               console.log(tableContent);
               $('#infoModal').find('.modal-body').html(tableContent);
