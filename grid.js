@@ -1,17 +1,21 @@
-// Your Plotly visualization code in JavaScript
-var grid = new Array(36).fill(0).map(() => new Array(56).fill(0));
+// 56 by 43 grid (touchdown by interception).
+// Grid is to be displayed and tdint_info contains players,year,starts for each ratio
+var grid = new Array(43).fill(0).map(() => new Array(56).fill(0));
 var tdint_info = [];
-for (let i = 0; i < 36; i++) {
+for (let i = 0; i < 43; i++) {
     tdint_info.push(Array(56).fill(""));
-}var layout = {
+}
+
+// layout for the grid
+var layout = {
     width: 1300,
     height: 700,
     xaxis: {     title: {
       text: 'QB Passing TD in a Season',
       font: {
-        family: 'Arvo', // Set the font family
-        size: 20, // Set the font size
-        color: 'purple' // Set the font color
+        family: 'Arvo',
+        size: 20,
+        color: 'purple'
       }
     }, fixedrange: true, hovertemplate: 'Touchdowns %{x}',mirror:true,
     ticks:'outside',
@@ -19,9 +23,9 @@ for (let i = 0; i < 36; i++) {
     yaxis: {     title: {
       text: 'QB INT in a Season',
       font: {
-        family: 'Arvo', // Set the font family
-        size: 20, // Set the font size
-        color: 'purple' // Set the font color
+        family: 'Arvo',
+        size: 20,
+        color: 'purple'
       }
     }, fixedrange: true,mirror:true,
     ticks:'outside',
@@ -43,34 +47,31 @@ for (let i = 0; i < 36; i++) {
   ]
 };
 
-
+// read/interpret csv file. Entire program lives here to ensure csv file is properly read before displaying data.
 fetch('igami.csv')
     .then(response => response.text())
-    .then(csvData => {
-        // Split the CSV data into rows
-        const rows = csvData.split('\n');
-
-        // Extract column headers
-        const headers = rows[0].split(',').map(header => header.trim());
-
-        // Process rows starting from index 1 (skipping the header row)
-        for (let i = 1; i < rows.length; i++) {
-            const columns = rows[i].split(',');
-
-            // Create an object to store data for each row
+    .then(csvData => {       
+        const rows = csvData.split('\n'); // Split the CSV data into rows
+        const headers = rows[0].split(',').map(header => header.trim()); // Extract column headers
+        let allRows = [];
+        for (let i = 1; i < rows.length; i++) { // i = 1 to skip header row
+            const columns = rows[i].split(',');           
             const rowData = {};
             for (let j = 0; j < headers.length; j++) {
-                rowData[headers[j]] = columns[j];
+                rowData[headers[j]] = columns[j]; // each header will have corresponding value, i.e rowData[player] = 'Josh Allen'
             }
+            allRows.push(rowData);
+        }
+        const combinedData = combineStats(allRows); // if a player started on 2+ teams in a given year, their stats will be combined
 
-            if (rowData.int !== undefined) {
-                grid[rowData.int][rowData.td] += 1;
-                switch (rowData.team) {
+        for (const entry of combinedData) { // iterate through each entry
+            grid[entry.int][entry.td] += 1;
+               /* switch (entry.team) {
                   case "buf":
-                    rowData.team = "Buffalo Bills";
+                    entry.team = "Buffalo Bills";
                     break;
                   case "mia":
-                    rowData.team = "Miami Dolphins";
+                    entry.team = "Miami Dolphins";
                     break;
                   case "kan":
                     rowData.team = "Kansas City Chiefs";
@@ -144,21 +145,23 @@ fetch('igami.csv')
                                     case "chi":
                                       rowData.team = "Chicago Bears";
                                       break;                                  
-                }
-                tdint_info[rowData.int][rowData.td] += rowData.player + ","  + rowData.team + "," + rowData.year + "," + rowData.starts + '\n'
-                
-            }
-            // Process rowData - you can log or manipulate the data here
-        }
+                } */
+            tdint_info[entry.int][entry.td] += entry.player + ","  + entry.team + "," + entry.year + "," + entry.starts + '\n'
+                    
 
+      }
         // Create data for Plotly only after processing the CSV data
         var data = [{
             z: grid,
             type: 'heatmap',
             colorscale: [
-                [0, 'white'],
-                [0.05, 'purple'],
-                [1, 'black']
+              [0, 'white'],
+              [0.05, 'purple'],
+              [0.1, 'blue'],
+              [0.2, 'green'],
+              [0.3, 'yellow'],
+              [0.4, 'orange'],
+              [1, 'red']
             ],
             hovertemplate: 'TD: %{x}<br>INT: %{y}<br>Players: %{z}<extra></extra>'
 
@@ -175,7 +178,7 @@ fetch('igami.csv')
               const colIndex = clickedPoint.x;
               const info = tdint_info[rowIndex][colIndex];
               if (grid[rowIndex][colIndex] > 0) {
-                setTimeout(() => {
+                
             // Split the string into individual entries
             console.log("info is " + info);
             const entries = info.split('\n');
@@ -213,11 +216,32 @@ fetch('igami.csv')
 
               // Show the modal
               $('#infoModal').modal('show');
-            }, 500);
+            
           }
         }
       });
     })
     .catch(error => console.error('Error fetching the CSV file:', error));
+
+
+// Function to combine TD/INT/team/starts for same player in a given year (happens if player started on 2 teams in a season)
+function combineStats(data) {
+  const combinedStats = {};
+
+  // Iterate through the data and combine TD/INT/team/starts for each player in a year
+  data.forEach(entry => {
+      const key = `${entry.player}_${entry.year}`; // Use a unique key for each player in each year
+      if (!combinedStats[key]) {
+          combinedStats[key] = { player: entry.player, team: entry.team, td: +entry.td, int: +entry.int, year: entry.year, starts: +entry.starts };
+      } else {
+          combinedStats[key].td += +entry.td; // use of + to ensure integer addition, not string concat.
+          combinedStats[key].int += +entry.int;
+          combinedStats[key].team += "/" + entry.team;
+          combinedStats[key].starts += +entry.starts;
+      }
+  });
+  // Convert the combinedStats object back to an array of objects
+  return Object.values(combinedStats);
+}
 
     
