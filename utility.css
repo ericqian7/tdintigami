@@ -36,3 +36,75 @@ body {
 	color: var(--color-light);
 }
 
+
+.switch-container {
+  display: flex;
+  justify-content: space-between; /* Distribute space between sliders */
+  width: 400px; /* Set a fixed width for the container */
+  margin: 0 auto; /* Center the container */
+}
+
+.switch {
+  position: relative;
+  flex: 1; /* Distribute available space equally between switches */
+  margin-right: 10px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 10px; /* Include a unit for the height */
+  width: 10px;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 34px;
+  width: 50px;
+  height: 26px; /* Set a specific height for the slider */
+}
+
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+.switch span {
+  display: block;
+  text-align: right; /* Center the text */
+  margin-left: 100px;
+}
+
+.car {
+  display: none;
+}
+
+.show {
+  display: block;
+}

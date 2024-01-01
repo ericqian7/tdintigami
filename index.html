@@ -14,17 +14,41 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <link rel="stylesheet" href="utility.css">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
+
 
 </head>
 <body>
-    
+
   </div>
     <!-- Add a container for the plot -->
     <div id="header">
       <h1>TDINTigami</h1>
     </div>
+    <div class="switch-container">
+      <label class="switch">
+        <span> aaaaa All Pro</span>
+        <input type="checkbox" onchange="toggleSwitch()" id="switch1">
+        <span class="slider"></span>
+      </label>
+      
+      <label class="switch">
+        <span>Pro Bowl</span>
+        <input type="checkbox" onchange="toggleSwitch()" id="switch2">
+        <span class="slider"></span>
+      </label>
+    </div>
+    
+    <select id="carFilter" multiple>
+      <option value="all">All Teams</option>
+    </select>
+    
+    <button id="enterButton">Enter</button>
+    <div id="carList">
+      <!-- Content will be populated dynamically -->
+    </div>
+    
     <div class="plot-container">
       <div id="plot"></div>
       <div id="outline"></div>
@@ -33,7 +57,20 @@
       <div class="expanded-text">
         <p>TDINTigami is inspired by Scorigami. TDINTigami
           displays every unique touchdown to interception ratio by a quarterback
-          since the first Superbowl.
+          since 1932.
+        </p>
+      </div>
+      <h2>Data Collection</h2>
+      <div class="expanded-text">
+        <p>Data was collected from profootballreference.com. I couldn't find a data file containing the information I wanted so I wrote a python script to webscrape roughly 2000 webpages 
+          using the BeautifulSoup library. Each quarterback in TDINTigami had to have started at least started one game that season
+          and have position be officially a quarterback. The data is stored in the igami.csv file.
+        </p>
+      </div>
+      <h2>Why 1932?</h2>
+      <div class="expanded-text">
+        <p>Unfourtanetly profootballreference doesn't have quarterback data from before 1932 and other sources were unreliable at best.
+          Thankfully the quarterback was essentially non existant back then (there were only 6 uniqe players at the qb position from 1932-1940!) so most likely all qb stats are included.
         </p>
       </div>
     </div>
@@ -69,5 +106,8 @@
 </div>
 
     <script src="grid.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
 </body>
 </html>

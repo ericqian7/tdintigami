@@ -1,5 +1,5 @@
 # Define the path to your CSV file
-file_path = 'igami.csv'  # Replace with the path to your CSV file
+file_path = 'statigami.csv'  # Replace with the path to your CSV file
 
 with open(file_path, 'r') as file:
     lines = file.readlines()

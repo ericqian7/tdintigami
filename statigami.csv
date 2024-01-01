@@ -1,0 +1,3668 @@
+player,team,year,td,int,starts
+Keith Molesworth,Chicago Bears,1932,3,4,14
+Carl Brumbaugh,Chicago Bears,1933,1,6,9
+Carl Brumbaugh,Chicago Bears,1934,2,2,12
+Bernie Masterson,Chicago Bears,1935,6,4,11
+Bernie Masterson,Chicago Bears,1936,3,6,9
+Bernie Masterson,Chicago Bears,1937,9,7,5
+Bernie Masterson,Chicago Bears,1938,5,9,3
+Ray Buivid,Chicago Bears,1938,5,2,6
+Bernie Masterson,Chicago Bears,1939,8,9,7
+Davey O'Brien*,Philadelphia Eagles,1939,6,17,8
+Sid Luckman*,Chicago Bears,1940,4,9,7
+Davey O'Brien,Philadelphia Eagles,1940,5,17,11
+Sid Luckman*+,Chicago Bears,1941,9,6,11
+Tommy Thompson,Philadelphia Eagles,1941,8,14,5
+Len Barnum,Philadelphia Eagles,1941,0,10,8
+Sid Luckman*+,Chicago Bears,1942,10,13,10
+Charlie O'Rourke,Chicago Bears,1942,11,16,1
+Tommy Thompson*,Philadelphia Eagles,1942,8,16,10
+Sid Luckman+,Chicago Bears,1943,28,12,3
+Bob Snyder,Chicago Bears,1943,0,4,7
+Roy Zimmerman,Phi/Pit Eagles/Steelers,1943,9,17,9
+Gene Ronzani,Chicago Bears,1944,9,5,5
+Johnny Long,Chicago Bears,1944,1,1,6
+Roy Zimmerman,Philadelphia Eagles,1944,8,10,10
+Frank Filchock,Washington Redskins,1944,13,9,6
+Sammy Baugh,Washington Redskins,1944,4,8,4
+Bob Davis,Boston Yanks,1944,1,2,10
+Paul Christman,Chicago Cardinals,1945,5,12,3
+Sid Luckman,Chicago Bears,1945,14,10,2
+Bob Waterfield+,Cleveland Rams,1945,14,17,4
+Roy Zimmerman,Philadelphia Eagles,1945,9,8,8
+Sammy Baugh,Washington Redskins,1945,11,4,8
+George Cafego,Bos/Bkn Yanks/Tigers,1945,0,4,5
+Paul Christman,Chicago Cardinals,1946,13,18,3
+Sid Luckman,Chicago Bears,1946,17,16,5
+Otto Graham,Cleveland Browns,1946,17,5,9
+Bob Waterfield+,Los Angeles Rams,1946,17,17,4
+Roy Zimmerman,Philadelphia Eagles,1946,4,8,7
+Frankie Albert,San Francisco 49ers,1946,14,14,11
+Sammy Baugh,Washington Redskins,1946,8,17,2
+Paul Governali,Boston Yanks,1946,13,10,1
+George Terlep,Buffalo Bisons,1946,7,14,4
+Al Dekdebrun,Buffalo Bisons,1946,8,8,8
+Marion Pugh,Miami Seahawks,1946,5,12,10
+Charlie O'Rourke,Los Angeles Dons,1946,12,14,8
+Angelo Bertelli,Los Angeles Dons,1946,7,14,3
+Paul Christman,Chicago Cardinals,1947,17,22,8
+Sid Luckman+,Chicago Bears,1947,24,31,7
+Otto Graham+,Cleveland Browns,1947,25,11,9
+Cliff Lewis,Cleveland Browns,1947,1,1,5
+Clyde LeForce,Detroit Lions,1947,13,20,2
+Roy Zimmerman,Detroit Lions,1947,7,9,7
+Jack Jacobs,Green Bay Packers,1947,16,17,8
+Bob Waterfield,Los Angeles Rams,1947,8,18,8
+Tommy Thompson,Philadelphia Eagles,1947,16,15,1
+Frankie Albert,San Francisco 49ers,1947,18,15,9
+Sammy Baugh,Washington Redskins,1947,25,15,1
+Boley Dancewicz,Boston Yanks,1947,11,18,1
+George Ratterman,Buffalo Bills,1947,22,20,4
+Charlie O'Rourke,Los Angeles Dons,1947,13,16,9
+Glenn Dobbs,Los Angeles Dons,1947,6,7,3
+Sam Vacanti,Chicago Rockets,1947,16,16,8
+Al Dekdebrun,Chicago Rockets,1947,6,8,5
+Bud Schwenk,Baltimore Colts,1947,13,20,2
+Ernie Case,Baltimore Colts,1947,0,1,10
+Ray Mallouf,Chicago Cardinals,1948,13,6,5
+Paul Christman,Chicago Cardinals,1948,5,4,2
+Sid Luckman,Chicago Bears,1948,13,14,7
+Otto Graham+,Cleveland Browns,1948,25,15,14
+Fred Enke,Detroit Lions,1948,11,17,10
+Clyde LeForce,Detroit Lions,1948,9,8,2
+Jack Jacobs,Green Bay Packers,1948,5,21,8
+Jim Hardy,Los Angeles Rams,1948,14,7,3
+Bob Waterfield,Los Angeles Rams,1948,14,18,8
+Charlie Conerly,New York Giants,1948,22,13,4
+Tommy Thompson,Philadelphia Eagles,1948,25,11,4
+Frankie Albert,San Francisco 49ers,1948,29,10,9
+Sammy Baugh,Washington Redskins,1948,22,23,3
+Roy Zimmerman,Boston Yanks,1948,7,13,2
+George Ratterman,Buffalo Bills,1948,16,22,13
+Jesse Freitas,Chicago Rockets,1948,14,16,9
+Y.A. Tittle,Baltimore Colts,1948,16,9,12
+Paul Christman,Chicago Cardinals,1949,11,13,7
+Jim Hardy,Chicago Cardinals,1949,10,13,5
+Johnny Lujack,Chicago Bears,1949,23,22,8
+Otto Graham+,Cleveland Browns,1949,19,10,11
+Frank Tripucka,Detroit Lions,1949,9,14,4
+Fred Enke,Detroit Lions,1949,6,5,6
+Clyde LeForce,Detroit Lions,1949,3,9,2
+Jug Girard,Green Bay Packers,1949,4,12,10
+Stan Heath,Green Bay Packers,1949,1,14,1
+Bob Waterfield+,Los Angeles Rams,1949,17,24,11
+Charlie Conerly,New York Giants,1949,17,20,12
+Tommy Thompson,Philadelphia Eagles,1949,16,11,9
+Frankie Albert,San Francisco 49ers,1949,27,16,9
+Sammy Baugh,Washington Redskins,1949,18,14,9
+Harry Gilmer,Washington Redskins,1949,4,15,3
+Don Panciera,New York Yankees,1949,5,16,12
+George Ratterman,Buffalo Bills,1949,14,13,11
+Y.A. Tittle,Baltimore Colts,1949,14,18,7
+Sam Vacanti,Baltimore Colts,1949,0,1,5
+Bobby Layne,New York Bulldogs,1949,9,18,12
+Jim Hardy*,Chicago Cardinals,1950,17,24,8
+Frank Tripucka,Chicago Cardinals,1950,4,7,4
+Johnny Lujack*+,Chicago Bears,1950,4,21,12
+Otto Graham*,Cleveland Browns,1950,14,20,12
+Bobby Layne,Detroit Lions,1950,16,18,12
+Tobin Rote,Green Bay Packers,1950,7,24,12
+Norm Van Brocklin*,Los Angeles Rams,1950,18,14,6
+Bob Waterfield*,Los Angeles Rams,1950,11,13,6
+Charlie Conerly*,New York Giants,1950,8,7,8
+Travis Tidwell,New York Giants,1950,4,3,3
+Tommy Thompson,Philadelphia Eagles,1950,11,22,12
+Frankie Albert*,San Francisco 49ers,1950,14,23,12
+Sammy Baugh,Washington Redskins,1950,10,11,7
+Harry Gilmer*,Washington Redskins,1950,8,12,5
+Y.A. Tittle,Baltimore Colts,1950,8,19,7
+Adrian Burk,Baltimore Colts,1950,6,12,5
+George Ratterman,New York Yanks,1950,22,24,12
+Charley Trippi,Chicago Cardinals,1951,8,13,7
+Jim Hardy,Chicago Cardinals,1951,3,10,4
+Frank Tripucka,Chicago Cardinals,1951,2,1,1
+Johnny Lujack*,Chicago Bears,1951,8,8,9
+Steve Romanik,Chicago Bears,1951,3,9,6
+Otto Graham*+,Cleveland Browns,1951,17,16,12
+Bobby Layne*,Detroit Lions,1951,26,23,12
+Tobin Rote,Green Bay Packers,1951,15,20,11
+Bobby Thomason,Green Bay Packers,1951,11,9,1
+Norm Van Brocklin*,Los Angeles Rams,1951,13,11,2
+Bob Waterfield*,Los Angeles Rams,1951,13,10,10
+Charlie Conerly,New York Giants,1951,10,22,11
+Travis Tidwell,New York Giants,1951,1,4,1
+Adrian Burk,Philadelphia Eagles,1951,14,23,12
+Joe Gasparella,Pittsburgh Steelers,1951,0,1,4
+Frankie Albert,San Francisco 49ers,1951,5,10,11
+Y.A. Tittle,San Francisco 49ers,1951,8,9,1
+Sammy Baugh*,Washington Redskins,1951,7,17,9
+Harry Gilmer,Washington Redskins,1951,1,6,3
+Bob Celeri,New York Yanks,1951,12,15,8
+John Rauch,New York Yanks,1951,1,3,3
+George Ratterman,New York Yanks,1951,2,6,1
+Charley Trippi*,Chicago Cardinals,1952,5,13,10
+Don Panciera,Chicago Cardinals,1952,5,9,1
+Frank Tripucka,Chicago Cardinals,1952,0,0,1
+George Blanda,Chicago Bears,1952,8,11,2
+Steve Romanik,Chicago Bears,1952,4,11,3
+Bob Williams,Chicago Bears,1952,6,5,7
+Otto Graham*,Cleveland Browns,1952,20,24,12
+Bobby Layne*+,Detroit Lions,1952,19,20,11
+Jim Hardy,Detroit Lions,1952,3,5,1
+Babe Parilli,Green Bay Packers,1952,13,17,4
+Tobin Rote,Green Bay Packers,1952,13,8,8
+Norm Van Brocklin*,Los Angeles Rams,1952,14,17,6
+Bob Waterfield,Los Angeles Rams,1952,3,11,6
+Charlie Conerly,New York Giants,1952,13,10,11
+Bobby Thomason,Philadelphia Eagles,1952,8,9,9
+Adrian Burk,Philadelphia Eagles,1952,4,5,3
+Jim Finks*,Pittsburgh Steelers,1952,20,19,12
+Y.A. Tittle,San Francisco 49ers,1952,11,12,5
+Frankie Albert,San Francisco 49ers,1952,8,10,7
+Eddie LeBaron,Washington Redskins,1952,14,15,7
+Sammy Baugh,Washington Redskins,1952,2,1,5
+Frank Tripucka,Dallas Texans,1952,3,17,6
+Bob Celeri,Dallas Texans,1952,3,3,4
+Jim Root,Chicago Cardinals,1953,8,11,6
+Steve Romanik,Chicago Cardinals,1953,4,9,4
+Ray Nagel,Chicago Cardinals,1953,0,5,2
+George Blanda,Chicago Bears,1953,14,23,12
+Otto Graham*+,Cleveland Browns,1953,11,9,11
+George Ratterman,Cleveland Browns,1953,4,0,1
+Bobby Layne*,Detroit Lions,1953,16,21,11
+Tom Dublinski,Detroit Lions,1953,0,5,1
+Tobin Rote,Green Bay Packers,1953,5,15,7
+Babe Parilli,Green Bay Packers,1953,4,19,5
+Fred Enke,Baltimore Colts,1953,8,15,8
+Ed Mioduszewski,Baltimore Colts,1953,2,2,2
+Norm Van Brocklin*,Los Angeles Rams,1953,19,14,12
+Charlie Conerly,New York Giants,1953,13,25,11
+Arnie Galiffa,New York Giants,1953,1,5,1
+Bobby Thomason*,Philadelphia Eagles,1953,21,20,8
+Adrian Burk,Philadelphia Eagles,1953,4,9,4
+Jim Finks,Pittsburgh Steelers,1953,8,14,9
+Bill Mackrides,Pittsburgh Steelers,1953,1,5,3
+Y.A. Tittle*,San Francisco 49ers,1953,20,16,10
+Jim Powers,San Francisco 49ers,1953,1,2,2
+Eddie LeBaron,Washington Redskins,1953,3,17,8
+Jack Scarbath,Washington Redskins,1953,9,12,4
+Lamar McHan,Chicago Cardinals,1954,6,22,11
+Steve Romanik,Chicago Cardinals,1954,2,5,1
+George Blanda,Chicago Bears,1954,15,17,7
+Zeke Bratkowski,Chicago Bears,1954,8,17,5
+Otto Graham*+,Cleveland Browns,1954,11,17,12
+Bobby Layne,Detroit Lions,1954,14,12,8
+Tom Dublinski,Detroit Lions,1954,8,7,4
+Tobin Rote,Green Bay Packers,1954,14,18,12
+Gary Kerkorian,Baltimore Colts,1954,9,12,10
+Cotton Davidson,Baltimore Colts,1954,0,5,1
+Fred Enke,Baltimore Colts,1954,0,3,1
+Norm Van Brocklin*,Los Angeles Rams,1954,13,21,11
+Billy Wade,Los Angeles Rams,1954,2,1,1
+Charlie Conerly,New York Giants,1954,17,11,10
+Bob Clatterbuck,New York Giants,1954,6,7,2
+Adrian Burk*,Philadelphia Eagles,1954,23,17,8
+Bobby Thomason,Philadelphia Eagles,1954,10,13,4
+Jim Finks,Pittsburgh Steelers,1954,14,19,12
+Y.A. Tittle*,San Francisco 49ers,1954,9,9,11
+Al Dorow,Washington Redskins,1954,8,17,6
+Jack Scarbath,Washington Redskins,1954,7,13,6
+Lamar McHan,Chicago Cardinals,1955,11,19,11
+Ogden Compton,Chicago Cardinals,1955,1,6,1
+Ed Brown*,Chicago Bears,1955,9,10,12
+Otto Graham+,Cleveland Browns,1955,15,8,12
+Bobby Layne,Detroit Lions,1955,11,17,10
+Harry Gilmer,Detroit Lions,1955,2,4,2
+Tobin Rote,Green Bay Packers,1955,17,19,12
+George Shaw,Baltimore Colts,1955,10,19,12
+Norm Van Brocklin*,Los Angeles Rams,1955,8,15,12
+Charlie Conerly,New York Giants,1955,13,13,4
+Don Heinrich,New York Giants,1955,2,2,8
+Adrian Burk*,Philadelphia Eagles,1955,9,17,8
+Bobby Thomason*,Philadelphia Eagles,1955,10,7,4
+Jim Finks,Pittsburgh Steelers,1955,10,26,12
+Y.A. Tittle,San Francisco 49ers,1955,17,28,12
+Eddie LeBaron*,Washington Redskins,1955,9,15,8
+Ralph Guglielmi,Washington Redskins,1955,2,4,3
+Al Dorow,Washington Redskins,1955,0,1,1
+Lamar McHan,Chicago Cardinals,1956,10,8,10
+Jim Root,Chicago Cardinals,1956,3,5,2
+Ed Brown*,Chicago Bears,1956,11,12,12
+Tommy O'Connell,Cleveland Browns,1956,4,8,5
+George Ratterman,Cleveland Browns,1956,1,3,4
+Babe Parilli,Cleveland Browns,1956,3,7,3
+Bobby Layne*+,Detroit Lions,1956,9,17,12
+Tobin Rote*,Green Bay Packers,1956,18,15,11
+Bart Starr,Green Bay Packers,1956,2,3,1
+Johnny Unitas,Baltimore Colts,1956,9,10,7
+George Shaw,Baltimore Colts,1956,3,7,5
+Billy Wade,Los Angeles Rams,1956,10,13,8
+Norm Van Brocklin,Los Angeles Rams,1956,7,12,4
+Don Heinrich,New York Giants,1956,5,5,12
+Bobby Thomason*,Philadelphia Eagles,1956,4,21,10
+Adrian Burk,Philadelphia Eagles,1956,1,6,2
+Ted Marchibroda,Pittsburgh Steelers,1956,12,19,11
+Jack Scarbath,Pittsburgh Steelers,1956,2,5,1
+Y.A. Tittle,San Francisco 49ers,1956,7,12,8
+Earl Morrall,San Francisco 49ers,1956,1,6,4
+Al Dorow*,Washington Redskins,1956,8,8,7
+Eddie LeBaron,Washington Redskins,1956,3,10,5
+Lamar McHan,Chicago Cardinals,1957,11,15,12
+Ed Brown,Chicago Bears,1957,6,16,8
+Zeke Bratkowski,Chicago Bears,1957,1,9,4
+Tommy O'Connell*,Cleveland Browns,1957,9,8,9
+Milt Plum,Cleveland Browns,1957,2,5,3
+Bobby Layne,Detroit Lions,1957,6,12,7
+Tobin Rote,Detroit Lions,1957,11,10,5
+Bart Starr,Green Bay Packers,1957,8,10,11
+Babe Parilli,Green Bay Packers,1957,4,12,1
+Johnny Unitas*,Baltimore Colts,1957,24,17,12
+Norm Van Brocklin,Los Angeles Rams,1957,20,21,12
+Charlie Conerly,New York Giants,1957,11,11,8
+Don Heinrich,New York Giants,1957,1,1,4
+Bobby Thomason,Philadelphia Eagles,1957,4,10,8
+Sonny Jurgensen,Philadelphia Eagles,1957,5,8,4
+Earl Morrall*,Pittsburgh Steelers,1957,11,12,11
+Len Dawson,Pittsburgh Steelers,1957,0,0,1
+Y.A. Tittle*+,San Francisco 49ers,1957,13,15,11
+John Brodie,San Francisco 49ers,1957,2,3,1
+Eddie LeBaron*,Washington Redskins,1957,11,10,12
+Lamar McHan,Chicago Cardinals,1958,12,13,6
+M.C. Reynolds,Chicago Cardinals,1958,11,11,6
+Ed Brown,Chicago Bears,1958,10,17,10
+Zeke Bratkowski,Chicago Bears,1958,7,6,2
+Milt Plum,Cleveland Browns,1958,11,11,11
+Jim Ninowski,Cleveland Browns,1958,1,3,1
+Tobin Rote,Detroit Lions,1958,14,10,11
+Bobby Layne*,Detroit Lions,1958,1,2,1
+Babe Parilli,Green Bay Packers,1958,10,13,4
+Bart Starr,Green Bay Packers,1958,3,12,7
+Joe Francis,Green Bay Packers,1958,2,2,1
+Johnny Unitas*+,Baltimore Colts,1958,19,7,9
+George Shaw,Baltimore Colts,1958,7,4,3
+Billy Wade*,Los Angeles Rams,1958,18,22,12
+Charlie Conerly,New York Giants,1958,10,9,6
+Don Heinrich,New York Giants,1958,4,2,6
+Norm Van Brocklin*,Philadelphia Eagles,1958,15,20,12
+Bobby Layne*,Pittsburgh Steelers,1958,13,10,10
+Earl Morrall,Pittsburgh Steelers,1958,1,7,2
+Y.A. Tittle,San Francisco 49ers,1958,9,15,6
+John Brodie,San Francisco 49ers,1958,6,13,6
+Eddie LeBaron*,Washington Redskins,1958,11,10,10
+Ralph Guglielmi,Washington Redskins,1958,2,6,2
+King Hill,Chicago Cardinals,1959,7,13,10
+John Roach,Chicago Cardinals,1959,2,4,5
+Ed Brown,Chicago Bears,1959,13,10,8
+Zeke Bratkowski,Chicago Bears,1959,2,5,4
+Milt Plum,Cleveland Browns,1959,14,8,12
+Tobin Rote,Detroit Lions,1959,5,19,7
+Earl Morrall,Detroit Lions,1959,5,6,5
+Bart Starr,Green Bay Packers,1959,6,7,5
+Lamar McHan,Green Bay Packers,1959,8,9,7
+Johnny Unitas*+,Baltimore Colts,1959,32,14,12
+Billy Wade,Los Angeles Rams,1959,12,17,9
+Frank Ryan,Los Angeles Rams,1959,2,4,3
+Charlie Conerly,New York Giants,1959,14,4,9
+Don Heinrich,New York Giants,1959,1,6,2
+George Shaw,New York Giants,1959,1,1,1
+Norm Van Brocklin*,Philadelphia Eagles,1959,16,14,12
+Bobby Layne*,Pittsburgh Steelers,1959,20,21,12
+Y.A. Tittle*,San Francisco 49ers,1959,10,15,10
+John Brodie,San Francisco 49ers,1959,2,7,2
+Eddie LeBaron,Washington Redskins,1959,8,11,7
+Ralph Guglielmi,Washington Redskins,1959,4,11,5
+Eagle Day,Washington Redskins,1959,0,1,1
+John Roach,St. Louis Cardinals,1960,17,19,10
+King Hill,St. Louis Cardinals,1960,1,5,1
+George Izo,St. Louis Cardinals,1960,0,0,1
+Johnny Green,Buffalo Bills,1960,10,10,6
+Tommy O'Connell,Buffalo Bills,1960,7,13,6
+Bob Brodhead,Buffalo Bills,1960,0,3,1
+Zeke Bratkowski,Chicago Bears,1960,6,21,1
+Ed Brown,Chicago Bears,1960,7,11,11
+Milt Plum*,Cleveland Browns,1960,21,5,12
+Eddie LeBaron,Dallas Cowboys,1960,12,25,10
+Don Meredith,Dallas Cowboys,1960,2,5,1
+Don Heinrich,Dallas Cowboys,1960,3,3,1
+Frank Tripucka,Denver Broncos,1960,24,34,14
+Jim Ninowski,Detroit Lions,1960,2,18,10
+Earl Morrall,Detroit Lions,1960,4,3,2
+Bart Starr*,Green Bay Packers,1960,4,8,8
+Lamar McHan,Green Bay Packers,1960,3,5,4
+Johnny Unitas*,Baltimore Colts,1960,25,24,12
+Cotton Davidson,Dallas Texans,1960,15,16,12
+Hunter Enis,Dallas Texans,1960,1,2,2
+Jack Kemp+,Los Angeles Chargers,1960,20,25,12
+Bob Clatterbuck,Los Angeles Chargers,1960,1,1,2
+Billy Wade,Los Angeles Rams,1960,12,11,6
+Frank Ryan,Los Angeles Rams,1960,7,9,5
+Buddy Humphrey,Los Angeles Rams,1960,0,2,1
+Tom Flores,Oakland Raiders,1960,12,12,13
+Babe Parilli,Oakland Raiders,1960,5,11,1
+Butch Songin,Boston Patriots,1960,22,15,12
+Tom Greene,Boston Patriots,1960,1,6,2
+Harvey White,Boston Patriots,1960,0,0,2
+George Shaw,New York Giants,1960,11,13,5
+Charlie Conerly,New York Giants,1960,8,7,7
+Al Dorow,New York Titans,1960,26,26,13
+Dick Jamieson,New York Titans,1960,6,2,1
+Norm Van Brocklin*+,Philadelphia Eagles,1960,24,17,12
+Bobby Layne,Pittsburgh Steelers,1960,13,17,9
+Rudy Bukich,Pittsburgh Steelers,1960,2,3,3
+John Brodie,San Francisco 49ers,1960,6,9,8
+Y.A. Tittle,San Francisco 49ers,1960,4,3,4
+George Blanda,Houston Oilers,1960,24,22,11
+Jacky Lee,Houston Oilers,1960,5,6,3
+Ralph Guglielmi,Washington Redskins,1960,9,19,11
+Eagle Day,Washington Redskins,1960,0,1,1
+Sam Etcheverry,St. Louis Cardinals,1961,14,11,9
+Ralph Guglielmi,St. Louis Cardinals,1961,5,8,5
+M.C. Reynolds,Buffalo Bills,1961,2,13,3
+Johnny Green,Buffalo Bills,1961,6,5,5
+Warren Rabb,Buffalo Bills,1961,5,2,3
+Richie Lucas,Buffalo Bills,1961,2,4,3
+Tommy O'Connell,Buffalo Bills,1961,0,1,1
+Billy Wade,Chicago Bears,1961,22,13,9
+Ed Brown,Chicago Bears,1961,4,11,5
+Milt Plum*,Cleveland Browns,1961,18,10,13
+Len Dawson,Cleveland Browns,1961,1,3,1
+Eddie LeBaron,Dallas Cowboys,1961,14,16,10
+Don Meredith,Dallas Cowboys,1961,9,11,4
+Frank Tripucka,Denver Broncos,1961,10,21,11
+George Herring,Denver Broncos,1961,5,22,3
+Jim Ninowski,Detroit Lions,1961,7,18,8
+Earl Morrall,Detroit Lions,1961,7,9,6
+Bart Starr*,Green Bay Packers,1961,16,16,14
+Johnny Unitas*,Baltimore Colts,1961,16,24,14
+Cotton Davidson*,Dallas Texans,1961,17,23,12
+Randy Duncan,Dallas Texans,1961,1,3,2
+Jack Kemp*,San Diego Chargers,1961,15,22,14
+Zeke Bratkowski,Los Angeles Rams,1961,8,13,11
+Frank Ryan,Los Angeles Rams,1961,5,7,3
+Tom Flores,Oakland Raiders,1961,15,19,14
+Fran Tarkenton,Minnesota Vikings,1961,18,17,10
+George Shaw,Minnesota Vikings,1961,4,4,4
+Butch Songin,Boston Patriots,1961,14,9,6
+Babe Parilli,Boston Patriots,1961,13,9,8
+Tom Yewcic,Boston Patriots,1961,1,2,1
+Y.A. Tittle*,New York Giants,1961,17,12,10
+Charlie Conerly,New York Giants,1961,7,8,4
+Al Dorow*,New York Titans,1961,19,30,14
+Sonny Jurgensen*+,Philadelphia Eagles,1961,32,24,14
+Rudy Bukich,Pittsburgh Steelers,1961,11,16,8
+Bobby Layne,Pittsburgh Steelers,1961,11,16,6
+John Brodie,San Francisco 49ers,1961,14,12,14
+George Blanda*+,Houston Oilers,1961,36,22,11
+Jacky Lee,Houston Oilers,1961,12,6,3
+Norm Snead,Washington Redskins,1961,11,22,14
+Charley Johnson,St. Louis Cardinals,1962,16,20,10
+Sam Etcheverry,St. Louis Cardinals,1962,2,10,4
+Warren Rabb,Buffalo Bills,1962,10,14,7
+Jack Kemp*,Buffalo Bills,1962,3,4,3
+Al Dorow,Buffalo Bills,1962,2,7,4
+Billy Wade,Chicago Bears,1962,18,24,14
+Frank Ryan,Cleveland Browns,1962,10,7,7
+Jim Ninowski,Cleveland Browns,1962,7,8,7
+Don Meredith,Dallas Cowboys,1962,15,8,8
+Eddie LeBaron*,Dallas Cowboys,1962,16,9,6
+Frank Tripucka*,Denver Broncos,1962,17,25,13
+George Shaw,Denver Broncos,1962,4,14,1
+Milt Plum,Detroit Lions,1962,15,20,14
+Bart Starr*,Green Bay Packers,1962,12,9,14
+Johnny Unitas*,Baltimore Colts,1962,23,23,14
+Len Dawson*+,Dallas Texans,1962,29,17,14
+John Hadl,San Diego Chargers,1962,15,24,10
+Dick Wood,San Diego Chargers,1962,4,7,2
+Jack Kemp*,San Diego Chargers,1962,2,2,2
+Zeke Bratkowski,Los Angeles Rams,1962,9,16,9
+Roman Gabriel,Los Angeles Rams,1962,3,2,4
+Ron Miller,Los Angeles Rams,1962,1,1,1
+Cotton Davidson,Oakland Raiders,1962,7,23,12
+Hunter Enis,Oakland Raiders,1962,1,1,1
+Don Heinrich,Oakland Raiders,1962,1,2,1
+Fran Tarkenton,Minnesota Vikings,1962,22,25,14
+Babe Parilli,Boston Patriots,1962,18,8,10
+Tom Yewcic,Boston Patriots,1962,7,5,4
+Y.A. Tittle*+,New York Giants,1962,33,20,14
+Johnny Green,New York Titans,1962,10,18,8
+Lee Grosscup,New York Titans,1962,8,8,4
+Butch Songin,New York Titans,1962,2,7,2
+Sonny Jurgensen,Philadelphia Eagles,1962,22,26,13
+King Hill,Philadelphia Eagles,1962,0,5,1
+Bobby Layne,Pittsburgh Steelers,1962,9,17,11
+Ed Brown,Pittsburgh Steelers,1962,5,6,3
+John Brodie,San Francisco 49ers,1962,18,16,13
+George Blanda*,Houston Oilers,1962,27,42,14
+Norm Snead*,Washington Redskins,1962,22,22,14
+Charley Johnson*,St. Louis Cardinals,1963,28,21,14
+Jack Kemp*,Buffalo Bills,1963,13,20,12
+Daryle Lamonica,Buffalo Bills,1963,3,4,2
+Billy Wade*,Chicago Bears,1963,15,12,14
+Frank Ryan,Cleveland Browns,1963,25,13,13
+Jim Ninowski,Cleveland Browns,1963,2,6,1
+Don Meredith,Dallas Cowboys,1963,17,18,12
+Eddie LeBaron,Dallas Cowboys,1963,3,3,2
+Mickey Slaughter,Denver Broncos,1963,12,14,7
+Don Breaux,Denver Broncos,1963,7,6,2
+John McCormick,Denver Broncos,1963,4,3,3
+Frank Tripucka,Denver Broncos,1963,0,5,2
+Earl Morrall,Detroit Lions,1963,24,14,10
+Milt Plum,Detroit Lions,1963,2,12,4
+Bart Starr,Green Bay Packers,1963,15,10,10
+John Roach,Green Bay Packers,1963,4,8,4
+Johnny Unitas*,Baltimore Colts,1963,20,12,14
+Len Dawson,Kansas City Chiefs,1963,26,19,13
+Eddie Wilson,Kansas City Chiefs,1963,3,2,1
+Tobin Rote*+,San Diego Chargers,1963,20,17,14
+Roman Gabriel,Los Angeles Rams,1963,8,11,9
+Zeke Bratkowski,Los Angeles Rams,1963,3,6,4
+Terry Baker,Los Angeles Rams,1963,0,4,1
+Tom Flores,Oakland Raiders,1963,20,13,9
+Cotton Davidson*,Oakland Raiders,1963,11,10,5
+Fran Tarkenton,Minnesota Vikings,1963,15,15,13
+Ron Vander Kelen,Minnesota Vikings,1963,1,2,1
+Babe Parilli*,Boston Patriots,1963,13,24,13
+Tom Yewcic,Boston Patriots,1963,4,5,1
+Y.A. Tittle*+,New York Giants,1963,36,14,13
+Ralph Guglielmi,New York Giants,1963,0,3,1
+Dick Wood,New York Jets,1963,18,19,12
+Galen Hall,New York Jets,1963,3,9,2
+King Hill,Philadelphia Eagles,1963,10,17,6
+Sonny Jurgensen,Philadelphia Eagles,1963,11,13,8
+Ed Brown,Pittsburgh Steelers,1963,21,20,14
+Lamar McHan,San Francisco 49ers,1963,8,11,9
+Bob Waters,San Francisco 49ers,1963,1,6,2
+John Brodie,San Francisco 49ers,1963,3,4,3
+George Blanda*,Houston Oilers,1963,24,25,13
+Jacky Lee,Houston Oilers,1963,2,8,1
+Norm Snead*,Washington Redskins,1963,13,27,14
+Charley Johnson,St. Louis Cardinals,1964,21,24,14
+Jack Kemp*,Buffalo Bills,1964,13,26,13
+Daryle Lamonica,Buffalo Bills,1964,6,8,1
+Billy Wade,Chicago Bears,1964,13,14,10
+Rudy Bukich,Chicago Bears,1964,12,7,4
+Frank Ryan*,Cleveland Browns,1964,25,19,14
+Don Meredith,Dallas Cowboys,1964,9,16,10
+John Roach,Dallas Cowboys,1964,1,6,4
+Jacky Lee,Denver Broncos,1964,11,20,10
+Mickey Slaughter,Denver Broncos,1964,3,11,4
+Milt Plum,Detroit Lions,1964,18,15,11
+Earl Morrall,Detroit Lions,1964,4,3,3
+Bart Starr,Green Bay Packers,1964,15,4,14
+Johnny Unitas*+,Baltimore Colts,1964,19,6,14
+Len Dawson*,Kansas City Chiefs,1964,30,18,14
+John Hadl*,San Diego Chargers,1964,18,15,8
+Tobin Rote,San Diego Chargers,1964,9,15,6
+Bill Munson,Los Angeles Rams,1964,9,15,8
+Roman Gabriel,Los Angeles Rams,1964,9,5,6
+Cotton Davidson,Oakland Raiders,1964,21,19,7
+Tom Flores,Oakland Raiders,1964,7,14,7
+Fran Tarkenton*,Minnesota Vikings,1964,22,11,14
+Babe Parilli*+,Boston Patriots,1964,31,27,14
+Y.A. Tittle,New York Giants,1964,10,22,11
+Gary Wood,New York Giants,1964,6,3,3
+Dick Wood,New York Jets,1964,17,25,12
+Mike Taliaferro,New York Jets,1964,2,5,1
+Pete Liske,New York Jets,1964,0,2,1
+Norm Snead,Philadelphia Eagles,1964,14,12,10
+King Hill,Philadelphia Eagles,1964,3,4,3
+Jack Concannon,Philadelphia Eagles,1964,2,1,1
+Ed Brown,Pittsburgh Steelers,1964,12,19,13
+Bill Nelsen,Pittsburgh Steelers,1964,2,3,1
+John Brodie,San Francisco 49ers,1964,14,16,12
+George Mira,San Francisco 49ers,1964,2,5,2
+George Blanda,Houston Oilers,1964,17,27,13
+Don Trull,Houston Oilers,1964,1,2,1
+Sonny Jurgensen*,Washington Redskins,1964,24,13,14
+Charley Johnson,St. Louis Cardinals,1965,18,15,11
+Buddy Humphrey,St. Louis Cardinals,1965,1,9,3
+Jack Kemp*+,Buffalo Bills,1965,10,18,13
+Daryle Lamonica*,Buffalo Bills,1965,3,6,1
+Rudy Bukich,Chicago Bears,1965,20,9,12
+Billy Wade,Chicago Bears,1965,0,2,2
+Frank Ryan*,Cleveland Browns,1965,18,13,12
+Jim Ninowski,Cleveland Browns,1965,4,3,2
+Don Meredith,Dallas Cowboys,1965,22,13,11
+Craig Morton,Dallas Cowboys,1965,2,4,1
+Jerry Rhome,Dallas Cowboys,1965,1,1,2
+John McCormick,Denver Broncos,1965,7,14,6
+Mickey Slaughter,Denver Broncos,1965,6,12,7
+Jacky Lee,Denver Broncos,1965,5,3,1
+Milt Plum,Detroit Lions,1965,12,19,11
+George Izo,Detroit Lions,1965,2,6,3
+Bart Starr,Green Bay Packers,1965,16,9,14
+Johnny Unitas+,Baltimore Colts,1965,23,12,11
+Gary Cuozzo,Baltimore Colts,1965,7,4,2
+Len Dawson,Kansas City Chiefs,1965,21,14,12
+Pete Beathard,Kansas City Chiefs,1965,1,6,2
+John Hadl*,San Diego Chargers,1965,20,21,14
+Bill Munson,Los Angeles Rams,1965,10,14,10
+Roman Gabriel,Los Angeles Rams,1965,11,5,4
+Tom Flores,Oakland Raiders,1965,14,11,11
+Dick Wood,Oakland Raiders,1965,8,6,3
+Fran Tarkenton*,Minnesota Vikings,1965,19,11,14
+Babe Parilli,Boston Patriots,1965,18,26,13
+Eddie Wilson,Boston Patriots,1965,1,3,1
+Earl Morrall,New York Giants,1965,22,12,14
+Joe Namath*,New York Jets,1965,18,15,9
+Mike Taliaferro,New York Jets,1965,3,7,5
+Norm Snead*,Philadelphia Eagles,1965,15,13,10
+King Hill,Philadelphia Eagles,1965,5,10,4
+Bill Nelsen,Pittsburgh Steelers,1965,8,17,12
+Tommy Wade,Pittsburgh Steelers,1965,2,13,2
+John Brodie*,San Francisco 49ers,1965,30,16,13
+George Mira,San Francisco 49ers,1965,4,3,1
+George Blanda,Houston Oilers,1965,20,30,12
+Don Trull,Houston Oilers,1965,5,5,2
+Sonny Jurgensen,Washington Redskins,1965,15,16,13
+Dick Shiner,Washington Redskins,1965,3,4,1
+Charley Johnson,St. Louis Cardinals,1966,10,11,9
+Terry Nofsinger,St. Louis Cardinals,1966,2,8,5
+Randy Johnson,Atlanta Falcons,1966,12,21,11
+Dennis Claridge,Atlanta Falcons,1966,2,2,3
+Jack Kemp*,Buffalo Bills,1966,11,16,14
+Rudy Bukich,Chicago Bears,1966,10,21,14
+Frank Ryan*,Cleveland Browns,1966,29,14,14
+Don Meredith*,Dallas Cowboys,1966,24,12,13
+Jerry Rhome,Dallas Cowboys,1966,0,1,1
+John McCormick,Denver Broncos,1966,6,15,5
+Max Choboian,Denver Broncos,1966,4,12,7
+Mickey Slaughter,Denver Broncos,1966,1,0,1
+Scotty Glacken,Denver Broncos,1966,1,0,1
+Karl Sweetan,Detroit Lions,1966,4,14,8
+Milt Plum,Detroit Lions,1966,4,13,6
+Bart Starr*+,Green Bay Packers,1966,14,3,13
+Zeke Bratkowski,Green Bay Packers,1966,4,2,1
+Johnny Unitas*,Baltimore Colts,1966,22,24,13
+Gary Cuozzo,Baltimore Colts,1966,4,2,1
+Len Dawson*+,Kansas City Chiefs,1966,26,10,14
+John Hadl,San Diego Chargers,1966,23,14,12
+Steve Tensi,San Diego Chargers,1966,5,1,2
+Roman Gabriel,Los Angeles Rams,1966,10,16,14
+Tom Flores*,Oakland Raiders,1966,24,14,10
+Cotton Davidson,Oakland Raiders,1966,2,11,4
+Dick Wood,Miami Dolphins,1966,4,14,4
+George Wilson,Miami Dolphins,1966,5,10,7
+John Stofa,Miami Dolphins,1966,4,2,1
+Rick Norton,Miami Dolphins,1966,3,6,2
+Fran Tarkenton,Minnesota Vikings,1966,17,16,12
+Bob Berry,Minnesota Vikings,1966,1,5,1
+Ron Vander Kelen,Minnesota Vikings,1966,0,1,1
+Babe Parilli*,Boston Patriots,1966,20,20,14
+Gary Wood,New York Giants,1966,6,13,6
+Earl Morrall,New York Giants,1966,7,12,7
+Tom Kennedy,New York Giants,1966,7,6,1
+Joe Namath,New York Jets,1966,19,27,13
+Mike Taliaferro,New York Jets,1966,2,2,1
+Norm Snead,Philadelphia Eagles,1966,8,11,10
+King Hill,Philadelphia Eagles,1966,5,7,2
+Jack Concannon,Philadelphia Eagles,1966,1,4,2
+Ron Smith,Pittsburgh Steelers,1966,8,12,8
+Bill Nelsen,Pittsburgh Steelers,1966,7,1,5
+George Izo,Pittsburgh Steelers,1966,2,8,1
+John Brodie,San Francisco 49ers,1966,16,22,13
+George Mira,San Francisco 49ers,1966,5,2,1
+George Blanda,Houston Oilers,1966,17,21,8
+Don Trull,Houston Oilers,1966,10,5,5
+Buddy Humphrey,Houston Oilers,1966,2,1,1
+Sonny Jurgensen*,Washington Redskins,1966,28,19,14
+Jim Hart,St. Louis Cardinals,1967,19,30,14
+Randy Johnson,Atlanta Falcons,1967,10,21,12
+Terry Nofsinger,Atlanta Falcons,1967,1,2,1
+Steve Sloan,Atlanta Falcons,1967,0,2,1
+Jack Kemp,Buffalo Bills,1967,14,26,11
+Tom Flores,Buffalo Bills,1967,0,8,3
+Jack Concannon,Chicago Bears,1967,6,14,12
+Larry Rakestraw,Chicago Bears,1967,3,2,2
+Frank Ryan,Cleveland Browns,1967,20,16,13
+Gary Lane,Cleveland Browns,1967,2,1,1
+Don Meredith*,Dallas Cowboys,1967,16,16,11
+Craig Morton,Dallas Cowboys,1967,10,10,3
+Steve Tensi,Denver Broncos,1967,16,17,12
+Jim LeClair,Denver Broncos,1967,1,1,2
+Karl Sweetan,Detroit Lions,1967,10,11,8
+Milt Plum,Detroit Lions,1967,4,8,6
+Bart Starr,Green Bay Packers,1967,9,17,12
+Zeke Bratkowski,Green Bay Packers,1967,5,9,2
+Johnny Unitas*+,Baltimore Colts,1967,20,16,14
+Len Dawson*,Kansas City Chiefs,1967,24,17,14
+John Hadl,San Diego Chargers,1967,24,22,14
+Roman Gabriel*,Los Angeles Rams,1967,25,13,14
+Daryle Lamonica*+,Oakland Raiders,1967,30,20,14
+Bob Griese*,Miami Dolphins,1967,15,18,10
+Rick Norton,Miami Dolphins,1967,1,9,3
+John Stofa,Miami Dolphins,1967,0,0,1
+Joe Kapp,Minnesota Vikings,1967,8,17,11
+Ron Vander Kelen,Minnesota Vikings,1967,3,7,3
+Babe Parilli,Boston Patriots,1967,19,24,11
+Don Trull,Boston Patriots,1967,1,7,3
+Gary Cuozzo,New Orleans Saints,1967,7,12,10
+Billy Kilmer,New Orleans Saints,1967,6,11,4
+Fran Tarkenton*,New York Giants,1967,29,19,14
+Joe Namath*,New York Jets,1967,26,28,14
+Norm Snead,Philadelphia Eagles,1967,29,24,14
+Kent Nix,Pittsburgh Steelers,1967,8,19,9
+Bill Nelsen,Pittsburgh Steelers,1967,10,9,5
+John Brodie,San Francisco 49ers,1967,11,16,10
+George Mira,San Francisco 49ers,1967,5,3,2
+Steve Spurrier,San Francisco 49ers,1967,0,7,2
+Pete Beathard,Houston Oilers,1967,9,14,9
+Jacky Lee,Houston Oilers,1967,2,4,3
+Bob Davis,Houston Oilers,1967,0,2,2
+Sonny Jurgensen*,Washington Redskins,1967,31,16,14
+Jim Hart,St. Louis Cardinals,1968,15,18,12
+Charley Johnson,St. Louis Cardinals,1968,1,1,2
+Randy Johnson,Atlanta Falcons,1968,2,10,7
+Bob Berry,Atlanta Falcons,1968,7,13,7
+Dan Darragh,Buffalo Bills,1968,3,14,7
+Ed Rutkowski,Buffalo Bills,1968,0,6,3
+Kay Stephenson,Buffalo Bills,1968,4,7,3
+Tom Flores,Buffalo Bills,1968,0,1,1
+Jack Concannon,Chicago Bears,1968,5,9,7
+Virgil Carter,Chicago Bears,1968,4,5,5
+Larry Rakestraw,Chicago Bears,1968,1,7,2
+John Stofa,Cincinnati Bengals,1968,5,5,7
+Dewey Warren,Cincinnati Bengals,1968,1,4,4
+Sam Wyche,Cincinnati Bengals,1968,2,2,3
+Bill Nelsen,Cleveland Browns,1968,19,10,11
+Frank Ryan,Cleveland Browns,1968,7,6,3
+Don Meredith*,Dallas Cowboys,1968,21,12,13
+Craig Morton,Dallas Cowboys,1968,4,6,1
+Marlin Briscoe,Denver Broncos,1968,14,13,5
+Steve Tensi,Denver Broncos,1968,5,8,6
+Jim LeClair,Denver Broncos,1968,1,5,2
+John McCormick,Denver Broncos,1968,0,1,1
+Bill Munson,Detroit Lions,1968,15,8,12
+Greg Landry,Detroit Lions,1968,2,7,2
+Bart Starr,Green Bay Packers,1968,15,8,9
+Zeke Bratkowski,Green Bay Packers,1968,3,7,5
+Earl Morrall*+,Baltimore Colts,1968,26,17,14
+Len Dawson*,Kansas City Chiefs,1968,17,9,13
+Jacky Lee,Kansas City Chiefs,1968,3,1,1
+John Hadl*,San Diego Chargers,1968,27,32,14
+Roman Gabriel*,Los Angeles Rams,1968,19,16,14
+Daryle Lamonica,Oakland Raiders,1968,25,15,13
+George Blanda,Oakland Raiders,1968,6,2,1
+Bob Griese*,Miami Dolphins,1968,21,16,13
+Rick Norton,Miami Dolphins,1968,0,4,1
+Joe Kapp,Minnesota Vikings,1968,10,17,14
+Tom Sherman,Boston Patriots,1968,12,16,7
+Mike Taliaferro,Boston Patriots,1968,4,15,7
+Billy Kilmer,New Orleans Saints,1968,15,17,11
+Karl Sweetan,New Orleans Saints,1968,1,9,3
+Fran Tarkenton*,New York Giants,1968,21,12,14
+Joe Namath*+,New York Jets,1968,15,17,14
+Norm Snead,Philadelphia Eagles,1968,11,21,11
+King Hill,Philadelphia Eagles,1968,3,6,2
+John Huarte,Philadelphia Eagles,1968,1,2,1
+Dick Shiner,Pittsburgh Steelers,1968,18,17,11
+Kent Nix,Pittsburgh Steelers,1968,4,8,3
+John Brodie,San Francisco 49ers,1968,22,21,14
+Pete Beathard,Houston Oilers,1968,7,16,7
+Don Trull,Houston Oilers,1968,10,3,4
+Bob Davis,Houston Oilers,1968,0,6,3
+Sonny Jurgensen,Washington Redskins,1968,17,11,12
+Jim Ninowski,Washington Redskins,1968,4,6,2
+Charley Johnson,St. Louis Cardinals,1969,13,13,9
+Jim Hart,St. Louis Cardinals,1969,6,12,5
+Bob Berry*,Atlanta Falcons,1969,10,2,7
+Randy Johnson,Atlanta Falcons,1969,8,5,5
+Bruce Lemmerman,Atlanta Falcons,1969,1,4,2
+Jack Kemp*,Buffalo Bills,1969,13,22,11
+Dan Darragh,Buffalo Bills,1969,1,6,2
+James Harris,Buffalo Bills,1969,1,1,1
+Jack Concannon,Chicago Bears,1969,4,8,5
+Bobby Douglass,Chicago Bears,1969,5,8,7
+Virgil Carter,Chicago Bears,1969,2,5,2
+Greg Cook,Cincinnati Bengals,1969,15,11,11
+Sam Wyche,Cincinnati Bengals,1969,7,4,3
+Bill Nelsen*,Cleveland Browns,1969,23,19,14
+Craig Morton,Dallas Cowboys,1969,21,15,13
+Roger Staubach,Dallas Cowboys,1969,1,2,1
+Steve Tensi,Denver Broncos,1969,14,12,12
+Pete Liske,Denver Broncos,1969,9,11,2
+Bill Munson,Detroit Lions,1969,7,8,7
+Greg Landry,Detroit Lions,1969,4,10,7
+Don Horn,Green Bay Packers,1969,11,11,5
+Bart Starr,Green Bay Packers,1969,9,6,9
+Johnny Unitas,Baltimore Colts,1969,12,20,12
+Earl Morrall,Baltimore Colts,1969,5,7,2
+Len Dawson*,Kansas City Chiefs,1969,9,13,7
+Mike Livingston*,Kansas City Chiefs,1969,4,6,6
+Jacky Lee,Kansas City Chiefs,1969,1,1,1
+John Hadl*,San Diego Chargers,1969,10,11,10
+Marty Domres,San Diego Chargers,1969,2,10,4
+Roman Gabriel*+,Los Angeles Rams,1969,24,7,14
+Daryle Lamonica*+,Oakland Raiders,1969,34,25,14
+Bob Griese,Miami Dolphins,1969,10,16,9
+Rick Norton,Miami Dolphins,1969,2,11,5
+Joe Kapp*,Minnesota Vikings,1969,19,13,13
+Gary Cuozzo,Minnesota Vikings,1969,4,5,1
+Mike Taliaferro*,Boston Patriots,1969,19,18,14
+Billy Kilmer,New Orleans Saints,1969,20,17,14
+Fran Tarkenton*,New York Giants,1969,23,8,14
+Joe Namath*,New York Jets,1969,19,17,14
+Norm Snead,Philadelphia Eagles,1969,19,23,13
+George Mira,Philadelphia Eagles,1969,1,5,1
+Dick Shiner,Pittsburgh Steelers,1969,7,10,9
+Terry Hanratty,Pittsburgh Steelers,1969,8,13,5
+John Brodie,San Francisco 49ers,1969,16,15,10
+Steve Spurrier,San Francisco 49ers,1969,5,11,4
+Pete Beathard,Houston Oilers,1969,10,21,10
+Don Trull,Houston Oilers,1969,3,6,3
+Bob Davis,Houston Oilers,1969,2,4,1
+Sonny Jurgensen*,Washington Redskins,1969,22,15,14
+Jim Hart,St. Louis Cardinals,1970,14,18,14
+Bob Berry,Atlanta Falcons,1970,16,13,12
+Randy Johnson,Atlanta Falcons,1970,2,8,2
+Dennis Shaw,Buffalo Bills,1970,10,20,12
+Dan Darragh,Buffalo Bills,1970,0,2,2
+Jack Concannon,Chicago Bears,1970,16,18,13
+Bobby Douglass,Chicago Bears,1970,4,3,1
+Virgil Carter,Cincinnati Bengals,1970,9,9,11
+Sam Wyche,Cincinnati Bengals,1970,3,2,3
+Bill Nelsen,Cleveland Browns,1970,16,16,12
+Mike Phipps,Cleveland Browns,1970,1,5,1
+Don Gault,Cleveland Browns,1970,0,3,1
+Craig Morton,Dallas Cowboys,1970,15,7,11
+Roger Staubach,Dallas Cowboys,1970,2,8,3
+Pete Liske,Denver Broncos,1970,7,11,9
+Steve Tensi,Denver Broncos,1970,3,8,2
+Alan Pastrana,Denver Broncos,1970,1,9,3
+Bill Munson,Detroit Lions,1970,10,7,8
+Greg Landry,Detroit Lions,1970,9,5,6
+Bart Starr,Green Bay Packers,1970,8,13,13
+Don Horn,Green Bay Packers,1970,2,10,1
+Johnny Unitas,Baltimore Colts,1970,14,18,13
+Earl Morrall,Baltimore Colts,1970,9,4,1
+Len Dawson,Kansas City Chiefs,1970,13,14,12
+Mike Livingston,Kansas City Chiefs,1970,0,1,2
+John Hadl,San Diego Chargers,1970,22,15,12
+Marty Domres,San Diego Chargers,1970,2,4,2
+Roman Gabriel,Los Angeles Rams,1970,16,12,14
+Daryle Lamonica*,Oakland Raiders,1970,22,15,14
+Bob Griese*,Miami Dolphins,1970,12,17,14
+Gary Cuozzo,Minnesota Vikings,1970,7,10,12
+Bob Lee,Minnesota Vikings,1970,5,5,2
+Joe Kapp,Boston Patriots,1970,3,17,10
+Mike Taliaferro,Boston Patriots,1970,4,11,4
+Billy Kilmer,New Orleans Saints,1970,6,17,10
+Edd Hargett,New Orleans Saints,1970,5,5,4
+Fran Tarkenton*,New York Giants,1970,19,12,14
+Al Woodall,New York Jets,1970,9,9,9
+Joe Namath,New York Jets,1970,5,12,5
+Norm Snead,Philadelphia Eagles,1970,15,20,13
+Rick Arrington,Philadelphia Eagles,1970,1,3,1
+Terry Bradshaw,Pittsburgh Steelers,1970,6,24,8
+Terry Hanratty,Pittsburgh Steelers,1970,5,8,6
+John Brodie*+,San Francisco 49ers,1970,24,10,14
+Charley Johnson,Houston Oilers,1970,7,12,10
+Jerry Rhome,Houston Oilers,1970,5,8,4
+Sonny Jurgensen,Washington Redskins,1970,23,10,14
+Jim Hart,St. Louis Cardinals,1971,8,14,9
+Pete Beathard,St. Louis Cardinals,1971,6,12,5
+Bob Berry,Atlanta Falcons,1971,11,16,10
+Dick Shiner,Atlanta Falcons,1971,5,5,4
+Dennis Shaw,Buffalo Bills,1971,11,26,12
+James Harris,Buffalo Bills,1971,1,6,2
+Bobby Douglass,Chicago Bears,1971,5,15,7
+Kent Nix,Chicago Bears,1971,6,10,4
+Jack Concannon,Chicago Bears,1971,0,3,3
+Virgil Carter,Cincinnati Bengals,1971,10,7,10
+Ken Anderson,Cincinnati Bengals,1971,5,4,4
+Bill Nelsen,Cleveland Browns,1971,13,23,13
+Mike Phipps,Cleveland Browns,1971,1,4,1
+Roger Staubach*,Dallas Cowboys,1971,15,4,10
+Craig Morton,Dallas Cowboys,1971,7,8,4
+Steve Ramsey,Denver Broncos,1971,5,13,5
+Don Horn,Denver Broncos,1971,3,14,9
+Greg Landry*,Detroit Lions,1971,16,13,14
+Scott Hunter,Green Bay Packers,1971,7,17,10
+Bart Starr,Green Bay Packers,1971,0,3,3
+Zeke Bratkowski,Green Bay Packers,1971,4,3,1
+Johnny Unitas,Baltimore Colts,1971,3,9,5
+Earl Morrall,Baltimore Colts,1971,7,12,9
+Len Dawson*,Kansas City Chiefs,1971,15,13,13
+Mike Livingston,Kansas City Chiefs,1971,0,0,1
+John Hadl,San Diego Chargers,1971,21,25,14
+Roman Gabriel,Los Angeles Rams,1971,17,10,14
+Daryle Lamonica,Oakland Raiders,1971,16,16,13
+Ken Stabler,Oakland Raiders,1971,1,4,1
+Bob Griese*+,Miami Dolphins,1971,19,9,13
+George Mira,Miami Dolphins,1971,1,1,1
+Gary Cuozzo,Minnesota Vikings,1971,6,8,8
+Bob Lee,Minnesota Vikings,1971,2,4,4
+Norm Snead,Minnesota Vikings,1971,1,6,2
+Jim Plunkett,New England Patriots,1971,19,16,14
+Edd Hargett,New Orleans Saints,1971,6,5,4
+Archie Manning,New Orleans Saints,1971,6,9,10
+Fran Tarkenton,New York Giants,1971,11,21,13
+Randy Johnson,New York Giants,1971,3,3,1
+Bob Davis,New York Jets,1971,10,8,7
+Al Woodall,New York Jets,1971,0,2,4
+Joe Namath,New York Jets,1971,5,6,3
+Pete Liske,Philadelphia Eagles,1971,11,15,10
+Rick Arrington,Philadelphia Eagles,1971,2,5,4
+Terry Bradshaw,Pittsburgh Steelers,1971,13,22,13
+Terry Hanratty,Pittsburgh Steelers,1971,2,3,1
+John Brodie,San Francisco 49ers,1971,18,24,14
+Dan Pastorini,Houston Oilers,1971,7,21,8
+Charley Johnson,Houston Oilers,1971,3,7,4
+Lynn Dickey,Houston Oilers,1971,0,9,2
+Billy Kilmer,Washington Redskins,1971,13,13,13
+Sonny Jurgensen,Washington Redskins,1971,0,2,1
+Gary Cuozzo,St. Louis Cardinals,1972,5,11,6
+Jim Hart,St. Louis Cardinals,1972,5,5,3
+Tim Van Galder,St. Louis Cardinals,1972,1,7,5
+Bob Berry,Atlanta Falcons,1972,13,12,14
+Dennis Shaw,Buffalo Bills,1972,14,17,13
+Leo Hart,Buffalo Bills,1972,0,3,1
+Bobby Douglass,Chicago Bears,1972,9,12,14
+Ken Anderson,Cincinnati Bengals,1972,7,7,13
+Virgil Carter,Cincinnati Bengals,1972,3,4,1
+Mike Phipps,Cleveland Browns,1972,13,16,13
+Bill Nelsen,Cleveland Browns,1972,0,3,1
+Craig Morton,Dallas Cowboys,1972,15,21,14
+Charley Johnson,Denver Broncos,1972,14,14,9
+Steve Ramsey,Denver Broncos,1972,3,9,5
+Greg Landry,Detroit Lions,1972,18,17,14
+Scott Hunter,Green Bay Packers,1972,6,9,14
+Marty Domres,Baltimore Colts,1972,11,6,9
+Johnny Unitas,Baltimore Colts,1972,4,6,5
+Len Dawson,Kansas City Chiefs,1972,13,12,12
+Mike Livingston,Kansas City Chiefs,1972,7,8,2
+John Hadl*,San Diego Chargers,1972,15,26,14
+Roman Gabriel,Los Angeles Rams,1972,12,15,12
+Pete Beathard,Los Angeles Rams,1972,1,7,2
+Daryle Lamonica*,Oakland Raiders,1972,18,12,13
+Ken Stabler,Oakland Raiders,1972,4,3,1
+Earl Morrall+,Miami Dolphins,1972,11,7,9
+Bob Griese,Miami Dolphins,1972,4,4,5
+Fran Tarkenton,Minnesota Vikings,1972,18,13,14
+Jim Plunkett,New England Patriots,1972,8,25,14
+Archie Manning,New Orleans Saints,1972,18,21,14
+Norm Snead*,New York Giants,1972,17,12,13
+Randy Johnson,New York Giants,1972,3,3,1
+Joe Namath*,New York Jets,1972,19,21,13
+Bob Davis,New York Jets,1972,2,1,1
+John Reaves,Philadelphia Eagles,1972,7,12,7
+Pete Liske,Philadelphia Eagles,1972,3,7,7
+Terry Bradshaw,Pittsburgh Steelers,1972,12,12,14
+Steve Spurrier,San Francisco 49ers,1972,18,16,9
+John Brodie,San Francisco 49ers,1972,9,8,5
+Dan Pastorini,Houston Oilers,1972,7,12,12
+Kent Nix,Houston Oilers,1972,3,6,2
+Billy Kilmer*,Washington Redskins,1972,19,11,10
+Sonny Jurgensen,Washington Redskins,1972,2,4,4
+Jim Hart,St. Louis Cardinals,1973,15,10,12
+Gary Keithley,St. Louis Cardinals,1973,1,5,2
+Bob Lee,Atlanta Falcons,1973,10,8,10
+Dick Shiner,Atlanta Falcons,1973,3,4,4
+Joe Ferguson,Buffalo Bills,1973,4,10,14
+Bobby Douglass,Chicago Bears,1973,5,7,12
+Gary Huff,Chicago Bears,1973,3,8,2
+Ken Anderson,Cincinnati Bengals,1973,18,12,14
+Mike Phipps,Cleveland Browns,1973,9,20,14
+Roger Staubach,Dallas Cowboys,1973,23,15,14
+Charley Johnson,Denver Broncos,1973,20,17,14
+Bill Munson,Detroit Lions,1973,9,8,7
+Greg Landry,Detroit Lions,1973,3,10,7
+Jerry Tagge,Green Bay Packers,1973,2,7,6
+Scott Hunter,Green Bay Packers,1973,2,4,5
+Jim Del Gaizo,Green Bay Packers,1973,2,6,3
+Marty Domres,Baltimore Colts,1973,9,13,9
+Bert Jones,Baltimore Colts,1973,4,12,5
+Mike Livingston,Kansas City Chiefs,1973,6,7,8
+Len Dawson,Kansas City Chiefs,1973,2,5,6
+Dan Fouts,San Diego Chargers,1973,6,13,6
+Wayne Clark,San Diego Chargers,1973,0,9,4
+Johnny Unitas,San Diego Chargers,1973,3,7,4
+John Hadl*+,Los Angeles Rams,1973,22,11,14
+Ken Stabler*,Oakland Raiders,1973,14,10,11
+Daryle Lamonica,Oakland Raiders,1973,2,8,3
+Bob Griese*,Miami Dolphins,1973,17,8,13
+Earl Morrall,Miami Dolphins,1973,0,4,1
+Fran Tarkenton,Minnesota Vikings,1973,15,7,14
+Jim Plunkett,New England Patriots,1973,13,17,14
+Archie Manning,New Orleans Saints,1973,10,12,13
+Bobby Scott,New Orleans Saints,1973,1,3,1
+Norm Snead,New York Giants,1973,7,22,7
+Randy Johnson,New York Giants,1973,7,8,7
+Al Woodall,New York Jets,1973,9,8,6
+Joe Namath,New York Jets,1973,5,6,5
+Bill Demory,New York Jets,1973,2,8,3
+Roman Gabriel*,Philadelphia Eagles,1973,23,12,14
+Terry Bradshaw,Pittsburgh Steelers,1973,10,15,9
+Terry Hanratty,Pittsburgh Steelers,1973,8,5,4
+Joe Gilliam,Pittsburgh Steelers,1973,2,6,1
+John Brodie,San Francisco 49ers,1973,3,12,6
+Steve Spurrier,San Francisco 49ers,1973,4,7,5
+Joe Reed,San Francisco 49ers,1973,2,6,3
+Dan Pastorini,Houston Oilers,1973,5,17,10
+Lynn Dickey,Houston Oilers,1973,6,10,4
+Billy Kilmer,Washington Redskins,1973,14,9,10
+Sonny Jurgensen,Washington Redskins,1973,6,5,4
+Jim Hart*,St. Louis Cardinals,1974,20,8,14
+Bob Lee,Atlanta Falcons,1974,3,14,9
+Pat Sullivan,Atlanta Falcons,1974,1,8,3
+Kim McQuilken,Atlanta Falcons,1974,0,9,2
+Joe Ferguson,Buffalo Bills,1974,12,12,14
+Gary Huff,Chicago Bears,1974,6,17,11
+Bobby Douglass,Chicago Bears,1974,2,4,3
+Ken Anderson,Cincinnati Bengals,1974,18,10,13
+Wayne Clark,Cincinnati Bengals,1974,0,3,1
+Mike Phipps,Cleveland Browns,1974,9,17,9
+Brian Sipe,Cleveland Browns,1974,1,7,5
+Roger Staubach,Dallas Cowboys,1974,11,15,14
+Charley Johnson,Denver Broncos,1974,13,9,12
+Steve Ramsey,Denver Broncos,1974,5,7,2
+Bill Munson,Detroit Lions,1974,8,7,11
+Greg Landry,Detroit Lions,1974,3,3,3
+John Hadl,Green Bay Packers,1974,3,8,6
+Jerry Tagge,Green Bay Packers,1974,1,10,6
+Jack Concannon,Green Bay Packers,1974,1,3,2
+Bert Jones,Baltimore Colts,1974,8,12,8
+Marty Domres,Baltimore Colts,1974,0,12,6
+Len Dawson,Kansas City Chiefs,1974,7,13,8
+Mike Livingston,Kansas City Chiefs,1974,4,10,6
+Dan Fouts,San Diego Chargers,1974,8,13,11
+Jesse Freitas,San Diego Chargers,1974,3,8,3
+James Harris*,Los Angeles Rams,1974,11,6,9
+John Hadl,Los Angeles Rams,1974,5,6,5
+Ken Stabler*+,Oakland Raiders,1974,26,12,13
+Larry Lawrence,Oakland Raiders,1974,0,1,1
+Bob Griese*,Miami Dolphins,1974,16,15,13
+Earl Morrall,Miami Dolphins,1974,2,3,1
+Fran Tarkenton*,Minnesota Vikings,1974,17,12,13
+Bob Berry,Minnesota Vikings,1974,5,1,1
+Jim Plunkett,New England Patriots,1974,19,22,14
+Archie Manning,New Orleans Saints,1974,6,16,11
+Bobby Scott,New Orleans Saints,1974,4,4,1
+Larry Cipa,New Orleans Saints,1974,0,0,2
+Craig Morton,New York Giants,1974,9,13,7
+Norm Snead,New York Giants,1974,3,7,4
+Jim Del Gaizo,New York Giants,1974,0,3,3
+Joe Namath,New York Jets,1974,20,22,14
+Roman Gabriel,Philadelphia Eagles,1974,9,12,11
+Mike Boryla,Philadelphia Eagles,1974,5,3,3
+Joe Gilliam,Pittsburgh Steelers,1974,4,8,6
+Terry Bradshaw,Pittsburgh Steelers,1974,7,8,7
+Terry Hanratty,Pittsburgh Steelers,1974,1,5,1
+Tom Owen,San Francisco 49ers,1974,10,15,7
+Joe Reed,San Francisco 49ers,1974,2,7,4
+Dennis Morrison,San Francisco 49ers,1974,1,5,2
+Norm Snead,San Francisco 49ers,1974,2,1,1
+Dan Pastorini,Houston Oilers,1974,10,10,10
+Lynn Dickey,Houston Oilers,1974,2,8,4
+Billy Kilmer,Washington Redskins,1974,10,6,10
+Sonny Jurgensen,Washington Redskins,1974,11,5,4
+Jim Hart*,St. Louis Cardinals,1975,19,19,14
+Steve Bartkowski,Atlanta Falcons,1975,13,15,11
+Pat Sullivan,Atlanta Falcons,1975,3,5,1
+Kim McQuilken,Atlanta Falcons,1975,1,9,2
+Joe Ferguson,Buffalo Bills,1975,25,17,14
+Gary Huff,Chicago Bears,1975,3,9,9
+Bob Avellini,Chicago Bears,1975,6,11,4
+Bobby Douglass,Chicago Bears,1975,0,2,1
+Ken Anderson*,Cincinnati Bengals,1975,21,11,13
+John Reaves,Cincinnati Bengals,1975,2,3,1
+Mike Phipps,Cleveland Browns,1975,4,19,11
+Brian Sipe,Cleveland Browns,1975,1,3,2
+Will Cureton,Cleveland Browns,1975,1,1,1
+Roger Staubach*,Dallas Cowboys,1975,17,16,13
+Clint Longley,Dallas Cowboys,1975,1,1,1
+Steve Ramsey,Denver Broncos,1975,9,14,7
+Charley Johnson,Denver Broncos,1975,5,12,6
+John Hufnagel,Denver Broncos,1975,1,8,1
+Joe Reed,Detroit Lions,1975,9,10,8
+Bill Munson,Detroit Lions,1975,5,2,3
+Greg Landry,Detroit Lions,1975,1,0,3
+John Hadl,Green Bay Packers,1975,6,21,13
+Don Milan,Green Bay Packers,1975,1,1,1
+Bert Jones,Baltimore Colts,1975,18,8,14
+Mike Livingston,Kansas City Chiefs,1975,8,6,7
+Len Dawson,Kansas City Chiefs,1975,5,4,5
+Tony Adams,Kansas City Chiefs,1975,2,4,2
+Dan Fouts,San Diego Chargers,1975,2,10,9
+Jesse Freitas,San Diego Chargers,1975,5,5,4
+Virgil Carter,San Diego Chargers,1975,0,1,1
+James Harris,Los Angeles Rams,1975,14,15,13
+Ron Jaworski,Los Angeles Rams,1975,0,2,1
+Ken Stabler,Oakland Raiders,1975,16,24,13
+Larry Lawrence,Oakland Raiders,1975,0,1,1
+Bob Griese,Miami Dolphins,1975,14,13,10
+Don Strock,Miami Dolphins,1975,2,2,3
+Earl Morrall,Miami Dolphins,1975,3,2,1
+Fran Tarkenton*+,Minnesota Vikings,1975,25,13,14
+Steve Grogan,New England Patriots,1975,11,18,7
+Jim Plunkett,New England Patriots,1975,3,7,5
+Neil Graff,New England Patriots,1975,2,3,2
+Archie Manning,New Orleans Saints,1975,7,20,13
+Larry Cipa,New Orleans Saints,1975,1,3,1
+Craig Morton,New York Giants,1975,11,16,14
+Joe Namath,New York Jets,1975,15,28,13
+J.J. Jones,New York Jets,1975,1,5,1
+Roman Gabriel,Philadelphia Eagles,1975,13,11,9
+Mike Boryla*,Philadelphia Eagles,1975,6,12,5
+Terry Bradshaw*,Pittsburgh Steelers,1975,18,9,14
+Steve Spurrier,San Francisco 49ers,1975,5,7,6
+Norm Snead,San Francisco 49ers,1975,9,10,7
+Tom Owen,San Francisco 49ers,1975,1,2,1
+Dan Pastorini*,Houston Oilers,1975,14,16,14
+Billy Kilmer,Washington Redskins,1975,23,16,12
+Randy Johnson,Washington Redskins,1975,4,10,2
+Jim Hart*,St. Louis Cardinals,1976,18,13,14
+Kim McQuilken,Atlanta Falcons,1976,2,10,3
+Steve Bartkowski,Atlanta Falcons,1976,2,9,5
+Scott Hunter,Atlanta Falcons,1976,5,4,6
+Gary Marangi,Buffalo Bills,1976,7,16,7
+Joe Ferguson,Buffalo Bills,1976,9,1,7
+Bob Avellini,Chicago Bears,1976,8,15,14
+Ken Anderson*,Cincinnati Bengals,1976,19,14,14
+Brian Sipe,Cleveland Browns,1976,17,14,12
+Mike Phipps,Cleveland Browns,1976,3,0,2
+Roger Staubach*,Dallas Cowboys,1976,14,11,14
+Steve Ramsey,Denver Broncos,1976,11,13,12
+Craig Penrose,Denver Broncos,1976,3,3,2
+Greg Landry,Detroit Lions,1976,17,8,12
+Joe Reed,Detroit Lions,1976,3,3,2
+Lynn Dickey,Green Bay Packers,1976,7,14,10
+Carlos Brown,Green Bay Packers,1976,2,6,3
+Randy Johnson,Green Bay Packers,1976,0,1,1
+Bert Jones*+,Baltimore Colts,1976,24,9,14
+Mike Livingston,Kansas City Chiefs,1976,12,13,14
+Dan Fouts,San Diego Chargers,1976,14,15,13
+Clint Longley,San Diego Chargers,1976,2,3,1
+James Harris,Los Angeles Rams,1976,8,6,5
+Pat Haden,Los Angeles Rams,1976,8,4,7
+Ron Jaworski,Los Angeles Rams,1976,1,5,2
+Ken Stabler*,Oakland Raiders,1976,27,17,12
+Mike Rae,Oakland Raiders,1976,6,1,2
+Bob Griese,Miami Dolphins,1976,11,12,13
+Don Strock,Miami Dolphins,1976,3,2,1
+Fran Tarkenton*,Minnesota Vikings,1976,17,8,13
+Bob Lee,Minnesota Vikings,1976,0,2,1
+Steve Grogan,New England Patriots,1976,18,20,14
+Bobby Douglass,New Orleans Saints,1976,4,8,6
+Bobby Scott,New Orleans Saints,1976,4,6,8
+Craig Morton,New York Giants,1976,9,20,12
+Norm Snead,New York Giants,1976,0,4,2
+Joe Namath,New York Jets,1976,4,16,8
+Richard Todd,New York Jets,1976,3,12,6
+Mike Boryla,Philadelphia Eagles,1976,9,14,10
+Roman Gabriel,Philadelphia Eagles,1976,2,2,4
+Terry Bradshaw,Pittsburgh Steelers,1976,10,9,8
+Mike Kruczek,Pittsburgh Steelers,1976,0,3,6
+Jim Zorn,Seattle Seahawks,1976,12,27,14
+Jim Plunkett,San Francisco 49ers,1976,13,16,12
+Scott Bull,San Francisco 49ers,1976,2,4,2
+Steve Spurrier,Tampa Bay Buccaneers,1976,7,12,12
+Parnell Dickinson,Tampa Bay Buccaneers,1976,1,5,1
+Terry Hanratty,Tampa Bay Buccaneers,1976,0,1,1
+Dan Pastorini,Houston Oilers,1976,10,10,10
+John Hadl,Houston Oilers,1976,7,8,4
+Billy Kilmer,Washington Redskins,1976,12,10,9
+Joe Theismann,Washington Redskins,1976,8,10,5
+Jim Hart*,St. Louis Cardinals,1977,13,20,14
+Scott Hunter,Atlanta Falcons,1977,2,3,7
+Steve Bartkowski,Atlanta Falcons,1977,5,13,7
+Joe Ferguson,Buffalo Bills,1977,12,24,14
+Bob Avellini,Chicago Bears,1977,11,18,14
+Ken Anderson,Cincinnati Bengals,1977,11,11,13
+John Reaves,Cincinnati Bengals,1977,0,5,1
+Brian Sipe,Cleveland Browns,1977,9,14,9
+Dave Mays,Cleveland Browns,1977,6,10,4
+Terry Luck,Cleveland Browns,1977,1,7,1
+Roger Staubach*,Dallas Cowboys,1977,18,9,14
+Craig Morton,Denver Broncos,1977,14,8,14
+Greg Landry,Detroit Lions,1977,6,7,11
+Gary Danielson,Detroit Lions,1977,1,5,2
+Joe Reed,Detroit Lions,1977,0,4,1
+Lynn Dickey,Green Bay Packers,1977,5,14,9
+David Whitehurst,Green Bay Packers,1977,1,7,5
+Bert Jones,Baltimore Colts,1977,17,11,14
+Mike Livingston,Kansas City Chiefs,1977,9,15,11
+Tony Adams,Kansas City Chiefs,1977,2,11,3
+James Harris,San Diego Chargers,1977,5,11,9
+Dan Fouts,San Diego Chargers,1977,4,6,4
+Cliff Olander,San Diego Chargers,1977,0,2,1
+Pat Haden*,Los Angeles Rams,1977,11,6,10
+Joe Namath,Los Angeles Rams,1977,3,5,4
+Ken Stabler*,Oakland Raiders,1977,20,20,13
+Mike Rae,Oakland Raiders,1977,1,4,1
+Bob Griese*+,Miami Dolphins,1977,22,13,14
+Fran Tarkenton,Minnesota Vikings,1977,9,14,9
+Bob Lee,Minnesota Vikings,1977,4,4,4
+Tommy Kramer,Minnesota Vikings,1977,5,4,1
+Steve Grogan,New England Patriots,1977,17,21,14
+Archie Manning,New Orleans Saints,1977,8,9,9
+Bobby Scott,New Orleans Saints,1977,3,8,3
+Bobby Douglass,New Orleans Saints,1977,1,3,2
+Joe Pisarcik,New York Giants,1977,4,14,11
+Jerry Golsteyn,New York Giants,1977,2,8,3
+Richard Todd,New York Jets,1977,11,17,11
+Matt Robinson,New York Jets,1977,2,8,1
+Marty Domres,New York Jets,1977,1,1,2
+Ron Jaworski,Philadelphia Eagles,1977,18,21,14
+Terry Bradshaw,Pittsburgh Steelers,1977,17,19,14
+Jim Zorn,Seattle Seahawks,1977,16,19,10
+Steve Myer,Seattle Seahawks,1977,6,12,4
+Jim Plunkett,San Francisco 49ers,1977,9,14,14
+Gary Huff,Tampa Bay Buccaneers,1977,3,13,6
+Randy Hedberg,Tampa Bay Buccaneers,1977,0,10,4
+Jeb Blount,Tampa Bay Buccaneers,1977,0,7,4
+Dan Pastorini,Houston Oilers,1977,13,18,12
+John Hadl,Houston Oilers,1977,0,3,2
+Billy Kilmer,Washington Redskins,1977,8,7,8
+Joe Theismann,Washington Redskins,1977,7,9,6
+Jim Hart,St. Louis Cardinals,1978,16,18,15
+Steve Pisarkiewicz,St. Louis Cardinals,1978,0,3,1
+Steve Bartkowski,Atlanta Falcons,1978,10,18,13
+June Jones,Atlanta Falcons,1978,1,4,3
+Joe Ferguson,Buffalo Bills,1978,16,15,16
+Bob Avellini,Chicago Bears,1978,5,16,12
+Mike Phipps,Chicago Bears,1978,2,10,4
+Ken Anderson,Cincinnati Bengals,1978,10,22,12
+John Reaves,Cincinnati Bengals,1978,3,8,4
+Brian Sipe,Cleveland Browns,1978,21,15,16
+Roger Staubach*,Dallas Cowboys,1978,25,16,15
+Craig Morton,Denver Broncos,1978,11,8,13
+Norris Weese,Denver Broncos,1978,4,5,1
+Craig Penrose,Denver Broncos,1978,2,4,2
+Gary Danielson,Detroit Lions,1978,18,17,11
+Greg Landry,Detroit Lions,1978,1,1,5
+David Whitehurst,Green Bay Packers,1978,10,17,16
+Bill Troup,Baltimore Colts,1978,10,21,11
+Bert Jones,Baltimore Colts,1978,4,1,3
+Mike Kirkland,Baltimore Colts,1978,1,8,2
+Mike Livingston,Kansas City Chiefs,1978,5,13,14
+Tony Adams,Kansas City Chiefs,1978,2,3,2
+Dan Fouts,San Diego Chargers,1978,24,20,14
+James Harris,San Diego Chargers,1978,2,9,2
+Pat Haden,Los Angeles Rams,1978,13,19,16
+Ken Stabler,Oakland Raiders,1978,16,30,16
+Bob Griese*,Miami Dolphins,1978,11,11,9
+Don Strock,Miami Dolphins,1978,12,6,7
+Fran Tarkenton,Minnesota Vikings,1978,25,32,16
+Steve Grogan,New England Patriots,1978,15,23,16
+Archie Manning*,New Orleans Saints,1978,17,16,16
+Joe Pisarcik,New York Giants,1978,12,23,12
+Jerry Golsteyn,New York Giants,1978,0,1,2
+Randy Dean,New York Giants,1978,1,3,2
+Matt Robinson,New York Jets,1978,13,16,11
+Richard Todd,New York Jets,1978,6,10,5
+Ron Jaworski,Philadelphia Eagles,1978,16,16,16
+Terry Bradshaw*+,Pittsburgh Steelers,1978,28,20,16
+Jim Zorn,Seattle Seahawks,1978,15,20,16
+Steve DeBerg,San Francisco 49ers,1978,8,22,11
+Scott Bull,San Francisco 49ers,1978,1,11,5
+Doug Williams,Tampa Bay Buccaneers,1978,7,8,10
+Mike Rae,Tampa Bay Buccaneers,1978,4,7,5
+Mike Boryla,Tampa Bay Buccaneers,1978,0,0,1
+Dan Pastorini,Houston Oilers,1978,16,17,16
+Joe Theismann,Washington Redskins,1978,13,18,14
+Billy Kilmer,Washington Redskins,1978,4,3,2
+Jim Hart,St. Louis Cardinals,1979,9,20,13
+Steve Pisarkiewicz,St. Louis Cardinals,1979,3,4,3
+Steve Bartkowski,Atlanta Falcons,1979,17,20,14
+June Jones,Atlanta Falcons,1979,2,3,2
+Joe Ferguson,Buffalo Bills,1979,14,15,16
+Mike Phipps,Chicago Bears,1979,9,8,10
+Vince Evans,Chicago Bears,1979,4,5,3
+Bob Avellini,Chicago Bears,1979,2,3,3
+Ken Anderson,Cincinnati Bengals,1979,16,10,15
+Jack Thompson,Cincinnati Bengals,1979,1,5,1
+Brian Sipe,Cleveland Browns,1979,28,26,16
+Roger Staubach*,Dallas Cowboys,1979,27,11,16
+Craig Morton,Denver Broncos,1979,16,19,10
+Norris Weese,Denver Broncos,1979,1,3,6
+Jeff Komlo,Detroit Lions,1979,11,23,14
+Joe Reed,Detroit Lions,1979,2,1,1
+Jerry Golsteyn,Detroit Lions,1979,0,2,1
+David Whitehurst,Green Bay Packers,1979,10,18,13
+Lynn Dickey,Green Bay Packers,1979,5,4,3
+Greg Landry,Baltimore Colts,1979,15,15,12
+Bert Jones,Baltimore Colts,1979,3,3,4
+Steve Fuller,Kansas City Chiefs,1979,6,14,12
+Mike Livingston,Kansas City Chiefs,1979,1,4,4
+Dan Fouts*+,San Diego Chargers,1979,24,24,16
+Pat Haden,Los Angeles Rams,1979,11,14,10
+Vince Ferragamo,Los Angeles Rams,1979,5,10,5
+Jeff Rutledge,Los Angeles Rams,1979,1,4,1
+Ken Stabler,Oakland Raiders,1979,26,22,16
+Bob Griese,Miami Dolphins,1979,14,16,12
+Don Strock,Miami Dolphins,1979,6,6,4
+Tommy Kramer,Minnesota Vikings,1979,23,24,16
+Steve Grogan,New England Patriots,1979,28,20,16
+Archie Manning*,New Orleans Saints,1979,15,20,16
+Phil Simms,New York Giants,1979,13,14,11
+Joe Pisarcik,New York Giants,1979,2,6,4
+Randy Dean,New York Giants,1979,0,2,1
+Richard Todd,New York Jets,1979,16,22,15
+Matt Robinson,New York Jets,1979,0,2,1
+Ron Jaworski,Philadelphia Eagles,1979,18,12,16
+Terry Bradshaw*,Pittsburgh Steelers,1979,26,25,16
+Jim Zorn,Seattle Seahawks,1979,20,18,16
+Steve DeBerg,San Francisco 49ers,1979,17,21,15
+Joe Montana,San Francisco 49ers,1979,1,0,1
+Doug Williams,Tampa Bay Buccaneers,1979,18,24,16
+Dan Pastorini,Houston Oilers,1979,14,18,15
+Gifford Nielsen,Houston Oilers,1979,3,3,1
+Joe Theismann,Washington Redskins,1979,20,13,16
+Jim Hart,St. Louis Cardinals,1980,16,20,15
+Mike Loyd,St. Louis Cardinals,1980,0,1,1
+Steve Bartkowski*,Atlanta Falcons,1980,31,16,16
+Joe Ferguson,Buffalo Bills,1980,20,18,16
+Vince Evans,Chicago Bears,1980,11,16,10
+Mike Phipps,Chicago Bears,1980,2,9,6
+Ken Anderson,Cincinnati Bengals,1980,6,13,12
+Jack Thompson,Cincinnati Bengals,1980,11,12,4
+Brian Sipe*+,Cleveland Browns,1980,30,14,16
+Danny White,Dallas Cowboys,1980,28,25,16
+Craig Morton,Denver Broncos,1980,12,13,9
+Matt Robinson,Denver Broncos,1980,2,12,7
+Gary Danielson,Detroit Lions,1980,13,11,16
+Lynn Dickey,Green Bay Packers,1980,15,25,16
+Bert Jones,Baltimore Colts,1980,23,21,15
+Greg Landry,Baltimore Colts,1980,2,3,1
+Steve Fuller,Kansas City Chiefs,1980,10,12,13
+Bill Kenney,Kansas City Chiefs,1980,5,2,3
+Dan Fouts*,San Diego Chargers,1980,30,24,16
+Vince Ferragamo,Los Angeles Rams,1980,30,19,15
+Pat Haden,Los Angeles Rams,1980,0,4,1
+Jim Plunkett,Oakland Raiders,1980,18,16,11
+Dan Pastorini,Oakland Raiders,1980,5,8,5
+David Woodley,Miami Dolphins,1980,14,17,11
+Bob Griese,Miami Dolphins,1980,6,4,3
+Don Strock,Miami Dolphins,1980,1,5,2
+Tommy Kramer,Minnesota Vikings,1980,19,23,15
+Steve Dils,Minnesota Vikings,1980,3,0,1
+Steve Grogan,New England Patriots,1980,18,22,12
+Matt Cavanaugh,New England Patriots,1980,9,5,4
+Archie Manning,New Orleans Saints,1980,23,20,16
+Phil Simms,New York Giants,1980,15,19,13
+Scott Brunner,New York Giants,1980,4,6,3
+Richard Todd,New York Jets,1980,17,30,16
+Ron Jaworski*,Philadelphia Eagles,1980,27,12,16
+Terry Bradshaw,Pittsburgh Steelers,1980,24,22,15
+Cliff Stoudt,Pittsburgh Steelers,1980,2,2,1
+Jim Zorn,Seattle Seahawks,1980,17,20,16
+Steve DeBerg,San Francisco 49ers,1980,12,17,9
+Joe Montana,San Francisco 49ers,1980,15,9,7
+Doug Williams,Tampa Bay Buccaneers,1980,20,16,16
+Ken Stabler,Houston Oilers,1980,13,28,16
+Joe Theismann,Washington Redskins,1980,17,16,15
+Mike Kruczek,Washington Redskins,1980,0,2,1
+Jim Hart,St. Louis Cardinals,1981,11,14,9
+Neil Lomax,St. Louis Cardinals,1981,4,10,7
+Steve Bartkowski*,Atlanta Falcons,1981,30,23,16
+Joe Ferguson,Buffalo Bills,1981,24,20,16
+Vince Evans,Chicago Bears,1981,11,20,16
+Ken Anderson*+,Cincinnati Bengals,1981,29,10,16
+Brian Sipe,Cleveland Browns,1981,17,25,16
+Danny White,Dallas Cowboys,1981,22,13,15
+Glenn Carano,Dallas Cowboys,1981,1,1,1
+Craig Morton,Denver Broncos,1981,21,14,15
+Steve DeBerg,Denver Broncos,1981,6,6,1
+Eric Hipple,Detroit Lions,1981,14,15,10
+Gary Danielson,Detroit Lions,1981,3,5,4
+Jeff Komlo,Detroit Lions,1981,1,3,2
+Lynn Dickey,Green Bay Packers,1981,17,15,13
+David Whitehurst,Green Bay Packers,1981,7,5,3
+Bert Jones,Baltimore Colts,1981,21,20,15
+David Humm,Baltimore Colts,1981,0,2,1
+Bill Kenney,Kansas City Chiefs,1981,9,16,13
+Steve Fuller,Kansas City Chiefs,1981,3,4,3
+Dan Fouts*,San Diego Chargers,1981,33,17,16
+Pat Haden,Los Angeles Rams,1981,9,13,11
+Dan Pastorini,Los Angeles Rams,1981,2,14,5
+Marc Wilson,Oakland Raiders,1981,14,19,9
+Jim Plunkett,Oakland Raiders,1981,4,9,7
+David Woodley,Miami Dolphins,1981,12,13,15
+Don Strock,Miami Dolphins,1981,6,8,1
+Tommy Kramer,Minnesota Vikings,1981,26,24,14
+Steve Dils,Minnesota Vikings,1981,1,2,2
+Matt Cavanaugh,New England Patriots,1981,5,13,8
+Steve Grogan,New England Patriots,1981,7,16,7
+Tom Owen,New England Patriots,1981,1,4,1
+Archie Manning,New Orleans Saints,1981,5,11,11
+Dave Wilson,New Orleans Saints,1981,1,11,4
+Bobby Scott,New Orleans Saints,1981,1,5,1
+Phil Simms,New York Giants,1981,11,9,10
+Scott Brunner,New York Giants,1981,5,11,6
+Richard Todd,New York Jets,1981,25,13,16
+Ron Jaworski,Philadelphia Eagles,1981,23,20,16
+Terry Bradshaw,Pittsburgh Steelers,1981,22,14,14
+Mark Malone,Pittsburgh Steelers,1981,3,5,3
+Jim Zorn,Seattle Seahawks,1981,13,9,13
+Dave Krieg,Seattle Seahawks,1981,7,5,3
+Joe Montana*,San Francisco 49ers,1981,19,12,16
+Doug Williams,Tampa Bay Buccaneers,1981,19,14,16
+Ken Stabler,Houston Oilers,1981,14,18,12
+Gifford Nielsen,Houston Oilers,1981,5,3,2
+John Reaves,Houston Oilers,1981,2,2,2
+Joe Theismann,Washington Redskins,1981,19,20,16
+Neil Lomax,St. Louis Cardinals,1982,5,6,9
+Steve Bartkowski,Atlanta Falcons,1982,8,11,9
+Joe Ferguson,Buffalo Bills,1982,7,16,9
+Jim McMahon,Chicago Bears,1982,9,7,7
+Bob Avellini,Chicago Bears,1982,0,0,2
+Ken Anderson*,Cincinnati Bengals,1982,12,9,9
+Brian Sipe,Cleveland Browns,1982,4,8,6
+Paul McDonald,Cleveland Browns,1982,5,8,3
+Danny White*,Dallas Cowboys,1982,16,12,9
+Steve DeBerg,Denver Broncos,1982,7,11,5
+Mark Herrmann,Denver Broncos,1982,1,4,1
+Craig Morton,Denver Broncos,1982,0,3,3
+Gary Danielson,Detroit Lions,1982,10,14,5
+Eric Hipple,Detroit Lions,1982,2,4,4
+Lynn Dickey,Green Bay Packers,1982,12,14,9
+Mike Pagel,Baltimore Colts,1982,5,7,9
+Bill Kenney,Kansas City Chiefs,1982,7,6,6
+Steve Fuller,Kansas City Chiefs,1982,3,2,3
+Dan Fouts*+,San Diego Chargers,1982,17,11,9
+Vince Ferragamo,Los Angeles Rams,1982,9,9,5
+Bert Jones,Los Angeles Rams,1982,2,4,4
+Jim Plunkett,Los Angeles Raiders,1982,14,15,9
+David Woodley,Miami Dolphins,1982,5,8,9
+Tommy Kramer,Minnesota Vikings,1982,15,12,9
+Steve Grogan,New England Patriots,1982,7,4,6
+Matt Cavanaugh,New England Patriots,1982,5,5,3
+Ken Stabler,New Orleans Saints,1982,6,10,8
+Guido Merkens,New Orleans Saints,1982,1,2,1
+Scott Brunner,New York Giants,1982,10,9,9
+Richard Todd,New York Jets,1982,14,8,9
+Ron Jaworski,Philadelphia Eagles,1982,12,12,9
+Terry Bradshaw,Pittsburgh Steelers,1982,17,11,9
+Jim Zorn,Seattle Seahawks,1982,7,11,7
+Dave Krieg,Seattle Seahawks,1982,2,2,2
+Joe Montana,San Francisco 49ers,1982,17,11,9
+Doug Williams,Tampa Bay Buccaneers,1982,9,11,9
+Gifford Nielsen,Houston Oilers,1982,6,8,4
+Archie Manning,Houston Oilers,1982,6,6,5
+Joe Theismann*,Washington Redskins,1982,13,9,9
+Neil Lomax,St. Louis Cardinals,1983,24,11,13
+Jim Hart,St. Louis Cardinals,1983,4,8,3
+Steve Bartkowski,Atlanta Falcons,1983,22,5,14
+Mike Moroski,Atlanta Falcons,1983,2,4,2
+Joe Ferguson,Buffalo Bills,1983,26,25,16
+Jim McMahon,Chicago Bears,1983,12,13,13
+Vince Evans,Chicago Bears,1983,5,7,3
+Ken Anderson,Cincinnati Bengals,1983,12,13,13
+Turk Schonert,Cincinnati Bengals,1983,2,5,3
+Brian Sipe,Cleveland Browns,1983,26,23,14
+Paul McDonald,Cleveland Browns,1983,1,4,2
+Danny White,Dallas Cowboys,1983,29,23,16
+John Elway,Denver Broncos,1983,7,14,10
+Steve DeBerg,Denver Broncos,1983,9,7,5
+Gary Kubiak,Denver Broncos,1983,1,1,1
+Eric Hipple,Detroit Lions,1983,12,18,16
+Lynn Dickey,Green Bay Packers,1983,32,29,16
+Mike Pagel,Baltimore Colts,1983,12,17,15
+Mark Herrmann,Baltimore Colts,1983,0,3,1
+Bill Kenney*,Kansas City Chiefs,1983,24,18,16
+Dan Fouts*,San Diego Chargers,1983,20,15,10
+Ed Luther,San Diego Chargers,1983,7,17,6
+Vince Ferragamo,Los Angeles Rams,1983,22,23,16
+Jim Plunkett,Los Angeles Raiders,1983,20,18,13
+Marc Wilson,Los Angeles Raiders,1983,8,6,3
+Dan Marino*,Miami Dolphins,1983,20,6,9
+David Woodley,Miami Dolphins,1983,3,4,5
+Don Strock,Miami Dolphins,1983,4,1,2
+Steve Dils,Minnesota Vikings,1983,11,16,12
+Tommy Kramer,Minnesota Vikings,1983,3,4,3
+Wade Wilson,Minnesota Vikings,1983,1,2,1
+Steve Grogan,New England Patriots,1983,15,12,12
+Tony Eason,New England Patriots,1983,1,5,4
+Ken Stabler,New Orleans Saints,1983,9,18,14
+Dave Wilson,New Orleans Saints,1983,5,7,2
+Scott Brunner,New York Giants,1983,9,22,12
+Jeff Rutledge,New York Giants,1983,3,8,4
+Richard Todd,New York Jets,1983,18,26,16
+Ron Jaworski,Philadelphia Eagles,1983,20,18,16
+Cliff Stoudt,Pittsburgh Steelers,1983,12,21,15
+Terry Bradshaw,Pittsburgh Steelers,1983,2,0,1
+Dave Krieg,Seattle Seahawks,1983,18,11,8
+Jim Zorn,Seattle Seahawks,1983,7,7,8
+Joe Montana*,San Francisco 49ers,1983,26,12,16
+Jack Thompson,Tampa Bay Buccaneers,1983,18,21,13
+Jerry Golsteyn,Tampa Bay Buccaneers,1983,0,2,3
+Oliver Luck,Houston Oilers,1983,8,13,6
+Gifford Nielsen,Houston Oilers,1983,5,8,7
+Archie Manning,Houston Oilers,1983,2,8,3
+Joe Theismann*+,Washington Redskins,1983,29,11,16
+Neil Lomax*,St. Louis Cardinals,1984,28,16,16
+Steve Bartkowski,Atlanta Falcons,1984,11,10,11
+Mike Moroski,Atlanta Falcons,1984,2,9,5
+Joe Ferguson,Buffalo Bills,1984,12,17,11
+Joe Dufek,Buffalo Bills,1984,4,8,5
+Jim McMahon,Chicago Bears,1984,8,2,9
+Rusty Lisch,Chicago Bears,1984,0,6,1
+Steve Fuller,Chicago Bears,1984,3,0,4
+Bob Avellini,Chicago Bears,1984,0,3,1
+Greg Landry,Chicago Bears,1984,1,3,1
+Ken Anderson,Cincinnati Bengals,1984,10,12,9
+Turk Schonert,Cincinnati Bengals,1984,4,7,3
+Boomer Esiason,Cincinnati Bengals,1984,3,3,4
+Paul McDonald,Cleveland Browns,1984,14,23,16
+Gary Hogeboom,Dallas Cowboys,1984,7,14,10
+Danny White,Dallas Cowboys,1984,11,11,6
+John Elway,Denver Broncos,1984,18,15,14
+Gary Kubiak,Denver Broncos,1984,4,1,2
+Gary Danielson,Detroit Lions,1984,17,15,14
+Eric Hipple,Detroit Lions,1984,1,1,1
+John Witkowski,Detroit Lions,1984,0,0,1
+Lynn Dickey,Green Bay Packers,1984,25,19,15
+Randy Wright,Green Bay Packers,1984,2,6,1
+Mike Pagel,Indianapolis Colts,1984,8,8,9
+Art Schlichter,Indianapolis Colts,1984,3,7,5
+Mark Herrmann,Indianapolis Colts,1984,1,6,2
+Todd Blackledge,Kansas City Chiefs,1984,6,11,8
+Bill Kenney,Kansas City Chiefs,1984,15,10,8
+Dan Fouts,San Diego Chargers,1984,19,17,13
+Ed Luther,San Diego Chargers,1984,5,3,3
+Jeff Kemp,Los Angeles Rams,1984,13,7,13
+Vince Ferragamo,Los Angeles Rams,1984,2,8,3
+Marc Wilson,Los Angeles Raiders,1984,15,17,10
+Jim Plunkett,Los Angeles Raiders,1984,6,10,6
+Dan Marino*+,Miami Dolphins,1984,48,17,16
+Tommy Kramer,Minnesota Vikings,1984,9,10,9
+Wade Wilson,Minnesota Vikings,1984,5,11,5
+Archie Manning,Minnesota Vikings,1984,2,3,2
+Tony Eason,New England Patriots,1984,23,8,13
+Steve Grogan,New England Patriots,1984,3,6,3
+Richard Todd,New Orleans Saints,1984,11,19,14
+Dave Wilson,New Orleans Saints,1984,7,4,2
+Phil Simms,New York Giants,1984,22,18,16
+Pat Ryan,New York Jets,1984,14,14,11
+Ken O'Brien,New York Jets,1984,6,7,5
+Ron Jaworski,Philadelphia Eagles,1984,16,14,13
+Joe Pisarcik,Philadelphia Eagles,1984,3,3,3
+Mark Malone,Pittsburgh Steelers,1984,16,17,9
+David Woodley,Pittsburgh Steelers,1984,8,7,7
+Dave Krieg*,Seattle Seahawks,1984,32,24,16
+Joe Montana*,San Francisco 49ers,1984,28,10,15
+Matt Cavanaugh,San Francisco 49ers,1984,4,0,1
+Steve DeBerg,Tampa Bay Buccaneers,1984,19,18,13
+Jack Thompson,Tampa Bay Buccaneers,1984,2,5,3
+Warren Moon,Houston Oilers,1984,12,14,16
+Joe Theismann,Washington Redskins,1984,24,13,16
+Neil Lomax,St. Louis Cardinals,1985,18,12,16
+David Archer,Atlanta Falcons,1985,7,17,11
+Steve Bartkowski,Atlanta Falcons,1985,5,1,5
+Vince Ferragamo,Buffalo Bills,1985,5,17,9
+Bruce Mathison,Buffalo Bills,1985,4,14,7
+Jim McMahon*,Chicago Bears,1985,15,11,11
+Steve Fuller,Chicago Bears,1985,1,5,5
+Boomer Esiason,Cincinnati Bengals,1985,27,12,14
+Ken Anderson,Cincinnati Bengals,1985,2,0,2
+Bernie Kosar,Cleveland Browns,1985,8,7,10
+Gary Danielson,Cleveland Browns,1985,8,6,6
+Danny White,Dallas Cowboys,1985,21,17,14
+Gary Hogeboom,Dallas Cowboys,1985,5,7,2
+John Elway,Denver Broncos,1985,22,23,16
+Eric Hipple,Detroit Lions,1985,17,18,15
+Joe Ferguson,Detroit Lions,1985,2,3,1
+Lynn Dickey,Green Bay Packers,1985,15,17,10
+Jim Zorn,Green Bay Packers,1985,4,6,5
+Randy Wright,Green Bay Packers,1985,2,4,1
+Mike Pagel,Indianapolis Colts,1985,14,15,14
+Matt Kofler,Indianapolis Colts,1985,1,3,1
+Art Schlichter,Indianapolis Colts,1985,0,2,1
+Bill Kenney,Kansas City Chiefs,1985,17,9,10
+Todd Blackledge,Kansas City Chiefs,1985,6,14,6
+Dan Fouts*,San Diego Chargers,1985,27,20,12
+Mark Herrmann,San Diego Chargers,1985,10,10,4
+Dieter Brock,Los Angeles Rams,1985,16,13,15
+Jeff Kemp,Los Angeles Rams,1985,0,1,1
+Marc Wilson,Los Angeles Raiders,1985,16,21,13
+Jim Plunkett,Los Angeles Raiders,1985,3,3,3
+Dan Marino*+,Miami Dolphins,1985,30,21,16
+Tommy Kramer,Minnesota Vikings,1985,19,26,15
+Wade Wilson,Minnesota Vikings,1985,3,3,1
+Tony Eason,New England Patriots,1985,11,17,10
+Steve Grogan,New England Patriots,1985,7,5,6
+Dave Wilson,New Orleans Saints,1985,11,15,10
+Bobby Hebert,New Orleans Saints,1985,5,4,6
+Phil Simms*,New York Giants,1985,22,20,16
+Ken O'Brien*,New York Jets,1985,25,8,16
+Ron Jaworski,Philadelphia Eagles,1985,17,20,12
+Randall Cunningham,Philadelphia Eagles,1985,1,8,4
+Mark Malone,Pittsburgh Steelers,1985,13,7,8
+David Woodley,Pittsburgh Steelers,1985,6,14,6
+Scott Campbell,Pittsburgh Steelers,1985,4,6,2
+Dave Krieg,Seattle Seahawks,1985,27,20,16
+Joe Montana*,San Francisco 49ers,1985,27,13,15
+Matt Cavanaugh,San Francisco 49ers,1985,1,1,1
+Steve DeBerg,Tampa Bay Buccaneers,1985,19,18,11
+Steve Young,Tampa Bay Buccaneers,1985,3,8,5
+Warren Moon,Houston Oilers,1985,15,19,14
+Oliver Luck,Houston Oilers,1985,2,2,2
+Joe Theismann,Washington Redskins,1985,8,16,11
+Jay Schroeder,Washington Redskins,1985,5,5,5
+Neil Lomax,St. Louis Cardinals,1986,13,12,14
+Cliff Stoudt,St. Louis Cardinals,1986,3,7,2
+David Archer,Atlanta Falcons,1986,10,9,11
+Turk Schonert,Atlanta Falcons,1986,4,8,5
+Jim Kelly,Buffalo Bills,1986,22,17,16
+Mike Tomczak,Chicago Bears,1986,2,10,7
+Jim McMahon,Chicago Bears,1986,5,8,6
+Steve Fuller,Chicago Bears,1986,2,4,2
+Doug Flutie,Chicago Bears,1986,3,2,1
+Boomer Esiason*,Cincinnati Bengals,1986,24,17,16
+Bernie Kosar,Cleveland Browns,1986,17,10,16
+Steve Pelluer,Dallas Cowboys,1986,8,17,9
+Danny White,Dallas Cowboys,1986,12,5,6
+Reggie Collier,Dallas Cowboys,1986,1,2,1
+John Elway*,Denver Broncos,1986,19,13,16
+Eric Hipple,Detroit Lions,1986,9,11,10
+Joe Ferguson,Detroit Lions,1986,7,7,4
+Chuck Long,Detroit Lions,1986,2,2,2
+Randy Wright,Green Bay Packers,1986,17,23,16
+Jack Trudeau,Indianapolis Colts,1986,8,18,11
+Gary Hogeboom,Indianapolis Colts,1986,6,6,5
+Bill Kenney,Kansas City Chiefs,1986,13,11,8
+Todd Blackledge,Kansas City Chiefs,1986,10,6,8
+Dan Fouts,San Diego Chargers,1986,16,22,12
+Mark Herrmann,San Diego Chargers,1986,2,3,1
+Tom Flick,San Diego Chargers,1986,2,8,3
+Jim Everett,Los Angeles Rams,1986,8,8,5
+Steve Dils,Los Angeles Rams,1986,4,4,5
+Steve Bartkowski,Los Angeles Rams,1986,2,3,6
+Jim Plunkett,Los Angeles Raiders,1986,14,9,8
+Marc Wilson,Los Angeles Raiders,1986,12,15,8
+Dan Marino*+,Miami Dolphins,1986,44,23,16
+Tommy Kramer*,Minnesota Vikings,1986,24,10,13
+Wade Wilson,Minnesota Vikings,1986,7,5,3
+Tony Eason,New England Patriots,1986,19,10,14
+Steve Grogan,New England Patriots,1986,9,2,2
+Dave Wilson,New Orleans Saints,1986,10,17,13
+Bobby Hebert,New Orleans Saints,1986,2,8,3
+Phil Simms,New York Giants,1986,21,22,16
+Ken O'Brien,New York Jets,1986,25,20,14
+Pat Ryan,New York Jets,1986,2,1,2
+Ron Jaworski,Philadelphia Eagles,1986,8,6,9
+Randall Cunningham,Philadelphia Eagles,1986,8,7,5
+Matt Cavanaugh,Philadelphia Eagles,1986,2,4,2
+Mark Malone,Pittsburgh Steelers,1986,15,18,14
+Bubby Brister,Pittsburgh Steelers,1986,0,2,2
+Dave Krieg,Seattle Seahawks,1986,21,11,14
+Gale Gilbert,Seattle Seahawks,1986,3,3,2
+Joe Montana,San Francisco 49ers,1986,8,9,8
+Jeff Kemp,San Francisco 49ers,1986,11,8,6
+Mike Moroski,San Francisco 49ers,1986,2,3,2
+Steve Young,Tampa Bay Buccaneers,1986,8,13,14
+Steve DeBerg,Tampa Bay Buccaneers,1986,5,12,2
+Warren Moon,Houston Oilers,1986,13,26,15
+Oliver Luck,Houston Oilers,1986,1,5,1
+Jay Schroeder*,Washington Redskins,1986,22,22,16
+Neil Lomax*,St. Louis Cardinals,1987,24,12,12
+Shawn Halloran,St. Louis Cardinals,1987,0,1,2
+Sammy Garza,St. Louis Cardinals,1987,1,2,1
+Scott Campbell,Atlanta Falcons,1987,11,14,9
+Erik Kramer,Atlanta Falcons,1987,4,5,2
+Chris Miller,Atlanta Falcons,1987,1,9,2
+Jeff Van Raaphorst,Atlanta Falcons,1987,1,2,1
+David Archer,Atlanta Falcons,1987,0,2,1
+Jim Kelly*,Buffalo Bills,1987,19,11,12
+Brian McClure,Buffalo Bills,1987,0,3,1
+Willie Totten,Buffalo Bills,1987,2,2,1
+Dan Manucci,Buffalo Bills,1987,0,2,1
+Jim McMahon,Chicago Bears,1987,12,8,6
+Mike Tomczak,Chicago Bears,1987,5,10,6
+Mike Hohensee,Chicago Bears,1987,4,1,2
+Steve Bradley,Chicago Bears,1987,2,3,1
+Boomer Esiason,Cincinnati Bengals,1987,16,19,12
+Dave Walter,Cincinnati Bengals,1987,0,0,2
+Adrian Breen,Cincinnati Bengals,1987,1,0,1
+Bernie Kosar*,Cleveland Browns,1987,22,9,12
+Jeff Christensen,Cleveland Browns,1987,1,3,2
+Gary Danielson,Cleveland Browns,1987,4,0,1
+Danny White,Dallas Cowboys,1987,12,17,9
+Steve Pelluer,Dallas Cowboys,1987,3,2,4
+Kevin Sweeney,Dallas Cowboys,1987,4,1,2
+John Elway*,Denver Broncos,1987,19,12,12
+Ken Karcher,Denver Broncos,1987,5,4,3
+Chuck Long,Detroit Lions,1987,11,20,12
+Todd Hons,Detroit Lions,1987,5,5,3
+Randy Wright,Green Bay Packers,1987,6,11,7
+Don Majkowski,Green Bay Packers,1987,5,3,5
+Alan Risher,Green Bay Packers,1987,3,3,3
+Jack Trudeau,Indianapolis Colts,1987,6,6,8
+Gary Hogeboom,Indianapolis Colts,1987,9,5,6
+Blair Kiel,Indianapolis Colts,1987,1,3,1
+Bill Kenney,Kansas City Chiefs,1987,15,9,8
+Matt Stevens,Kansas City Chiefs,1987,1,1,2
+Frank Seurer,Kansas City Chiefs,1987,0,4,2
+Todd Blackledge,Kansas City Chiefs,1987,1,1,2
+Doug Hudson,Kansas City Chiefs,1987,0,0,1
+Dan Fouts,San Diego Chargers,1987,10,15,10
+Rick Neuheisel,San Diego Chargers,1987,1,1,2
+Mark Herrmann,San Diego Chargers,1987,1,5,2
+Mike Kelley,San Diego Chargers,1987,1,0,1
+Jim Everett,Los Angeles Rams,1987,10,13,11
+Steve Dils,Los Angeles Rams,1987,5,4,4
+Marc Wilson,Los Angeles Raiders,1987,12,8,7
+Rusty Hilger,Los Angeles Raiders,1987,2,6,5
+Vince Evans,Los Angeles Raiders,1987,5,4,3
+Dan Marino*,Miami Dolphins,1987,26,13,12
+Kyle Mackey,Miami Dolphins,1987,3,5,3
+Wade Wilson,Minnesota Vikings,1987,14,13,7
+Tony Adams,Minnesota Vikings,1987,3,5,3
+Tommy Kramer,Minnesota Vikings,1987,4,3,5
+Steve Grogan,New England Patriots,1987,10,9,6
+Tom Ramsey,New England Patriots,1987,6,6,3
+Tony Eason,New England Patriots,1987,3,2,3
+Bob Bleier,New England Patriots,1987,1,1,2
+Doug Flutie,New England Patriots,1987,1,0,1
+Bobby Hebert,New Orleans Saints,1987,15,9,12
+John Fourcade,New Orleans Saints,1987,4,3,3
+Phil Simms,New York Giants,1987,17,9,9
+Jeff Rutledge,New York Giants,1987,5,11,4
+Mike Busch,New York Giants,1987,3,2,1
+Jim Crocicchia,New York Giants,1987,1,0,1
+Ken O'Brien,New York Jets,1987,13,8,12
+David Norrie,New York Jets,1987,1,4,2
+Pat Ryan,New York Jets,1987,4,2,1
+Randall Cunningham,Philadelphia Eagles,1987,23,12,12
+Scott Tinsley,Philadelphia Eagles,1987,3,4,3
+Mark Malone,Pittsburgh Steelers,1987,6,19,12
+Steve Bono,Pittsburgh Steelers,1987,5,2,3
+Dave Krieg,Seattle Seahawks,1987,23,15,12
+Bruce Mathison,Seattle Seahawks,1987,3,5,2
+Jeff Kemp,Seattle Seahawks,1987,5,1,1
+Joe Montana*+,San Francisco 49ers,1987,31,13,11
+Steve Young,San Francisco 49ers,1987,10,0,3
+Bob Gagliano,San Francisco 49ers,1987,1,1,1
+Steve DeBerg,Tampa Bay Buccaneers,1987,14,7,8
+Vinny Testaverde,Tampa Bay Buccaneers,1987,5,6,4
+Jim Zorn,Tampa Bay Buccaneers,1987,0,2,1
+John Reaves,Tampa Bay Buccaneers,1987,1,0,2
+Warren Moon,Houston Oilers,1987,21,18,12
+Brent Pease,Houston Oilers,1987,3,5,3
+Jay Schroeder,Washington Redskins,1987,12,10,10
+Doug Williams,Washington Redskins,1987,11,5,2
+Ed Rubbert,Washington Redskins,1987,4,1,3
+Neil Lomax,Phoenix Cardinals,1988,20,11,14
+Cliff Stoudt,Phoenix Cardinals,1988,6,8,2
+Chris Miller,Atlanta Falcons,1988,11,12,13
+Steve Dils,Atlanta Falcons,1988,2,5,3
+Jim Kelly*,Buffalo Bills,1988,15,17,16
+Jim McMahon,Chicago Bears,1988,6,7,9
+Mike Tomczak,Chicago Bears,1988,7,6,5
+Jim Harbaugh,Chicago Bears,1988,0,2,2
+Boomer Esiason*+,Cincinnati Bengals,1988,28,14,16
+Bernie Kosar,Cleveland Browns,1988,10,7,9
+Mike Pagel,Cleveland Browns,1988,3,4,4
+Don Strock,Cleveland Browns,1988,6,5,2
+Gary Danielson,Cleveland Browns,1988,0,1,1
+Steve Pelluer,Dallas Cowboys,1988,17,19,14
+Kevin Sweeney,Dallas Cowboys,1988,3,5,2
+John Elway,Denver Broncos,1988,17,19,15
+Gary Kubiak,Denver Broncos,1988,5,3,1
+Rusty Hilger,Detroit Lions,1988,7,12,9
+Chuck Long,Detroit Lions,1988,6,6,7
+Don Majkowski,Green Bay Packers,1988,9,11,9
+Randy Wright,Green Bay Packers,1988,4,13,7
+Chris Chandler,Indianapolis Colts,1988,8,12,13
+Gary Hogeboom,Indianapolis Colts,1988,7,7,1
+Jack Trudeau,Indianapolis Colts,1988,0,3,2
+Steve DeBerg,Kansas City Chiefs,1988,16,16,11
+Bill Kenney,Kansas City Chiefs,1988,0,5,5
+Mark Malone,San Diego Chargers,1988,6,13,8
+Babe Laufenberg,San Diego Chargers,1988,4,5,6
+Mark Vlasic,San Diego Chargers,1988,1,2,2
+Jim Everett,Los Angeles Rams,1988,31,18,16
+Jay Schroeder,Los Angeles Raiders,1988,13,13,8
+Steve Beuerlein,Los Angeles Raiders,1988,8,7,8
+Dan Marino,Miami Dolphins,1988,28,23,16
+Wade Wilson*,Minnesota Vikings,1988,15,9,10
+Tommy Kramer,Minnesota Vikings,1988,5,9,6
+Doug Flutie,New England Patriots,1988,8,10,9
+Steve Grogan,New England Patriots,1988,4,13,4
+Tony Eason,New England Patriots,1988,0,2,2
+Tom Ramsey,New England Patriots,1988,0,3,1
+Bobby Hebert,New Orleans Saints,1988,20,15,16
+Phil Simms,New York Giants,1988,21,11,15
+Jeff Hostetler,New York Giants,1988,1,2,1
+Ken O'Brien,New York Jets,1988,15,7,12
+Pat Ryan,New York Jets,1988,5,4,4
+Randall Cunningham*,Philadelphia Eagles,1988,24,16,16
+Bubby Brister,Pittsburgh Steelers,1988,11,14,13
+Todd Blackledge,Pittsburgh Steelers,1988,2,3,3
+Dave Krieg*,Seattle Seahawks,1988,18,8,9
+Kelly Stouffer,Seattle Seahawks,1988,4,6,6
+Jeff Kemp,Seattle Seahawks,1988,0,5,1
+Joe Montana,San Francisco 49ers,1988,18,10,13
+Steve Young,San Francisco 49ers,1988,3,3,3
+Vinny Testaverde,Tampa Bay Buccaneers,1988,13,35,15
+Joe Ferguson,Tampa Bay Buccaneers,1988,3,1,1
+Warren Moon*,Houston Oilers,1988,17,8,11
+Cody Carlson,Houston Oilers,1988,4,6,5
+Doug Williams,Washington Redskins,1988,15,12,10
+Mark Rypien,Washington Redskins,1988,18,13,6
+Gary Hogeboom,Phoenix Cardinals,1989,14,19,13
+Tom Tupa,Phoenix Cardinals,1989,3,9,2
+Timm Rosenbach,Phoenix Cardinals,1989,0,1,1
+Chris Miller,Atlanta Falcons,1989,16,10,15
+Hugh Millen,Atlanta Falcons,1989,1,2,1
+Jim Kelly,Buffalo Bills,1989,25,18,13
+Frank Reich,Buffalo Bills,1989,7,2,3
+Mike Tomczak,Chicago Bears,1989,16,16,11
+Jim Harbaugh,Chicago Bears,1989,5,9,5
+Boomer Esiason*,Cincinnati Bengals,1989,28,11,15
+Turk Schonert,Cincinnati Bengals,1989,0,0,1
+Bernie Kosar,Cleveland Browns,1989,18,14,16
+Troy Aikman,Dallas Cowboys,1989,9,18,11
+Steve Walsh,Dallas Cowboys,1989,5,9,5
+John Elway*,Denver Broncos,1989,18,18,15
+Gary Kubiak,Denver Broncos,1989,2,2,1
+Bob Gagliano,Detroit Lions,1989,6,12,7
+Rodney Peete,Detroit Lions,1989,5,9,8
+Eric Hipple,Detroit Lions,1989,0,3,1
+Don Majkowski*,Green Bay Packers,1989,27,20,16
+Jack Trudeau,Indianapolis Colts,1989,15,13,12
+Chris Chandler,Indianapolis Colts,1989,2,3,3
+Tom Ramsey,Indianapolis Colts,1989,1,1,1
+Steve DeBerg,Kansas City Chiefs,1989,11,16,10
+Ron Jaworski,Kansas City Chiefs,1989,2,5,3
+Steve Pelluer,Kansas City Chiefs,1989,1,0,3
+Jim McMahon,San Diego Chargers,1989,10,10,11
+Billy Joe Tolliver,San Diego Chargers,1989,5,8,5
+Jim Everett,Los Angeles Rams,1989,29,17,16
+Steve Beuerlein,Los Angeles Raiders,1989,13,9,7
+Jay Schroeder,Los Angeles Raiders,1989,8,13,9
+Dan Marino,Miami Dolphins,1989,24,22,16
+Wade Wilson,Minnesota Vikings,1989,9,12,12
+Tommy Kramer,Minnesota Vikings,1989,7,7,4
+Steve Grogan,New England Patriots,1989,9,14,6
+Marc Wilson,New England Patriots,1989,3,5,4
+Tony Eason,New England Patriots,1989,3,4,3
+Doug Flutie,New England Patriots,1989,2,4,3
+Bobby Hebert,New Orleans Saints,1989,15,15,13
+John Fourcade,New Orleans Saints,1989,7,4,3
+Phil Simms,New York Giants,1989,14,14,15
+Jeff Hostetler,New York Giants,1989,3,2,1
+Ken O'Brien,New York Jets,1989,12,18,12
+Tony Eason,New York Jets,1989,1,2,2
+Pat Ryan,New York Jets,1989,1,3,1
+Kyle Mackey,New York Jets,1989,0,1,1
+Randall Cunningham*,Philadelphia Eagles,1989,21,15,16
+Bubby Brister,Pittsburgh Steelers,1989,9,10,14
+Todd Blackledge,Pittsburgh Steelers,1989,1,3,2
+Dave Krieg*,Seattle Seahawks,1989,21,20,14
+Kelly Stouffer,Seattle Seahawks,1989,0,3,2
+Joe Montana*+,San Francisco 49ers,1989,26,8,13
+Steve Young,San Francisco 49ers,1989,8,3,3
+Vinny Testaverde,Tampa Bay Buccaneers,1989,20,22,14
+Joe Ferguson,Tampa Bay Buccaneers,1989,3,6,2
+Warren Moon*,Houston Oilers,1989,23,14,16
+Mark Rypien*,Washington Redskins,1989,22,13,14
+Doug Williams,Washington Redskins,1989,1,3,2
+Timm Rosenbach,Phoenix Cardinals,1990,16,17,16
+Chris Miller,Atlanta Falcons,1990,17,14,12
+Scott Campbell,Atlanta Falcons,1990,3,4,2
+Hugh Millen,Atlanta Falcons,1990,1,0,2
+Jim Kelly*,Buffalo Bills,1990,24,9,14
+Frank Reich,Buffalo Bills,1990,2,0,2
+Jim Harbaugh,Chicago Bears,1990,10,6,14
+Mike Tomczak,Chicago Bears,1990,3,5,2
+Boomer Esiason,Cincinnati Bengals,1990,24,22,16
+Bernie Kosar,Cleveland Browns,1990,10,15,13
+Mike Pagel,Cleveland Browns,1990,3,8,3
+Troy Aikman,Dallas Cowboys,1990,11,18,15
+Babe Laufenberg,Dallas Cowboys,1990,1,6,1
+John Elway,Denver Broncos,1990,15,14,16
+Rodney Peete,Detroit Lions,1990,13,8,11
+Bob Gagliano,Detroit Lions,1990,10,10,4
+Andre Ware,Detroit Lions,1990,1,2,1
+Don Majkowski,Green Bay Packers,1990,10,12,8
+Anthony Dilweg,Green Bay Packers,1990,8,7,7
+Blair Kiel,Green Bay Packers,1990,2,2,1
+Jeff George,Indianapolis Colts,1990,16,13,12
+Jack Trudeau,Indianapolis Colts,1990,6,6,4
+Steve DeBerg,Kansas City Chiefs,1990,23,4,16
+Billy Joe Tolliver,San Diego Chargers,1990,16,16,14
+Mark Vlasic,San Diego Chargers,1990,1,2,1
+John Friesz,San Diego Chargers,1990,1,1,1
+Jim Everett*,Los Angeles Rams,1990,23,17,16
+Jay Schroeder,Los Angeles Raiders,1990,19,9,16
+Dan Marino,Miami Dolphins,1990,21,11,16
+Rich Gannon,Minnesota Vikings,1990,16,16,12
+Wade Wilson,Minnesota Vikings,1990,9,8,4
+Marc Wilson,New England Patriots,1990,6,11,6
+Tom Hodson,New England Patriots,1990,4,5,6
+Steve Grogan,New England Patriots,1990,4,3,4
+Steve Walsh,New Orleans Saints,1990,12,13,11
+John Fourcade,New Orleans Saints,1990,3,8,5
+Phil Simms,New York Giants,1990,15,4,14
+Jeff Hostetler,New York Giants,1990,3,1,2
+Ken O'Brien,New York Jets,1990,13,10,16
+Randall Cunningham*,Philadelphia Eagles,1990,30,13,16
+Bubby Brister,Pittsburgh Steelers,1990,20,14,16
+Dave Krieg,Seattle Seahawks,1990,15,20,16
+Joe Montana*+,San Francisco 49ers,1990,26,16,15
+Steve Young,San Francisco 49ers,1990,2,0,1
+Vinny Testaverde,Tampa Bay Buccaneers,1990,17,18,13
+Chris Chandler,Tampa Bay Buccaneers,1990,1,6,3
+Warren Moon*,Houston Oilers,1990,33,13,15
+Cody Carlson,Houston Oilers,1990,4,2,1
+Mark Rypien,Washington Redskins,1990,16,11,10
+Stan Humphries,Washington Redskins,1990,3,10,5
+Jeff Rutledge,Washington Redskins,1990,2,1,1
+Tom Tupa,Phoenix Cardinals,1991,6,13,11
+Stan Gelbaugh,Phoenix Cardinals,1991,3,10,3
+Chris Chandler,Phoenix Cardinals,1991,1,2,2
+Chris Miller*,Atlanta Falcons,1991,26,18,14
+Billy Joe Tolliver,Atlanta Falcons,1991,4,2,2
+Jim Kelly*+,Buffalo Bills,1991,33,17,15
+Frank Reich,Buffalo Bills,1991,6,2,1
+Jim Harbaugh,Chicago Bears,1991,15,16,16
+Boomer Esiason,Cincinnati Bengals,1991,13,16,14
+Donald Hollas,Cincinnati Bengals,1991,1,4,1
+Erik Wilhelm,Cincinnati Bengals,1991,0,2,1
+Bernie Kosar,Cleveland Browns,1991,18,9,16
+Troy Aikman*,Dallas Cowboys,1991,11,10,12
+Steve Beuerlein,Dallas Cowboys,1991,5,2,4
+John Elway*,Denver Broncos,1991,13,12,16
+Erik Kramer,Detroit Lions,1991,11,8,8
+Rodney Peete,Detroit Lions,1991,5,9,8
+Mike Tomczak,Green Bay Packers,1991,11,9,7
+Don Majkowski,Green Bay Packers,1991,3,8,8
+Blair Kiel,Green Bay Packers,1991,3,2,1
+Jeff George,Indianapolis Colts,1991,10,12,16
+Steve DeBerg,Kansas City Chiefs,1991,17,14,15
+Mark Vlasic,Kansas City Chiefs,1991,2,0,1
+John Friesz,San Diego Chargers,1991,12,15,16
+Jim Everett,Los Angeles Rams,1991,11,20,16
+Jay Schroeder,Los Angeles Raiders,1991,15,16,15
+Todd Marinovich,Los Angeles Raiders,1991,3,0,1
+Dan Marino*,Miami Dolphins,1991,25,13,16
+Rich Gannon,Minnesota Vikings,1991,12,6,11
+Wade Wilson,Minnesota Vikings,1991,3,10,5
+Hugh Millen,New England Patriots,1991,9,18,13
+Tom Hodson,New England Patriots,1991,1,4,3
+Steve Walsh,New Orleans Saints,1991,11,6,7
+Bobby Hebert,New Orleans Saints,1991,9,8,9
+Jeff Hostetler,New York Giants,1991,5,4,12
+Phil Simms,New York Giants,1991,8,4,4
+Ken O'Brien*,New York Jets,1991,10,11,16
+Jim McMahon,Philadelphia Eagles,1991,12,11,11
+Jeff Kemp,Philadelphia Eagles,1991,5,5,2
+Brad Goebel,Philadelphia Eagles,1991,0,6,2
+Randall Cunningham,Philadelphia Eagles,1991,0,0,1
+Neil O'Donnell,Pittsburgh Steelers,1991,11,7,8
+Bubby Brister,Pittsburgh Steelers,1991,9,9,8
+Dave Krieg,Seattle Seahawks,1991,11,12,9
+Jeff Kemp,Seattle Seahawks,1991,4,12,5
+Kelly Stouffer,Seattle Seahawks,1991,0,1,1
+Dan McGwire,Seattle Seahawks,1991,0,1,1
+Steve Young,San Francisco 49ers,1991,17,8,10
+Steve Bono,San Francisco 49ers,1991,11,4,6
+Vinny Testaverde,Tampa Bay Buccaneers,1991,8,15,12
+Chris Chandler,Tampa Bay Buccaneers,1991,4,8,3
+Jeff Carlson,Tampa Bay Buccaneers,1991,1,6,1
+Warren Moon*,Houston Oilers,1991,23,21,16
+Mark Rypien*,Washington Redskins,1991,28,11,16
+Chris Chandler,Phoenix Cardinals,1992,15,15,13
+Timm Rosenbach,Phoenix Cardinals,1992,0,6,3
+Chris Miller,Atlanta Falcons,1992,15,6,8
+Wade Wilson,Atlanta Falcons,1992,13,4,3
+Billy Joe Tolliver,Atlanta Falcons,1992,5,5,5
+Jim Kelly*,Buffalo Bills,1992,23,19,16
+Jim Harbaugh,Chicago Bears,1992,13,12,13
+Peter Tom Willis,Chicago Bears,1992,4,8,2
+Will Furrer,Chicago Bears,1992,0,3,1
+Boomer Esiason,Cincinnati Bengals,1992,11,15,11
+David Klingler,Cincinnati Bengals,1992,3,2,4
+Donald Hollas,Cincinnati Bengals,1992,2,0,1
+Mike Tomczak,Cleveland Browns,1992,7,7,8
+Bernie Kosar,Cleveland Browns,1992,8,7,7
+Todd Philcox,Cleveland Browns,1992,3,1,1
+Troy Aikman*,Dallas Cowboys,1992,23,14,16
+John Elway,Denver Broncos,1992,10,17,12
+Tommy Maddox,Denver Broncos,1992,5,9,4
+Rodney Peete,Detroit Lions,1992,9,9,10
+Erik Kramer,Detroit Lions,1992,4,8,3
+Andre Ware,Detroit Lions,1992,3,4,3
+Brett Favre*,Green Bay Packers,1992,18,13,13
+Don Majkowski,Green Bay Packers,1992,2,2,3
+Jeff George,Indianapolis Colts,1992,7,15,10
+Jack Trudeau,Indianapolis Colts,1992,4,8,5
+Mark Herrmann,Indianapolis Colts,1992,1,1,1
+Dave Krieg,Kansas City Chiefs,1992,15,12,16
+Stan Humphries,San Diego Chargers,1992,16,18,15
+Bob Gagliano,San Diego Chargers,1992,0,3,1
+Jim Everett,Los Angeles Rams,1992,22,18,16
+Jay Schroeder,Los Angeles Raiders,1992,11,11,9
+Todd Marinovich,Los Angeles Raiders,1992,5,9,7
+Dan Marino*,Miami Dolphins,1992,24,16,16
+Rich Gannon,Minnesota Vikings,1992,12,13,12
+Sean Salisbury,Minnesota Vikings,1992,5,2,4
+Hugh Millen,New England Patriots,1992,8,10,7
+Scott Zolak,New England Patriots,1992,2,4,4
+Tom Hodson,New England Patriots,1992,2,2,3
+Jeff Carlson,New England Patriots,1992,1,3,2
+Bobby Hebert,New Orleans Saints,1992,19,16,16
+Jeff Hostetler,New York Giants,1992,8,3,9
+Phil Simms,New York Giants,1992,5,3,4
+Kent Graham,New York Giants,1992,1,4,3
+Browning Nagle,New York Jets,1992,7,17,13
+Ken O'Brien,New York Jets,1992,5,6,3
+Randall Cunningham,Philadelphia Eagles,1992,19,11,15
+Jim McMahon,Philadelphia Eagles,1992,1,2,1
+Neil O'Donnell*,Pittsburgh Steelers,1992,13,9,12
+Bubby Brister,Pittsburgh Steelers,1992,2,5,4
+Stan Gelbaugh,Seattle Seahawks,1992,6,11,8
+Kelly Stouffer,Seattle Seahawks,1992,3,9,7
+Dan McGwire,Seattle Seahawks,1992,0,3,1
+Steve Young*+,San Francisco 49ers,1992,25,7,16
+Vinny Testaverde,Tampa Bay Buccaneers,1992,14,16,14
+Steve DeBerg,Tampa Bay Buccaneers,1992,3,4,2
+Warren Moon*,Houston Oilers,1992,18,12,10
+Cody Carlson,Houston Oilers,1992,9,11,6
+Mark Rypien,Washington Redskins,1992,13,17,16
+Steve Beuerlein,Phoenix Cardinals,1993,18,17,14
+Chris Chandler,Phoenix Cardinals,1993,3,2,2
+Bobby Hebert*,Atlanta Falcons,1993,24,17,12
+Billy Joe Tolliver,Atlanta Falcons,1993,3,5,2
+Chris Miller,Atlanta Falcons,1993,1,3,2
+Jim Kelly,Buffalo Bills,1993,18,18,16
+Jim Harbaugh,Chicago Bears,1993,7,11,15
+Peter Tom Willis,Chicago Bears,1993,0,5,1
+David Klingler,Cincinnati Bengals,1993,6,9,13
+Jay Schroeder,Cincinnati Bengals,1993,5,2,3
+Vinny Testaverde,Cleveland Browns,1993,14,9,6
+Bernie Kosar,Cleveland Browns,1993,5,3,6
+Todd Philcox,Cleveland Browns,1993,4,7,4
+Troy Aikman*,Dallas Cowboys,1993,15,6,14
+Bernie Kosar,Dallas Cowboys,1993,3,0,1
+Jason Garrett,Dallas Cowboys,1993,0,0,1
+John Elway*,Denver Broncos,1993,25,10,16
+Rodney Peete,Detroit Lions,1993,6,14,10
+Erik Kramer,Detroit Lions,1993,8,3,4
+Andre Ware,Detroit Lions,1993,1,2,2
+Brett Favre*,Green Bay Packers,1993,19,24,16
+Jeff George,Indianapolis Colts,1993,8,6,11
+Jack Trudeau,Indianapolis Colts,1993,2,7,5
+Joe Montana*,Kansas City Chiefs,1993,13,7,11
+Dave Krieg,Kansas City Chiefs,1993,7,3,5
+Stan Humphries,San Diego Chargers,1993,12,10,10
+John Friesz,San Diego Chargers,1993,6,4,6
+Jim Everett,Los Angeles Rams,1993,8,12,9
+T.J. Rubley,Los Angeles Rams,1993,8,6,7
+Jeff Hostetler,Los Angeles Raiders,1993,14,10,15
+Vince Evans,Los Angeles Raiders,1993,3,4,1
+Scott Mitchell,Miami Dolphins,1993,12,8,7
+Steve DeBerg,Miami Dolphins,1993,6,7,4
+Dan Marino,Miami Dolphins,1993,8,3,5
+Jim McMahon,Minnesota Vikings,1993,9,8,12
+Sean Salisbury,Minnesota Vikings,1993,9,6,4
+Drew Bledsoe,New England Patriots,1993,15,15,12
+Scott Secules,New England Patriots,1993,2,9,4
+Wade Wilson,New Orleans Saints,1993,12,15,14
+Mike Buck,New Orleans Saints,1993,4,3,1
+Steve Walsh,New Orleans Saints,1993,2,3,1
+Phil Simms*,New York Giants,1993,15,9,16
+Boomer Esiason*,New York Jets,1993,16,11,16
+Bubby Brister,Philadelphia Eagles,1993,14,5,8
+Ken O'Brien,Philadelphia Eagles,1993,4,3,4
+Randall Cunningham,Philadelphia Eagles,1993,5,5,4
+Neil O'Donnell,Pittsburgh Steelers,1993,14,7,15
+Mike Tomczak,Pittsburgh Steelers,1993,2,5,1
+Rick Mirer,Seattle Seahawks,1993,12,17,16
+Steve Young*+,San Francisco 49ers,1993,29,16,16
+Craig Erickson,Tampa Bay Buccaneers,1993,18,21,15
+Steve DeBerg,Tampa Bay Buccaneers,1993,1,3,1
+Warren Moon*,Houston Oilers,1993,21,21,14
+Cody Carlson,Houston Oilers,1993,2,4,2
+Mark Rypien,Washington Redskins,1993,4,10,10
+Rich Gannon,Washington Redskins,1993,3,7,4
+Cary Conklin,Washington Redskins,1993,4,3,2
+Steve Beuerlein,Arizona Cardinals,1994,5,9,7
+Jay Schroeder,Arizona Cardinals,1994,4,7,8
+Jim McMahon,Arizona Cardinals,1994,1,3,1
+Jeff George,Atlanta Falcons,1994,23,18,16
+Jim Kelly,Buffalo Bills,1994,22,17,14
+Frank Reich,Buffalo Bills,1994,1,4,2
+Steve Walsh,Chicago Bears,1994,10,8,11
+Erik Kramer,Chicago Bears,1994,8,8,5
+Jeff Blake,Cincinnati Bengals,1994,14,9,9
+David Klingler,Cincinnati Bengals,1994,6,9,7
+Vinny Testaverde,Cleveland Browns,1994,16,18,13
+Mark Rypien,Cleveland Browns,1994,4,3,3
+Troy Aikman*,Dallas Cowboys,1994,13,12,14
+Rodney Peete,Dallas Cowboys,1994,4,1,1
+Jason Garrett,Dallas Cowboys,1994,2,1,1
+John Elway*,Denver Broncos,1994,16,10,14
+Hugh Millen,Denver Broncos,1994,2,3,2
+Scott Mitchell,Detroit Lions,1994,10,11,9
+Dave Krieg,Detroit Lions,1994,14,3,7
+Brett Favre,Green Bay Packers,1994,33,14,16
+Jim Harbaugh,Indianapolis Colts,1994,9,6,9
+Don Majkowski,Indianapolis Colts,1994,6,7,6
+Browning Nagle,Indianapolis Colts,1994,0,1,1
+Joe Montana,Kansas City Chiefs,1994,16,9,14
+Steve Bono,Kansas City Chiefs,1994,4,4,2
+Stan Humphries,San Diego Chargers,1994,17,12,15
+Gale Gilbert,San Diego Chargers,1994,3,1,1
+Chris Miller,Los Angeles Rams,1994,16,14,10
+Chris Chandler,Los Angeles Rams,1994,7,2,6
+Jeff Hostetler*,Los Angeles Raiders,1994,20,16,16
+Dan Marino*,Miami Dolphins,1994,30,17,16
+Warren Moon*,Minnesota Vikings,1994,18,19,15
+Sean Salisbury,Minnesota Vikings,1994,0,1,1
+Drew Bledsoe*,New England Patriots,1994,25,27,16
+Jim Everett,New Orleans Saints,1994,22,18,16
+Dave Brown,New York Giants,1994,12,16,15
+Kent Graham,New York Giants,1994,3,2,1
+Boomer Esiason,New York Jets,1994,17,13,14
+Jack Trudeau,New York Jets,1994,1,4,2
+Randall Cunningham,Philadelphia Eagles,1994,16,13,14
+Bubby Brister,Philadelphia Eagles,1994,2,1,2
+Neil O'Donnell,Pittsburgh Steelers,1994,13,9,14
+Mike Tomczak,Pittsburgh Steelers,1994,4,0,2
+Rick Mirer,Seattle Seahawks,1994,11,7,13
+Dan McGwire,Seattle Seahawks,1994,1,2,3
+Steve Young*+,San Francisco 49ers,1994,35,10,16
+Craig Erickson,Tampa Bay Buccaneers,1994,16,10,15
+Trent Dilfer,Tampa Bay Buccaneers,1994,1,6,2
+Billy Joe Tolliver,Houston Oilers,1994,6,7,7
+Bucky Richardson,Houston Oilers,1994,6,6,4
+Cody Carlson,Houston Oilers,1994,1,4,5
+Heath Shuler,Washington Redskins,1994,10,12,8
+John Friesz,Washington Redskins,1994,10,9,4
+Gus Frerotte,Washington Redskins,1994,5,5,4
+Dave Krieg,Arizona Cardinals,1995,16,21,16
+Jeff George,Atlanta Falcons,1995,24,11,16
+Jim Kelly,Buffalo Bills,1995,22,13,15
+Todd Collins,Buffalo Bills,1995,0,1,1
+Kerry Collins,Carolina Panthers,1995,14,19,13
+Frank Reich,Carolina Panthers,1995,2,2,3
+Erik Kramer,Chicago Bears,1995,29,10,16
+Jeff Blake*,Cincinnati Bengals,1995,28,17,16
+Vinny Testaverde,Cleveland Browns,1995,17,10,12
+Eric Zeier,Cleveland Browns,1995,4,9,4
+Troy Aikman*,Dallas Cowboys,1995,16,7,16
+John Elway,Denver Broncos,1995,26,14,16
+Scott Mitchell,Detroit Lions,1995,32,12,16
+Brett Favre*+,Green Bay Packers,1995,38,13,16
+Jim Harbaugh*,Indianapolis Colts,1995,17,5,12
+Craig Erickson,Indianapolis Colts,1995,3,4,3
+Paul Justin,Indianapolis Colts,1995,0,2,1
+Mark Brunell,Jacksonville Jaguars,1995,15,7,10
+Steve Beuerlein,Jacksonville Jaguars,1995,4,7,6
+Steve Bono*,Kansas City Chiefs,1995,21,10,16
+Stan Humphries,San Diego Chargers,1995,17,14,15
+Gale Gilbert,San Diego Chargers,1995,0,4,1
+Chris Miller,St. Louis Rams,1995,18,15,13
+Mark Rypien,St. Louis Rams,1995,9,8,3
+Jeff Hostetler,Oakland Raiders,1995,12,9,11
+Vince Evans,Oakland Raiders,1995,6,8,3
+Billy Joe Hobert,Oakland Raiders,1995,6,4,2
+Dan Marino*,Miami Dolphins,1995,24,15,14
+Bernie Kosar,Miami Dolphins,1995,3,5,2
+Warren Moon*,Minnesota Vikings,1995,33,14,16
+Drew Bledsoe,New England Patriots,1995,13,16,15
+Scott Zolak,New England Patriots,1995,1,0,1
+Jim Everett,New Orleans Saints,1995,26,14,16
+Dave Brown,New York Giants,1995,11,10,16
+Boomer Esiason,New York Jets,1995,16,15,12
+Bubby Brister,New York Jets,1995,4,8,4
+Rodney Peete,Philadelphia Eagles,1995,8,14,12
+Randall Cunningham,Philadelphia Eagles,1995,3,5,4
+Neil O'Donnell,Pittsburgh Steelers,1995,17,7,12
+Mike Tomczak,Pittsburgh Steelers,1995,1,9,4
+Kordell Stewart,Pittsburgh Steelers,1995,1,0,2
+Rick Mirer,Seattle Seahawks,1995,13,20,13
+John Friesz,Seattle Seahawks,1995,6,3,3
+Steve Young*,San Francisco 49ers,1995,20,11,11
+Elvis Grbac,San Francisco 49ers,1995,8,5,5
+Trent Dilfer,Tampa Bay Buccaneers,1995,4,18,16
+Chris Chandler,Houston Oilers,1995,17,10,13
+Will Furrer,Houston Oilers,1995,2,7,1
+Steve McNair,Houston Oilers,1995,3,1,2
+Gus Frerotte,Washington Redskins,1995,13,13,11
+Heath Shuler,Washington Redskins,1995,3,7,5
+Boomer Esiason,Arizona Cardinals,1996,11,14,8
+Kent Graham,Arizona Cardinals,1996,12,7,8
+Bobby Hebert,Atlanta Falcons,1996,22,25,13
+Jeff George,Atlanta Falcons,1996,3,3,3
+Vinny Testaverde*,Baltimore Ravens,1996,33,19,16
+Jim Kelly,Buffalo Bills,1996,14,19,13
+Todd Collins,Buffalo Bills,1996,4,5,3
+Kerry Collins*,Carolina Panthers,1996,14,9,12
+Steve Beuerlein,Carolina Panthers,1996,8,2,4
+Dave Krieg,Chicago Bears,1996,14,12,12
+Erik Kramer,Chicago Bears,1996,3,6,4
+Jeff Blake,Cincinnati Bengals,1996,24,14,16
+Troy Aikman*,Dallas Cowboys,1996,12,13,15
+Wade Wilson,Dallas Cowboys,1996,0,1,1
+John Elway*,Denver Broncos,1996,26,14,15
+Bill Musgrave,Denver Broncos,1996,0,2,1
+Scott Mitchell,Detroit Lions,1996,17,17,14
+Don Majkowski,Detroit Lions,1996,3,3,2
+Brett Favre*+,Green Bay Packers,1996,39,13,16
+Jim Harbaugh,Indianapolis Colts,1996,13,11,14
+Paul Justin,Indianapolis Colts,1996,2,0,2
+Mark Brunell*,Jacksonville Jaguars,1996,19,20,16
+Steve Bono,Kansas City Chiefs,1996,12,13,13
+Rich Gannon,Kansas City Chiefs,1996,6,1,3
+Stan Humphries,San Diego Chargers,1996,18,13,13
+Sean Salisbury,San Diego Chargers,1996,5,8,3
+Tony Banks,St. Louis Rams,1996,15,15,13
+Steve Walsh,St. Louis Rams,1996,0,5,3
+Jeff Hostetler,Oakland Raiders,1996,23,14,13
+Billy Joe Hobert,Oakland Raiders,1996,4,5,3
+Dan Marino,Miami Dolphins,1996,17,9,13
+Craig Erickson,Miami Dolphins,1996,4,2,3
+Brad Johnson,Minnesota Vikings,1996,17,10,8
+Warren Moon,Minnesota Vikings,1996,7,9,8
+Drew Bledsoe*,New England Patriots,1996,27,15,16
+Jim Everett,New Orleans Saints,1996,12,16,15
+Doug Nussmeier,New Orleans Saints,1996,1,1,1
+Dave Brown,New York Giants,1996,12,20,16
+Frank Reich,New York Jets,1996,15,16,7
+Neil O'Donnell,New York Jets,1996,4,7,6
+Glenn Foley,New York Jets,1996,3,7,3
+Ty Detmer,Philadelphia Eagles,1996,15,13,11
+Rodney Peete,Philadelphia Eagles,1996,3,5,5
+Mike Tomczak,Pittsburgh Steelers,1996,15,17,15
+Kordell Stewart,Pittsburgh Steelers,1996,0,2,2
+Jim Miller,Pittsburgh Steelers,1996,0,0,1
+Rick Mirer,Seattle Seahawks,1996,5,12,9
+John Friesz,Seattle Seahawks,1996,8,4,6
+Stan Gelbaugh,Seattle Seahawks,1996,0,0,1
+Steve Young*,San Francisco 49ers,1996,14,6,12
+Elvis Grbac,San Francisco 49ers,1996,8,10,4
+Trent Dilfer,Tampa Bay Buccaneers,1996,12,19,16
+Chris Chandler,Houston Oilers,1996,16,11,12
+Steve McNair,Houston Oilers,1996,6,4,4
+Gus Frerotte*,Washington Redskins,1996,12,11,16
+Jake Plummer,Arizona Cardinals,1997,15,15,9
+Kent Graham,Arizona Cardinals,1997,4,5,6
+Stoney Case,Arizona Cardinals,1997,0,2,1
+Chris Chandler*,Atlanta Falcons,1997,20,7,14
+Billy Joe Tolliver,Atlanta Falcons,1997,5,1,1
+Tony Graziani,Atlanta Falcons,1997,0,2,1
+Vinny Testaverde,Baltimore Ravens,1997,18,15,13
+Eric Zeier,Baltimore Ravens,1997,7,1,3
+Todd Collins,Buffalo Bills,1997,12,13,13
+Alex Van Pelt,Buffalo Bills,1997,2,10,3
+Kerry Collins,Carolina Panthers,1997,11,21,13
+Steve Beuerlein,Carolina Panthers,1997,6,3,3
+Erik Kramer,Chicago Bears,1997,14,14,13
+Rick Mirer,Chicago Bears,1997,0,6,3
+Jeff Blake,Cincinnati Bengals,1997,8,7,11
+Boomer Esiason,Cincinnati Bengals,1997,13,2,5
+Troy Aikman,Dallas Cowboys,1997,19,12,16
+John Elway*,Denver Broncos,1997,27,11,16
+Scott Mitchell,Detroit Lions,1997,19,14,16
+Brett Favre*+,Green Bay Packers,1997,35,16,16
+Jim Harbaugh,Indianapolis Colts,1997,10,4,11
+Paul Justin,Indianapolis Colts,1997,5,5,4
+Kelly Holcomb,Indianapolis Colts,1997,1,8,1
+Mark Brunell*,Jacksonville Jaguars,1997,18,7,14
+Steve Matthews,Jacksonville Jaguars,1997,0,0,1
+Rob Johnson,Jacksonville Jaguars,1997,2,2,1
+Elvis Grbac,Kansas City Chiefs,1997,11,6,10
+Rich Gannon,Kansas City Chiefs,1997,7,4,6
+Craig Whelihan,San Diego Chargers,1997,6,10,7
+Stan Humphries,San Diego Chargers,1997,5,6,8
+Jim Everett,San Diego Chargers,1997,1,4,1
+Tony Banks,St. Louis Rams,1997,14,13,16
+Jeff George,Oakland Raiders,1997,29,9,16
+Dan Marino,Miami Dolphins,1997,16,11,16
+Brad Johnson,Minnesota Vikings,1997,20,12,13
+Randall Cunningham,Minnesota Vikings,1997,6,4,3
+Drew Bledsoe*,New England Patriots,1997,28,15,16
+Heath Shuler,New Orleans Saints,1997,2,14,9
+Billy Joe Hobert,New Orleans Saints,1997,6,8,4
+Danny Wuerffel,New Orleans Saints,1997,4,8,2
+Doug Nussmeier,New Orleans Saints,1997,0,3,1
+Danny Kanell,New York Giants,1997,11,9,10
+Dave Brown,New York Giants,1997,5,3,6
+Neil O'Donnell,New York Jets,1997,17,7,14
+Glenn Foley,New York Jets,1997,3,1,2
+Ty Detmer,Philadelphia Eagles,1997,7,6,7
+Bobby Hoying,Philadelphia Eagles,1997,11,6,6
+Rodney Peete,Philadelphia Eagles,1997,4,4,3
+Kordell Stewart,Pittsburgh Steelers,1997,21,17,16
+Warren Moon*,Seattle Seahawks,1997,25,16,14
+Jon Kitna,Seattle Seahawks,1997,1,2,1
+John Friesz,Seattle Seahawks,1997,0,3,1
+Steve Young*,San Francisco 49ers,1997,19,6,15
+Jim Druckenmiller,San Francisco 49ers,1997,1,4,1
+Trent Dilfer*,Tampa Bay Buccaneers,1997,21,11,16
+Steve McNair,Tennessee Oilers,1997,14,13,16
+Gus Frerotte,Washington Redskins,1997,17,12,13
+Jeff Hostetler,Washington Redskins,1997,5,10,3
+Jake Plummer,Arizona Cardinals,1998,17,20,16
+Chris Chandler*,Atlanta Falcons,1998,25,12,14
+Steve DeBerg,Atlanta Falcons,1998,3,1,1
+Tony Graziani,Atlanta Falcons,1998,0,2,1
+Jim Harbaugh,Baltimore Ravens,1998,12,11,12
+Eric Zeier,Baltimore Ravens,1998,4,3,4
+Doug Flutie*,Buffalo Bills,1998,20,11,10
+Rob Johnson,Buffalo Bills,1998,8,3,6
+Steve Beuerlein,Carolina Panthers,1998,17,12,12
+Kerry Collins,Carolina Panthers,1998,8,5,4
+Erik Kramer,Chicago Bears,1998,9,7,8
+Steve Stenstrom,Chicago Bears,1998,4,6,7
+Moses Moreno,Chicago Bears,1998,1,0,1
+Neil O'Donnell,Cincinnati Bengals,1998,15,4,11
+Jeff Blake,Cincinnati Bengals,1998,3,3,2
+Paul Justin,Cincinnati Bengals,1998,1,3,3
+Troy Aikman,Dallas Cowboys,1998,12,5,11
+Jason Garrett,Dallas Cowboys,1998,5,3,5
+John Elway*,Denver Broncos,1998,22,10,12
+Bubby Brister,Denver Broncos,1998,10,3,4
+Charlie Batch,Detroit Lions,1998,11,6,12
+Frank Reich,Detroit Lions,1998,5,4,2
+Scott Mitchell,Detroit Lions,1998,1,3,2
+Brett Favre,Green Bay Packers,1998,31,23,16
+Peyton Manning,Indianapolis Colts,1998,26,28,16
+Mark Brunell,Jacksonville Jaguars,1998,20,9,13
+Jonathan Quinn,Jacksonville Jaguars,1998,2,3,2
+Jamie Martin,Jacksonville Jaguars,1998,2,0,1
+Rich Gannon,Kansas City Chiefs,1998,10,6,10
+Elvis Grbac,Kansas City Chiefs,1998,5,12,6
+Craig Whelihan,San Diego Chargers,1998,8,19,7
+Ryan Leaf,San Diego Chargers,1998,2,15,9
+Tony Banks,St. Louis Rams,1998,7,14,14
+Steve Bono,St. Louis Rams,1998,5,4,2
+Donald Hollas,Oakland Raiders,1998,10,16,6
+Jeff George,Oakland Raiders,1998,4,5,7
+Wade Wilson,Oakland Raiders,1998,7,4,3
+Dan Marino,Miami Dolphins,1998,23,15,16
+Randall Cunningham*+,Minnesota Vikings,1998,34,10,14
+Brad Johnson,Minnesota Vikings,1998,7,5,2
+Drew Bledsoe,New England Patriots,1998,20,14,14
+Scott Zolak,New England Patriots,1998,3,3,2
+Billy Joe Tolliver,New Orleans Saints,1998,8,4,4
+Kerry Collins,New Orleans Saints,1998,4,10,7
+Danny Wuerffel,New Orleans Saints,1998,5,5,4
+Billy Joe Hobert,New Orleans Saints,1998,1,0,1
+Danny Kanell,New York Giants,1998,11,10,10
+Kent Graham,New York Giants,1998,7,5,6
+Vinny Testaverde*,New York Jets,1998,29,7,13
+Glenn Foley,New York Jets,1998,4,6,3
+Bobby Hoying,Philadelphia Eagles,1998,0,9,7
+Koy Detmer,Philadelphia Eagles,1998,5,5,5
+Rodney Peete,Philadelphia Eagles,1998,2,4,4
+Kordell Stewart,Pittsburgh Steelers,1998,11,18,16
+Warren Moon,Seattle Seahawks,1998,11,8,10
+Jon Kitna,Seattle Seahawks,1998,7,8,5
+John Friesz,Seattle Seahawks,1998,2,2,1
+Steve Young*,San Francisco 49ers,1998,36,12,15
+Ty Detmer,San Francisco 49ers,1998,4,3,1
+Trent Dilfer,Tampa Bay Buccaneers,1998,21,15,16
+Steve McNair,Tennessee Oilers,1998,15,10,16
+Trent Green,Washington Redskins,1998,23,11,14
+Gus Frerotte,Washington Redskins,1998,1,3,2
+Jake Plummer,Arizona Cardinals,1999,9,24,11
+Dave Brown,Arizona Cardinals,1999,2,6,5
+Chris Chandler,Atlanta Falcons,1999,16,11,12
+Tony Graziani,Atlanta Falcons,1999,2,4,3
+Danny Kanell,Atlanta Falcons,1999,4,4,1
+Tony Banks,Baltimore Ravens,1999,17,8,10
+Stoney Case,Baltimore Ravens,1999,3,8,4
+Scott Mitchell,Baltimore Ravens,1999,1,4,2
+Doug Flutie,Buffalo Bills,1999,19,16,15
+Rob Johnson,Buffalo Bills,1999,2,0,1
+Steve Beuerlein*,Carolina Panthers,1999,36,15,16
+Shane Matthews,Chicago Bears,1999,10,6,7
+Cade McNown,Chicago Bears,1999,8,10,6
+Jim Miller,Chicago Bears,1999,7,6,3
+Jeff Blake,Cincinnati Bengals,1999,16,12,12
+Akili Smith,Cincinnati Bengals,1999,2,6,4
+Tim Couch,Cleveland Browns,1999,15,13,14
+Ty Detmer,Cleveland Browns,1999,4,2,2
+Troy Aikman,Dallas Cowboys,1999,17,12,14
+Jason Garrett,Dallas Cowboys,1999,3,1,2
+Brian Griese,Denver Broncos,1999,14,14,13
+Chris Miller,Denver Broncos,1999,2,1,3
+Gus Frerotte,Detroit Lions,1999,9,7,6
+Charlie Batch,Detroit Lions,1999,13,7,10
+Brett Favre,Green Bay Packers,1999,22,23,16
+Peyton Manning*,Indianapolis Colts,1999,26,15,16
+Mark Brunell*,Jacksonville Jaguars,1999,14,9,15
+Jay Fiedler,Jacksonville Jaguars,1999,2,2,1
+Elvis Grbac,Kansas City Chiefs,1999,22,15,16
+Jim Harbaugh,San Diego Chargers,1999,10,14,12
+Erik Kramer,San Diego Chargers,1999,2,10,4
+Kurt Warner*+,St. Louis Rams,1999,41,13,16
+Rich Gannon*,Oakland Raiders,1999,24,14,16
+Dan Marino,Miami Dolphins,1999,12,17,11
+Damon Huard,Miami Dolphins,1999,8,4,5
+Jeff George,Minnesota Vikings,1999,23,12,10
+Randall Cunningham,Minnesota Vikings,1999,8,9,6
+Drew Bledsoe,New England Patriots,1999,19,21,16
+Billy Joe Tolliver,New Orleans Saints,1999,7,16,7
+Billy Joe Hobert,New Orleans Saints,1999,6,6,7
+Jake Delhomme,New Orleans Saints,1999,3,5,2
+Kerry Collins,New York Giants,1999,8,11,7
+Kent Graham,New York Giants,1999,9,9,9
+Ray Lucas,New York Jets,1999,14,6,9
+Rick Mirer,New York Jets,1999,5,9,6
+Vinny Testaverde,New York Jets,1999,1,1,1
+Doug Pederson,Philadelphia Eagles,1999,7,9,9
+Donovan McNabb,Philadelphia Eagles,1999,8,7,6
+Koy Detmer,Philadelphia Eagles,1999,3,2,1
+Kordell Stewart,Pittsburgh Steelers,1999,6,10,12
+Mike Tomczak,Pittsburgh Steelers,1999,12,8,5
+Jon Kitna,Seattle Seahawks,1999,23,16,15
+Glenn Foley,Seattle Seahawks,1999,2,0,1
+Jeff Garcia,San Francisco 49ers,1999,11,11,10
+Steve Stenstrom,San Francisco 49ers,1999,0,4,3
+Steve Young,San Francisco 49ers,1999,3,4,3
+Trent Dilfer,Tampa Bay Buccaneers,1999,11,11,10
+Shaun King,Tampa Bay Buccaneers,1999,7,4,5
+Eric Zeier,Tampa Bay Buccaneers,1999,0,1,1
+Steve McNair,Tennessee Titans,1999,12,8,11
+Neil O'Donnell,Tennessee Titans,1999,10,5,5
+Brad Johnson*,Washington Redskins,1999,24,13,16
+Jake Plummer,Arizona Cardinals,2000,13,21,14
+Dave Brown,Arizona Cardinals,2000,2,3,2
+Chris Chandler,Atlanta Falcons,2000,10,12,13
+Danny Kanell,Atlanta Falcons,2000,2,5,1
+Doug Johnson,Atlanta Falcons,2000,2,3,2
+Tony Banks,Baltimore Ravens,2000,8,8,8
+Trent Dilfer,Baltimore Ravens,2000,12,11,8
+Rob Johnson,Buffalo Bills,2000,12,7,11
+Doug Flutie,Buffalo Bills,2000,8,3,5
+Steve Beuerlein,Carolina Panthers,2000,19,18,16
+Cade McNown,Chicago Bears,2000,8,9,9
+Shane Matthews,Chicago Bears,2000,3,6,5
+Jim Miller,Chicago Bears,2000,1,1,2
+Akili Smith,Cincinnati Bengals,2000,3,6,11
+Scott Mitchell,Cincinnati Bengals,2000,3,8,5
+Tim Couch,Cleveland Browns,2000,7,9,7
+Doug Pederson,Cleveland Browns,2000,2,8,8
+Spergon Wynn,Cleveland Browns,2000,0,1,1
+Troy Aikman,Dallas Cowboys,2000,7,14,11
+Randall Cunningham,Dallas Cowboys,2000,6,4,3
+Anthony Wright,Dallas Cowboys,2000,0,3,2
+Brian Griese*,Denver Broncos,2000,19,4,10
+Gus Frerotte,Denver Broncos,2000,9,8,6
+Charlie Batch,Detroit Lions,2000,13,15,15
+Stoney Case,Detroit Lions,2000,1,4,1
+Brett Favre,Green Bay Packers,2000,20,16,16
+Peyton Manning*,Indianapolis Colts,2000,33,15,16
+Mark Brunell,Jacksonville Jaguars,2000,20,14,16
+Elvis Grbac*,Kansas City Chiefs,2000,28,14,15
+Warren Moon,Kansas City Chiefs,2000,1,1,1
+Ryan Leaf,San Diego Chargers,2000,11,18,9
+Jim Harbaugh,San Diego Chargers,2000,8,10,5
+Moses Moreno,San Diego Chargers,2000,0,2,2
+Kurt Warner*,St. Louis Rams,2000,21,18,11
+Trent Green,St. Louis Rams,2000,16,5,5
+Rich Gannon*+,Oakland Raiders,2000,28,11,16
+Jay Fiedler,Miami Dolphins,2000,14,14,15
+Damon Huard,Miami Dolphins,2000,1,3,1
+Daunte Culpepper*,Minnesota Vikings,2000,33,16,16
+Drew Bledsoe,New England Patriots,2000,17,13,16
+Jeff Blake,New Orleans Saints,2000,13,9,11
+Aaron Brooks,New Orleans Saints,2000,9,6,5
+Kerry Collins,New York Giants,2000,22,13,16
+Vinny Testaverde,New York Jets,2000,21,25,16
+Donovan McNabb*,Philadelphia Eagles,2000,21,13,16
+Kordell Stewart,Pittsburgh Steelers,2000,11,8,11
+Kent Graham,Pittsburgh Steelers,2000,1,1,5
+Jon Kitna,Seattle Seahawks,2000,18,19,12
+Brock Huard,Seattle Seahawks,2000,3,2,4
+Jeff Garcia*,San Francisco 49ers,2000,31,10,16
+Shaun King,Tampa Bay Buccaneers,2000,18,13,16
+Steve McNair*,Tennessee Titans,2000,15,13,15
+Neil O'Donnell,Tennessee Titans,2000,2,3,1
+Brad Johnson,Washington Redskins,2000,11,15,11
+Jeff George,Washington Redskins,2000,7,6,5
+Jake Plummer,Arizona Cardinals,2001,18,14,16
+Chris Chandler,Atlanta Falcons,2001,16,14,14
+Michael Vick,Atlanta Falcons,2001,2,3,2
+Elvis Grbac,Baltimore Ravens,2001,15,18,14
+Randall Cunningham,Baltimore Ravens,2001,3,2,2
+Alex Van Pelt,Buffalo Bills,2001,12,11,8
+Rob Johnson,Buffalo Bills,2001,5,7,8
+Chris Weinke,Carolina Panthers,2001,11,19,15
+Matt Lytle,Carolina Panthers,2001,1,3,1
+Jim Miller,Chicago Bears,2001,13,10,13
+Shane Matthews,Chicago Bears,2001,5,6,3
+Jon Kitna,Cincinnati Bengals,2001,12,22,15
+Akili Smith,Cincinnati Bengals,2001,0,0,1
+Tim Couch,Cleveland Browns,2001,17,21,16
+Quincy Carter,Dallas Cowboys,2001,5,7,8
+Anthony Wright,Dallas Cowboys,2001,5,5,3
+Ryan Leaf,Dallas Cowboys,2001,1,3,3
+Clint Stoerner,Dallas Cowboys,2001,3,5,2
+Brian Griese,Denver Broncos,2001,23,19,15
+Gus Frerotte,Denver Broncos,2001,3,0,1
+Charlie Batch,Detroit Lions,2001,12,12,9
+Ty Detmer,Detroit Lions,2001,3,10,4
+Mike McMahon,Detroit Lions,2001,3,1,3
+Brett Favre*,Green Bay Packers,2001,32,15,16
+Peyton Manning,Indianapolis Colts,2001,26,23,16
+Mark Brunell,Jacksonville Jaguars,2001,19,13,15
+Jonathan Quinn,Jacksonville Jaguars,2001,1,1,1
+Trent Green,Kansas City Chiefs,2001,17,24,16
+Doug Flutie,San Diego Chargers,2001,15,18,16
+Kurt Warner*+,St. Louis Rams,2001,36,22,16
+Rich Gannon*,Oakland Raiders,2001,27,9,16
+Jay Fiedler,Miami Dolphins,2001,20,19,16
+Daunte Culpepper,Minnesota Vikings,2001,14,13,11
+Spergon Wynn,Minnesota Vikings,2001,1,6,2
+Todd Bouman,Minnesota Vikings,2001,8,4,3
+Tom Brady*,New England Patriots,2001,18,12,14
+Drew Bledsoe,New England Patriots,2001,2,2,2
+Aaron Brooks,New Orleans Saints,2001,26,22,16
+Kerry Collins,New York Giants,2001,19,16,16
+Vinny Testaverde,New York Jets,2001,15,14,16
+Donovan McNabb*,Philadelphia Eagles,2001,25,12,16
+Kordell Stewart*,Pittsburgh Steelers,2001,14,11,16
+Matt Hasselbeck,Seattle Seahawks,2001,7,8,12
+Trent Dilfer,Seattle Seahawks,2001,7,4,4
+Jeff Garcia*,San Francisco 49ers,2001,32,12,16
+Brad Johnson,Tampa Bay Buccaneers,2001,13,11,16
+Steve McNair,Tennessee Titans,2001,21,12,15
+Neil O'Donnell,Tennessee Titans,2001,2,2,1
+Tony Banks,Washington Redskins,2001,10,10,14
+Jeff George,Washington Redskins,2001,0,3,2
+Jake Plummer,Arizona Cardinals,2002,18,20,16
+Michael Vick*,Atlanta Falcons,2002,16,8,15
+Doug Johnson,Atlanta Falcons,2002,2,3,1
+Jeff Blake,Baltimore Ravens,2002,13,11,10
+Chris Redman,Baltimore Ravens,2002,7,3,6
+Drew Bledsoe*,Buffalo Bills,2002,24,15,16
+Rodney Peete,Carolina Panthers,2002,15,14,14
+Randy Fasani,Carolina Panthers,2002,0,4,1
+Chris Weinke,Carolina Panthers,2002,0,3,1
+Jim Miller,Chicago Bears,2002,13,9,8
+Chris Chandler,Chicago Bears,2002,4,4,7
+Henry Burris,Chicago Bears,2002,3,5,1
+Jon Kitna,Cincinnati Bengals,2002,16,16,12
+Gus Frerotte,Cincinnati Bengals,2002,1,5,3
+Akili Smith,Cincinnati Bengals,2002,0,1,1
+Tim Couch,Cleveland Browns,2002,18,18,14
+Kelly Holcomb,Cleveland Browns,2002,8,4,2
+Chad Hutchinson,Dallas Cowboys,2002,7,8,9
+Quincy Carter,Dallas Cowboys,2002,7,8,7
+Brian Griese,Denver Broncos,2002,15,15,13
+Steve Beuerlein,Denver Broncos,2002,6,5,3
+Joey Harrington,Detroit Lions,2002,12,16,12
+Mike McMahon,Detroit Lions,2002,7,9,4
+Brett Favre*,Green Bay Packers,2002,27,16,16
+David Carr,Houston Texans,2002,9,15,16
+Peyton Manning*,Indianapolis Colts,2002,27,19,16
+Mark Brunell,Jacksonville Jaguars,2002,17,7,15
+David Garrard,Jacksonville Jaguars,2002,1,2,1
+Trent Green,Kansas City Chiefs,2002,26,13,16
+Drew Brees,San Diego Chargers,2002,17,16,16
+Kurt Warner,St. Louis Rams,2002,3,11,6
+Marc Bulger,St. Louis Rams,2002,14,6,7
+Jamie Martin,St. Louis Rams,2002,7,10,2
+Scott Covington,St. Louis Rams,2002,0,0,1
+Rich Gannon*+,Oakland Raiders,2002,26,10,16
+Jay Fiedler,Miami Dolphins,2002,14,9,10
+Ray Lucas,Miami Dolphins,2002,4,6,6
+Daunte Culpepper,Minnesota Vikings,2002,18,23,16
+Tom Brady,New England Patriots,2002,28,14,16
+Aaron Brooks,New Orleans Saints,2002,27,15,16
+Kerry Collins,New York Giants,2002,19,14,16
+Chad Pennington,New York Jets,2002,22,6,12
+Vinny Testaverde,New York Jets,2002,3,3,4
+Donovan McNabb*,Philadelphia Eagles,2002,17,6,10
+A.J. Feeley,Philadelphia Eagles,2002,6,5,5
+Koy Detmer,Philadelphia Eagles,2002,2,0,1
+Tommy Maddox,Pittsburgh Steelers,2002,20,16,11
+Kordell Stewart,Pittsburgh Steelers,2002,6,6,5
+Matt Hasselbeck,Seattle Seahawks,2002,15,10,10
+Trent Dilfer,Seattle Seahawks,2002,4,6,6
+Jeff Garcia*,San Francisco 49ers,2002,21,10,16
+Brad Johnson*,Tampa Bay Buccaneers,2002,22,6,13
+Rob Johnson,Tampa Bay Buccaneers,2002,1,2,2
+Shaun King,Tampa Bay Buccaneers,2002,0,1,1
+Steve McNair,Tennessee Titans,2002,22,15,16
+Shane Matthews,Washington Redskins,2002,11,6,7
+Patrick Ramsey,Washington Redskins,2002,9,8,5
+Danny Wuerffel,Washington Redskins,2002,3,6,4
+Jeff Blake,Arizona Cardinals,2003,13,15,13
+Josh McCown,Arizona Cardinals,2003,5,6,3
+Doug Johnson,Atlanta Falcons,2003,8,12,8
+Kurt Kittner,Atlanta Falcons,2003,2,6,4
+Michael Vick,Atlanta Falcons,2003,4,3,4
+Kyle Boller,Baltimore Ravens,2003,7,9,9
+Anthony Wright,Baltimore Ravens,2003,9,8,7
+Drew Bledsoe,Buffalo Bills,2003,11,12,16
+Jake Delhomme,Carolina Panthers,2003,19,16,15
+Rodney Peete,Carolina Panthers,2003,0,0,1
+Kordell Stewart,Chicago Bears,2003,7,12,7
+Chris Chandler,Chicago Bears,2003,3,7,6
+Rex Grossman,Chicago Bears,2003,2,1,3
+Jon Kitna,Cincinnati Bengals,2003,26,15,16
+Kelly Holcomb,Cleveland Browns,2003,10,12,8
+Tim Couch,Cleveland Browns,2003,7,6,8
+Quincy Carter,Dallas Cowboys,2003,17,21,16
+Jake Plummer,Denver Broncos,2003,15,7,11
+Danny Kanell,Denver Broncos,2003,2,5,2
+Steve Beuerlein,Denver Broncos,2003,2,5,2
+Jarious Jackson,Denver Broncos,2003,0,1,1
+Joey Harrington,Detroit Lions,2003,17,22,16
+Brett Favre*,Green Bay Packers,2003,32,21,16
+David Carr,Houston Texans,2003,9,13,11
+Tony Banks,Houston Texans,2003,5,3,3
+Dave Ragone,Houston Texans,2003,0,1,2
+Peyton Manning*+,Indianapolis Colts,2003,29,10,16
+Byron Leftwich,Jacksonville Jaguars,2003,14,16,13
+Mark Brunell,Jacksonville Jaguars,2003,2,0,3
+Trent Green*,Kansas City Chiefs,2003,24,12,16
+Drew Brees,San Diego Chargers,2003,11,15,11
+Doug Flutie,San Diego Chargers,2003,9,4,5
+Marc Bulger*,St. Louis Rams,2003,22,22,15
+Kurt Warner,St. Louis Rams,2003,1,1,1
+Rich Gannon,Oakland Raiders,2003,6,4,7
+Rick Mirer,Oakland Raiders,2003,3,5,8
+Marques Tuiasosopo,Oakland Raiders,2003,0,3,1
+Jay Fiedler,Miami Dolphins,2003,11,13,11
+Brian Griese,Miami Dolphins,2003,5,6,5
+Daunte Culpepper*,Minnesota Vikings,2003,25,11,14
+Gus Frerotte,Minnesota Vikings,2003,7,2,2
+Tom Brady,New England Patriots,2003,23,12,16
+Aaron Brooks,New Orleans Saints,2003,24,8,16
+Kerry Collins,New York Giants,2003,13,16,13
+Jesse Palmer,New York Giants,2003,3,4,3
+Chad Pennington,New York Jets,2003,13,12,9
+Vinny Testaverde,New York Jets,2003,7,2,7
+Donovan McNabb*,Philadelphia Eagles,2003,16,11,16
+Tommy Maddox,Pittsburgh Steelers,2003,18,17,16
+Matt Hasselbeck*,Seattle Seahawks,2003,26,15,16
+Jeff Garcia,San Francisco 49ers,2003,18,13,13
+Tim Rattay,San Francisco 49ers,2003,7,2,3
+Brad Johnson,Tampa Bay Buccaneers,2003,26,21,16
+Steve McNair*,Tennessee Titans,2003,24,7,14
+Billy Volek,Tennessee Titans,2003,4,1,1
+Neil O'Donnell,Tennessee Titans,2003,2,1,1
+Patrick Ramsey,Washington Redskins,2003,14,9,11
+Tim Hasselbeck,Washington Redskins,2003,5,7,5
+Josh McCown,Arizona Cardinals,2004,11,10,13
+Shaun King,Arizona Cardinals,2004,1,4,2
+John Navarre,Arizona Cardinals,2004,1,4,1
+Michael Vick*,Atlanta Falcons,2004,14,12,15
+Matt Schaub,Atlanta Falcons,2004,1,4,1
+Kyle Boller,Baltimore Ravens,2004,13,11,16
+Drew Bledsoe,Buffalo Bills,2004,20,16,16
+Jake Delhomme,Carolina Panthers,2004,29,15,16
+Chad Hutchinson,Chicago Bears,2004,4,3,5
+Craig Krenzel,Chicago Bears,2004,3,6,5
+Jonathan Quinn,Chicago Bears,2004,1,3,3
+Rex Grossman,Chicago Bears,2004,1,3,3
+Carson Palmer,Cincinnati Bengals,2004,18,18,13
+Jon Kitna,Cincinnati Bengals,2004,5,4,3
+Jeff Garcia,Cleveland Browns,2004,10,9,10
+Luke McCown,Cleveland Browns,2004,4,7,4
+Kelly Holcomb,Cleveland Browns,2004,7,5,2
+Vinny Testaverde,Dallas Cowboys,2004,17,20,15
+Drew Henson,Dallas Cowboys,2004,1,1,1
+Jake Plummer,Denver Broncos,2004,27,20,16
+Joey Harrington,Detroit Lions,2004,19,12,16
+Brett Favre,Green Bay Packers,2004,30,17,16
+David Carr,Houston Texans,2004,16,14,16
+Peyton Manning*+,Indianapolis Colts,2004,49,10,16
+Byron Leftwich,Jacksonville Jaguars,2004,15,10,14
+David Garrard,Jacksonville Jaguars,2004,2,1,2
+Trent Green,Kansas City Chiefs,2004,27,17,16
+Drew Brees*,San Diego Chargers,2004,27,7,15
+Doug Flutie,San Diego Chargers,2004,1,0,1
+Marc Bulger,St. Louis Rams,2004,21,14,14
+Chris Chandler,St. Louis Rams,2004,2,8,2
+Kerry Collins,Oakland Raiders,2004,21,20,13
+Rich Gannon,Oakland Raiders,2004,3,2,3
+A.J. Feeley,Miami Dolphins,2004,11,15,8
+Jay Fiedler,Miami Dolphins,2004,7,8,7
+Sage Rosenfels,Miami Dolphins,2004,1,3,1
+Daunte Culpepper*,Minnesota Vikings,2004,39,11,16
+Tom Brady*,New England Patriots,2004,28,14,16
+Aaron Brooks,New Orleans Saints,2004,21,16,16
+Kurt Warner,New York Giants,2004,6,4,9
+Eli Manning,New York Giants,2004,6,9,7
+Chad Pennington,New York Jets,2004,16,9,13
+Quincy Carter,New York Jets,2004,3,1,3
+Donovan McNabb*,Philadelphia Eagles,2004,31,8,15
+Koy Detmer,Philadelphia Eagles,2004,0,2,1
+Ben Roethlisberger,Pittsburgh Steelers,2004,17,11,13
+Tommy Maddox,Pittsburgh Steelers,2004,1,2,3
+Matt Hasselbeck,Seattle Seahawks,2004,22,15,14
+Trent Dilfer,Seattle Seahawks,2004,1,3,2
+Tim Rattay,San Francisco 49ers,2004,10,10,9
+Ken Dorsey,San Francisco 49ers,2004,6,9,7
+Brian Griese,Tampa Bay Buccaneers,2004,20,12,10
+Brad Johnson,Tampa Bay Buccaneers,2004,3,3,4
+Chris Simms,Tampa Bay Buccaneers,2004,1,3,2
+Billy Volek,Tennessee Titans,2004,18,10,8
+Steve McNair,Tennessee Titans,2004,8,9,8
+Patrick Ramsey,Washington Redskins,2004,10,11,7
+Mark Brunell,Washington Redskins,2004,7,6,9
+Kurt Warner,Arizona Cardinals,2005,11,9,10
+Josh McCown,Arizona Cardinals,2005,9,11,6
+Michael Vick*,Atlanta Falcons,2005,15,13,15
+Matt Schaub,Atlanta Falcons,2005,4,0,1
+Kyle Boller,Baltimore Ravens,2005,11,12,9
+Anthony Wright,Baltimore Ravens,2005,6,9,7
+Kelly Holcomb,Buffalo Bills,2005,10,8,8
+J.P. Losman,Buffalo Bills,2005,8,8,8
+Jake Delhomme*,Carolina Panthers,2005,24,16,16
+Kyle Orton,Chicago Bears,2005,9,13,15
+Rex Grossman,Chicago Bears,2005,1,2,1
+Carson Palmer*,Cincinnati Bengals,2005,32,12,16
+Trent Dilfer,Cleveland Browns,2005,11,12,11
+Charlie Frye,Cleveland Browns,2005,4,5,5
+Drew Bledsoe,Dallas Cowboys,2005,23,17,16
+Jake Plummer*,Denver Broncos,2005,18,7,16
+Joey Harrington,Detroit Lions,2005,12,12,11
+Jeff Garcia,Detroit Lions,2005,3,6,5
+Brett Favre,Green Bay Packers,2005,20,29,16
+David Carr,Houston Texans,2005,14,11,16
+Peyton Manning*+,Indianapolis Colts,2005,28,10,16
+Byron Leftwich,Jacksonville Jaguars,2005,15,5,11
+David Garrard,Jacksonville Jaguars,2005,4,1,5
+Trent Green*,Kansas City Chiefs,2005,17,10,16
+Drew Brees,San Diego Chargers,2005,24,15,16
+Marc Bulger,St. Louis Rams,2005,14,9,8
+Jamie Martin,St. Louis Rams,2005,5,7,5
+Ryan Fitzpatrick,St. Louis Rams,2005,4,8,3
+Kerry Collins,Oakland Raiders,2005,20,12,15
+Marques Tuiasosopo,Oakland Raiders,2005,1,2,1
+Gus Frerotte,Miami Dolphins,2005,18,13,15
+Sage Rosenfels,Miami Dolphins,2005,4,3,1
+Brad Johnson,Minnesota Vikings,2005,12,4,9
+Daunte Culpepper,Minnesota Vikings,2005,6,12,7
+Tom Brady*,New England Patriots,2005,26,14,16
+Aaron Brooks,New Orleans Saints,2005,13,17,13
+Todd Bouman,New Orleans Saints,2005,2,7,3
+Eli Manning,New York Giants,2005,24,17,16
+Brooks Bollinger,New York Jets,2005,7,6,9
+Vinny Testaverde,New York Jets,2005,1,6,4
+Chad Pennington,New York Jets,2005,2,3,3
+Donovan McNabb,Philadelphia Eagles,2005,16,9,9
+Mike McMahon,Philadelphia Eagles,2005,5,8,7
+Ben Roethlisberger,Pittsburgh Steelers,2005,17,9,12
+Tommy Maddox,Pittsburgh Steelers,2005,2,4,2
+Charlie Batch,Pittsburgh Steelers,2005,1,1,2
+Matt Hasselbeck*,Seattle Seahawks,2005,24,9,16
+Alex Smith,San Francisco 49ers,2005,1,11,7
+Tim Rattay,San Francisco 49ers,2005,5,6,4
+Ken Dorsey,San Francisco 49ers,2005,2,2,3
+Cody Pickett,San Francisco 49ers,2005,0,2,2
+Chris Simms,Tampa Bay Buccaneers,2005,10,7,10
+Brian Griese,Tampa Bay Buccaneers,2005,7,7,6
+Steve McNair*,Tennessee Titans,2005,16,11,14
+Billy Volek,Tennessee Titans,2005,4,2,1
+Matt Mauck,Tennessee Titans,2005,0,1,1
+Mark Brunell,Washington Redskins,2005,23,10,15
+Patrick Ramsey,Washington Redskins,2005,1,1,1
+Matt Leinart,Arizona Cardinals,2006,11,12,11
+Kurt Warner,Arizona Cardinals,2006,6,5,5
+Michael Vick,Atlanta Falcons,2006,20,13,16
+Steve McNair,Baltimore Ravens,2006,16,12,16
+J.P. Losman,Buffalo Bills,2006,19,14,16
+Jake Delhomme,Carolina Panthers,2006,17,11,13
+Chris Weinke,Carolina Panthers,2006,2,4,3
+Rex Grossman,Chicago Bears,2006,23,20,16
+Carson Palmer*,Cincinnati Bengals,2006,28,13,16
+Charlie Frye,Cleveland Browns,2006,10,17,13
+Derek Anderson,Cleveland Browns,2006,5,8,3
+Tony Romo*,Dallas Cowboys,2006,19,13,10
+Drew Bledsoe,Dallas Cowboys,2006,7,8,6
+Jake Plummer,Denver Broncos,2006,11,13,11
+Jay Cutler,Denver Broncos,2006,9,5,5
+Jon Kitna,Detroit Lions,2006,21,22,16
+Brett Favre,Green Bay Packers,2006,18,18,16
+David Carr,Houston Texans,2006,11,12,16
+Peyton Manning*,Indianapolis Colts,2006,31,9,16
+David Garrard,Jacksonville Jaguars,2006,10,9,10
+Byron Leftwich,Jacksonville Jaguars,2006,7,5,6
+Damon Huard,Kansas City Chiefs,2006,11,1,8
+Trent Green,Kansas City Chiefs,2006,7,9,8
+Philip Rivers*,San Diego Chargers,2006,22,9,16
+Marc Bulger*,St. Louis Rams,2006,24,8,16
+Andrew Walter,Oakland Raiders,2006,3,13,8
+Aaron Brooks,Oakland Raiders,2006,3,8,8
+Joey Harrington,Miami Dolphins,2006,12,15,11
+Daunte Culpepper,Miami Dolphins,2006,2,3,4
+Cleo Lemon,Miami Dolphins,2006,2,1,1
+Brad Johnson,Minnesota Vikings,2006,9,15,14
+Tarvaris Jackson,Minnesota Vikings,2006,2,4,2
+Tom Brady,New England Patriots,2006,24,12,16
+Drew Brees*+,New Orleans Saints,2006,26,11,16
+Eli Manning,New York Giants,2006,24,18,16
+Chad Pennington,New York Jets,2006,17,16,16
+Donovan McNabb,Philadelphia Eagles,2006,18,6,10
+Jeff Garcia,Philadelphia Eagles,2006,10,2,6
+Ben Roethlisberger,Pittsburgh Steelers,2006,18,23,15
+Charlie Batch,Pittsburgh Steelers,2006,5,0,1
+Matt Hasselbeck,Seattle Seahawks,2006,18,15,12
+Seneca Wallace,Seattle Seahawks,2006,8,7,4
+Alex Smith,San Francisco 49ers,2006,16,16,16
+Bruce Gradkowski,Tampa Bay Buccaneers,2006,9,9,11
+Chris Simms,Tampa Bay Buccaneers,2006,1,7,3
+Tim Rattay,Tampa Bay Buccaneers,2006,4,2,2
+Vince Young*,Tennessee Titans,2006,12,13,13
+Kerry Collins,Tennessee Titans,2006,1,6,3
+Mark Brunell,Washington Redskins,2006,8,4,9
+Jason Campbell,Washington Redskins,2006,10,6,7
+Kurt Warner,Arizona Cardinals,2007,27,17,11
+Matt Leinart,Arizona Cardinals,2007,2,4,5
+Joey Harrington,Atlanta Falcons,2007,7,8,10
+Chris Redman,Atlanta Falcons,2007,10,5,4
+Byron Leftwich,Atlanta Falcons,2007,1,2,2
+Kyle Boller,Baltimore Ravens,2007,9,10,8
+Steve McNair,Baltimore Ravens,2007,2,4,6
+Troy Smith,Baltimore Ravens,2007,2,0,2
+Trent Edwards,Buffalo Bills,2007,7,8,9
+J.P. Losman,Buffalo Bills,2007,4,6,7
+Vinny Testaverde,Carolina Panthers,2007,5,6,6
+David Carr,Carolina Panthers,2007,3,5,4
+Matt Moore,Carolina Panthers,2007,3,5,3
+Jake Delhomme,Carolina Panthers,2007,8,1,3
+Brian Griese,Chicago Bears,2007,10,12,6
+Rex Grossman,Chicago Bears,2007,4,7,7
+Kyle Orton,Chicago Bears,2007,3,2,3
+Carson Palmer,Cincinnati Bengals,2007,26,20,16
+Derek Anderson*,Cleveland Browns,2007,29,19,15
+Charlie Frye,Cleveland Browns,2007,0,1,1
+Tony Romo*,Dallas Cowboys,2007,36,19,16
+Jay Cutler,Denver Broncos,2007,20,14,16
+Jon Kitna,Detroit Lions,2007,18,20,16
+Brett Favre*,Green Bay Packers,2007,28,15,16
+Matt Schaub,Houston Texans,2007,9,9,11
+Sage Rosenfels,Houston Texans,2007,15,12,5
+Peyton Manning*,Indianapolis Colts,2007,31,14,16
+David Garrard,Jacksonville Jaguars,2007,18,3,12
+Quinn Gray,Jacksonville Jaguars,2007,10,5,4
+Damon Huard,Kansas City Chiefs,2007,11,13,10
+Brodie Croyle,Kansas City Chiefs,2007,6,6,6
+Philip Rivers,San Diego Chargers,2007,21,15,16
+Marc Bulger,St. Louis Rams,2007,11,15,12
+Gus Frerotte,St. Louis Rams,2007,7,12,3
+Brock Berlin,St. Louis Rams,2007,0,1,1
+Josh McCown,Oakland Raiders,2007,10,11,9
+Daunte Culpepper,Oakland Raiders,2007,5,5,6
+JaMarcus Russell,Oakland Raiders,2007,2,4,1
+Cleo Lemon,Miami Dolphins,2007,6,6,7
+Trent Green,Miami Dolphins,2007,5,7,5
+John Beck,Miami Dolphins,2007,1,3,4
+Tarvaris Jackson,Minnesota Vikings,2007,9,12,12
+Kelly Holcomb,Minnesota Vikings,2007,2,1,3
+Brooks Bollinger,Minnesota Vikings,2007,1,1,1
+Tom Brady*+,New England Patriots,2007,50,8,16
+Drew Brees,New Orleans Saints,2007,28,18,16
+Eli Manning,New York Giants,2007,23,20,16
+Chad Pennington,New York Jets,2007,10,9,8
+Kellen Clemens,New York Jets,2007,5,10,8
+Donovan McNabb,Philadelphia Eagles,2007,19,7,14
+A.J. Feeley,Philadelphia Eagles,2007,5,8,2
+Ben Roethlisberger*,Pittsburgh Steelers,2007,32,11,15
+Charlie Batch,Pittsburgh Steelers,2007,2,3,1
+Matt Hasselbeck*,Seattle Seahawks,2007,28,12,16
+Trent Dilfer,San Francisco 49ers,2007,7,12,6
+Alex Smith,San Francisco 49ers,2007,2,4,7
+Shaun Hill,San Francisco 49ers,2007,5,1,2
+Chris Weinke,San Francisco 49ers,2007,1,0,1
+Jeff Garcia*,Tampa Bay Buccaneers,2007,13,4,13
+Luke McCown,Tampa Bay Buccaneers,2007,5,3,3
+Vince Young,Tennessee Titans,2007,9,17,15
+Kerry Collins,Tennessee Titans,2007,0,0,1
+Jason Campbell,Washington Redskins,2007,12,11,13
+Todd Collins,Washington Redskins,2007,5,0,3
+Kurt Warner*,Arizona Cardinals,2008,30,14,16
+Matt Ryan,Atlanta Falcons,2008,16,11,16
+Joe Flacco,Baltimore Ravens,2008,14,12,16
+Trent Edwards,Buffalo Bills,2008,11,10,14
+J.P. Losman,Buffalo Bills,2008,2,5,2
+Jake Delhomme,Carolina Panthers,2008,15,12,16
+Kyle Orton,Chicago Bears,2008,18,12,15
+Rex Grossman,Chicago Bears,2008,2,2,1
+Ryan Fitzpatrick,Cincinnati Bengals,2008,8,9,12
+Carson Palmer,Cincinnati Bengals,2008,3,4,4
+Derek Anderson,Cleveland Browns,2008,9,8,9
+Ken Dorsey,Cleveland Browns,2008,0,7,3
+Brady Quinn,Cleveland Browns,2008,2,2,3
+Bruce Gradkowski,Cleveland Browns,2008,0,3,1
+Tony Romo,Dallas Cowboys,2008,26,14,13
+Brad Johnson,Dallas Cowboys,2008,2,5,3
+Jay Cutler*,Denver Broncos,2008,25,18,16
+Dan Orlovsky,Detroit Lions,2008,8,8,7
+Jon Kitna,Detroit Lions,2008,5,5,4
+Daunte Culpepper,Detroit Lions,2008,4,6,5
+Aaron Rodgers,Green Bay Packers,2008,28,13,16
+Matt Schaub,Houston Texans,2008,15,10,11
+Sage Rosenfels,Houston Texans,2008,6,10,5
+Peyton Manning*+,Indianapolis Colts,2008,27,12,16
+David Garrard,Jacksonville Jaguars,2008,15,13,16
+Tyler Thigpen,Kansas City Chiefs,2008,18,12,11
+Damon Huard,Kansas City Chiefs,2008,2,4,3
+Brodie Croyle,Kansas City Chiefs,2008,0,0,2
+Philip Rivers,San Diego Chargers,2008,34,11,16
+Marc Bulger,St. Louis Rams,2008,11,13,15
+Trent Green,St. Louis Rams,2008,0,6,1
+JaMarcus Russell,Oakland Raiders,2008,13,8,15
+Andrew Walter,Oakland Raiders,2008,0,3,1
+Chad Pennington,Miami Dolphins,2008,19,7,16
+Gus Frerotte,Minnesota Vikings,2008,12,15,11
+Tarvaris Jackson,Minnesota Vikings,2008,9,2,5
+Matt Cassel,New England Patriots,2008,21,11,15
+Tom Brady,New England Patriots,2008,0,0,1
+Drew Brees*,New Orleans Saints,2008,34,17,16
+Eli Manning*,New York Giants,2008,21,10,16
+Brett Favre*,New York Jets,2008,22,22,16
+Donovan McNabb,Philadelphia Eagles,2008,23,11,16
+Ben Roethlisberger,Pittsburgh Steelers,2008,17,15,16
+Seneca Wallace,Seattle Seahawks,2008,11,3,8
+Matt Hasselbeck,Seattle Seahawks,2008,5,10,7
+Charlie Frye,Seattle Seahawks,2008,2,2,1
+Shaun Hill,San Francisco 49ers,2008,13,8,8
+J.T. O'Sullivan,San Francisco 49ers,2008,8,11,8
+Jeff Garcia,Tampa Bay Buccaneers,2008,12,6,11
+Brian Griese,Tampa Bay Buccaneers,2008,5,7,5
+Kerry Collins*,Tennessee Titans,2008,12,7,15
+Vince Young,Tennessee Titans,2008,1,2,1
+Jason Campbell,Washington Redskins,2008,13,6,16
+Kurt Warner,Arizona Cardinals,2009,26,14,15
+Matt Leinart,Arizona Cardinals,2009,0,3,1
+Matt Ryan,Atlanta Falcons,2009,22,14,14
+Chris Redman,Atlanta Falcons,2009,4,3,2
+Joe Flacco,Baltimore Ravens,2009,21,12,16
+Ryan Fitzpatrick,Buffalo Bills,2009,9,10,8
+Trent Edwards,Buffalo Bills,2009,6,7,7
+Brian Brohm,Buffalo Bills,2009,0,2,1
+Jake Delhomme,Carolina Panthers,2009,8,18,11
+Matt Moore,Carolina Panthers,2009,8,2,5
+Jay Cutler,Chicago Bears,2009,27,26,16
+Carson Palmer,Cincinnati Bengals,2009,21,13,16
+Brady Quinn,Cleveland Browns,2009,8,7,9
+Derek Anderson,Cleveland Browns,2009,3,10,7
+Tony Romo*,Dallas Cowboys,2009,26,9,16
+Kyle Orton,Denver Broncos,2009,21,12,15
+Chris Simms,Denver Broncos,2009,0,1,1
+Matthew Stafford,Detroit Lions,2009,13,20,10
+Daunte Culpepper,Detroit Lions,2009,3,6,5
+Drew Stanton,Detroit Lions,2009,0,6,1
+Aaron Rodgers*,Green Bay Packers,2009,30,7,16
+Matt Schaub*,Houston Texans,2009,29,15,16
+Peyton Manning*+,Indianapolis Colts,2009,33,16,16
+David Garrard*,Jacksonville Jaguars,2009,15,10,16
+Matt Cassel,Kansas City Chiefs,2009,16,16,15
+Brodie Croyle,Kansas City Chiefs,2009,2,0,1
+Philip Rivers*,San Diego Chargers,2009,28,9,16
+Marc Bulger,St. Louis Rams,2009,5,6,8
+Kyle Boller,St. Louis Rams,2009,3,6,4
+Keith Null,St. Louis Rams,2009,3,9,4
+JaMarcus Russell,Oakland Raiders,2009,3,11,9
+Bruce Gradkowski,Oakland Raiders,2009,6,3,4
+Charlie Frye,Oakland Raiders,2009,1,4,3
+Chad Henne,Miami Dolphins,2009,12,14,13
+Chad Pennington,Miami Dolphins,2009,1,2,3
+Brett Favre*,Minnesota Vikings,2009,33,7,16
+Tom Brady*,New England Patriots,2009,28,13,16
+Drew Brees*,New Orleans Saints,2009,34,11,15
+Mark Brunell,New Orleans Saints,2009,0,1,1
+Eli Manning,New York Giants,2009,27,14,16
+Mark Sanchez,New York Jets,2009,12,20,15
+Kellen Clemens,New York Jets,2009,0,0,1
+Donovan McNabb*,Philadelphia Eagles,2009,22,10,14
+Kevin Kolb,Philadelphia Eagles,2009,4,3,2
+Michael Vick,Philadelphia Eagles,2009,1,0,1
+Ben Roethlisberger,Pittsburgh Steelers,2009,26,12,15
+Dennis Dixon,Pittsburgh Steelers,2009,1,1,1
+Matt Hasselbeck,Seattle Seahawks,2009,17,17,14
+Seneca Wallace,Seattle Seahawks,2009,3,2,2
+Alex Smith,San Francisco 49ers,2009,18,12,10
+Shaun Hill,San Francisco 49ers,2009,5,2,6
+Josh Freeman,Tampa Bay Buccaneers,2009,10,18,9
+Josh Johnson,Tampa Bay Buccaneers,2009,4,8,4
+Byron Leftwich,Tampa Bay Buccaneers,2009,4,3,3
+Vince Young*,Tennessee Titans,2009,10,7,10
+Kerry Collins,Tennessee Titans,2009,6,8,6
+Jason Campbell,Washington Redskins,2009,20,15,16
+Derek Anderson,Arizona Cardinals,2010,7,10,9
+John Skelton,Arizona Cardinals,2010,2,2,4
+Max Hall,Arizona Cardinals,2010,1,6,3
+Matt Ryan*,Atlanta Falcons,2010,28,9,16
+Joe Flacco,Baltimore Ravens,2010,25,10,16
+Ryan Fitzpatrick,Buffalo Bills,2010,23,15,13
+Trent Edwards,Buffalo Bills,2010,1,2,2
+Brian Brohm,Buffalo Bills,2010,0,3,1
+Jimmy Clausen,Carolina Panthers,2010,3,9,10
+Matt Moore,Carolina Panthers,2010,5,10,5
+Brian St. Pierre,Carolina Panthers,2010,1,2,1
+Jay Cutler,Chicago Bears,2010,23,16,15
+Todd Collins,Chicago Bears,2010,0,5,1
+Carson Palmer,Cincinnati Bengals,2010,26,20,16
+Colt McCoy,Cleveland Browns,2010,6,9,8
+Jake Delhomme,Cleveland Browns,2010,2,7,4
+Seneca Wallace,Cleveland Browns,2010,4,2,4
+Jon Kitna,Dallas Cowboys,2010,16,12,9
+Tony Romo,Dallas Cowboys,2010,11,7,6
+Stephen McGee,Dallas Cowboys,2010,2,0,1
+Kyle Orton,Denver Broncos,2010,20,9,13
+Tim Tebow,Denver Broncos,2010,5,3,3
+Shaun Hill,Detroit Lions,2010,16,12,10
+Drew Stanton,Detroit Lions,2010,4,3,3
+Matthew Stafford,Detroit Lions,2010,6,1,3
+Aaron Rodgers,Green Bay Packers,2010,28,11,15
+Matt Flynn,Green Bay Packers,2010,3,2,1
+Matt Schaub,Houston Texans,2010,24,12,16
+Peyton Manning*,Indianapolis Colts,2010,33,17,16
+David Garrard,Jacksonville Jaguars,2010,23,15,14
+Trent Edwards,Jacksonville Jaguars,2010,1,3,1
+Todd Bouman,Jacksonville Jaguars,2010,2,2,1
+Matt Cassel*,Kansas City Chiefs,2010,27,7,15
+Brodie Croyle,Kansas City Chiefs,2010,0,1,1
+Philip Rivers*,San Diego Chargers,2010,30,13,16
+Sam Bradford,St. Louis Rams,2010,18,15,16
+Jason Campbell,Oakland Raiders,2010,13,8,12
+Bruce Gradkowski,Oakland Raiders,2010,5,7,4
+Chad Henne,Miami Dolphins,2010,15,19,14
+Tyler Thigpen,Miami Dolphins,2010,2,2,1
+Chad Pennington,Miami Dolphins,2010,0,0,1
+Brett Favre,Minnesota Vikings,2010,11,19,13
+Joe Webb,Minnesota Vikings,2010,0,3,2
+Tarvaris Jackson,Minnesota Vikings,2010,3,4,1
+Tom Brady*+,New England Patriots,2010,36,4,16
+Drew Brees*,New Orleans Saints,2010,33,22,16
+Eli Manning,New York Giants,2010,31,25,16
+Mark Sanchez,New York Jets,2010,17,13,16
+Michael Vick*,Philadelphia Eagles,2010,21,6,12
+Kevin Kolb,Philadelphia Eagles,2010,7,7,5
+Ben Roethlisberger,Pittsburgh Steelers,2010,17,5,12
+Charlie Batch,Pittsburgh Steelers,2010,3,3,2
+Dennis Dixon,Pittsburgh Steelers,2010,0,1,2
+Matt Hasselbeck,Seattle Seahawks,2010,12,17,14
+Charlie Whitehurst,Seattle Seahawks,2010,2,3,2
+Alex Smith,San Francisco 49ers,2010,14,10,10
+Troy Smith,San Francisco 49ers,2010,5,4,6
+Josh Freeman,Tampa Bay Buccaneers,2010,25,6,16
+Kerry Collins,Tennessee Titans,2010,14,8,7
+Vince Young,Tennessee Titans,2010,10,3,8
+Rusty Smith,Tennessee Titans,2010,0,4,1
+Donovan McNabb,Washington Redskins,2010,14,15,13
+Rex Grossman,Washington Redskins,2010,7,4,3
+John Skelton,Arizona Cardinals,2011,11,14,7
+Kevin Kolb,Arizona Cardinals,2011,9,8,9
+Matt Ryan,Atlanta Falcons,2011,29,12,16
+Joe Flacco,Baltimore Ravens,2011,20,12,16
+Ryan Fitzpatrick,Buffalo Bills,2011,24,23,16
+Cam Newton*,Carolina Panthers,2011,21,17,16
+Jay Cutler,Chicago Bears,2011,13,7,10
+Caleb Hanie,Chicago Bears,2011,3,9,4
+Josh McCown,Chicago Bears,2011,2,4,2
+Andy Dalton*,Cincinnati Bengals,2011,20,13,16
+Colt McCoy,Cleveland Browns,2011,14,11,13
+Seneca Wallace,Cleveland Browns,2011,2,2,3
+Tony Romo,Dallas Cowboys,2011,31,10,16
+Tim Tebow,Denver Broncos,2011,12,6,11
+Kyle Orton,Denver Broncos,2011,8,7,5
+Matthew Stafford,Detroit Lions,2011,41,16,16
+Aaron Rodgers*+,Green Bay Packers,2011,45,6,15
+Matt Flynn,Green Bay Packers,2011,6,2,1
+Matt Schaub,Houston Texans,2011,15,6,10
+T.J. Yates,Houston Texans,2011,3,3,5
+Matt Leinart,Houston Texans,2011,1,0,1
+Curtis Painter,Indianapolis Colts,2011,6,9,8
+Dan Orlovsky,Indianapolis Colts,2011,6,4,5
+Kerry Collins,Indianapolis Colts,2011,2,1,3
+Blaine Gabbert,Jacksonville Jaguars,2011,12,11,14
+Luke McCown,Jacksonville Jaguars,2011,0,4,2
+Matt Cassel,Kansas City Chiefs,2011,10,9,9
+Tyler Palko,Kansas City Chiefs,2011,2,7,4
+Kyle Orton,Kansas City Chiefs,2011,1,2,3
+Philip Rivers*,San Diego Chargers,2011,27,20,16
+Sam Bradford,St. Louis Rams,2011,6,6,10
+A.J. Feeley,St. Louis Rams,2011,1,2,3
+Kellen Clemens,St. Louis Rams,2011,2,1,3
+Carson Palmer,Oakland Raiders,2011,13,16,9
+Jason Campbell,Oakland Raiders,2011,6,4,6
+Kyle Boller,Oakland Raiders,2011,0,3,1
+Matt Moore,Miami Dolphins,2011,16,9,12
+Chad Henne,Miami Dolphins,2011,4,4,4
+Christian Ponder,Minnesota Vikings,2011,13,13,10
+Donovan McNabb,Minnesota Vikings,2011,4,2,6
+Joe Webb,Minnesota Vikings,2011,3,2,1
+Tom Brady*,New England Patriots,2011,39,12,16
+Drew Brees*,New Orleans Saints,2011,46,14,16
+Eli Manning*,New York Giants,2011,29,16,16
+Mark Sanchez,New York Jets,2011,26,18,16
+Michael Vick,Philadelphia Eagles,2011,18,14,13
+Vince Young,Philadelphia Eagles,2011,4,9,3
+Ben Roethlisberger*,Pittsburgh Steelers,2011,21,14,15
+Charlie Batch,Pittsburgh Steelers,2011,0,1,1
+Tarvaris Jackson,Seattle Seahawks,2011,14,13,14
+Charlie Whitehurst,Seattle Seahawks,2011,1,1,2
+Alex Smith,San Francisco 49ers,2011,17,5,16
+Josh Freeman,Tampa Bay Buccaneers,2011,16,22,15
+Josh Johnson,Tampa Bay Buccaneers,2011,1,2,1
+Matt Hasselbeck,Tennessee Titans,2011,18,14,16
+Rex Grossman,Washington Redskins,2011,16,20,13
+John Beck,Washington Redskins,2011,2,4,3
+John Skelton,Arizona Cardinals,2012,2,9,6
+Kevin Kolb,Arizona Cardinals,2012,8,3,5
+Ryan Lindley,Arizona Cardinals,2012,0,7,4
+Brian Hoyer,Arizona Cardinals,2012,1,2,1
+Matt Ryan*,Atlanta Falcons,2012,32,14,16
+Joe Flacco,Baltimore Ravens,2012,22,10,16
+Ryan Fitzpatrick,Buffalo Bills,2012,24,16,16
+Cam Newton,Carolina Panthers,2012,19,12,16
+Jay Cutler,Chicago Bears,2012,19,14,15
+Jason Campbell,Chicago Bears,2012,2,2,1
+Andy Dalton,Cincinnati Bengals,2012,27,16,16
+Brandon Weeden,Cleveland Browns,2012,14,17,15
+Thaddeus Lewis,Cleveland Browns,2012,1,1,1
+Tony Romo,Dallas Cowboys,2012,28,19,16
+Peyton Manning*+,Denver Broncos,2012,37,11,16
+Matthew Stafford,Detroit Lions,2012,20,17,16
+Aaron Rodgers*,Green Bay Packers,2012,39,8,16
+Matt Schaub*,Houston Texans,2012,22,12,16
+Andrew Luck*,Indianapolis Colts,2012,23,18,16
+Chad Henne,Jacksonville Jaguars,2012,11,11,6
+Blaine Gabbert,Jacksonville Jaguars,2012,9,6,10
+Matt Cassel,Kansas City Chiefs,2012,6,12,8
+Brady Quinn,Kansas City Chiefs,2012,2,8,8
+Philip Rivers,San Diego Chargers,2012,26,15,16
+Sam Bradford,St. Louis Rams,2012,21,13,16
+Carson Palmer,Oakland Raiders,2012,22,14,15
+Terrelle Pryor,Oakland Raiders,2012,2,1,1
+Ryan Tannehill,Miami Dolphins,2012,12,13,16
+Christian Ponder,Minnesota Vikings,2012,18,12,16
+Tom Brady*,New England Patriots,2012,34,8,16
+Drew Brees*,New Orleans Saints,2012,43,19,16
+Eli Manning*,New York Giants,2012,26,15,16
+Mark Sanchez,New York Jets,2012,13,18,15
+Greg McElroy,New York Jets,2012,1,1,1
+Tim Tebow,New York Jets,2012,0,0,2
+Michael Vick,Philadelphia Eagles,2012,12,10,10
+Nick Foles,Philadelphia Eagles,2012,6,5,6
+Ben Roethlisberger,Pittsburgh Steelers,2012,26,8,13
+Charlie Batch,Pittsburgh Steelers,2012,1,4,2
+Byron Leftwich,Pittsburgh Steelers,2012,0,1,1
+Russell Wilson*,Seattle Seahawks,2012,26,10,16
+Colin Kaepernick,San Francisco 49ers,2012,10,3,7
+Alex Smith,San Francisco 49ers,2012,13,5,9
+Josh Freeman,Tampa Bay Buccaneers,2012,27,17,16
+Jake Locker,Tennessee Titans,2012,10,11,11
+Matt Hasselbeck,Tennessee Titans,2012,7,5,5
+Robert Griffin III*,Washington Redskins,2012,20,5,15
+Kirk Cousins,Washington Redskins,2012,4,3,1
+Carson Palmer,Arizona Cardinals,2013,24,22,16
+Matt Ryan,Atlanta Falcons,2013,26,17,16
+Joe Flacco,Baltimore Ravens,2013,19,22,16
+EJ Manuel,Buffalo Bills,2013,11,9,10
+Thaddeus Lewis,Buffalo Bills,2013,4,3,5
+Jeff Tuel,Buffalo Bills,2013,1,3,1
+Cam Newton*,Carolina Panthers,2013,24,13,16
+Jay Cutler,Chicago Bears,2013,19,12,11
+Josh McCown,Chicago Bears,2013,13,1,5
+Andy Dalton,Cincinnati Bengals,2013,33,20,16
+Jason Campbell,Cleveland Browns,2013,11,8,8
+Brandon Weeden,Cleveland Browns,2013,9,9,5
+Brian Hoyer,Cleveland Browns,2013,5,3,3
+Tony Romo,Dallas Cowboys,2013,31,10,15
+Kyle Orton,Dallas Cowboys,2013,2,2,1
+Peyton Manning*+,Denver Broncos,2013,55,10,16
+Matthew Stafford,Detroit Lions,2013,29,19,16
+Aaron Rodgers,Green Bay Packers,2013,17,6,9
+Matt Flynn,Green Bay Packers,2013,7,4,4
+Scott Tolzien,Green Bay Packers,2013,1,5,2
+Seneca Wallace,Green Bay Packers,2013,0,1,1
+Matt Schaub,Houston Texans,2013,10,14,8
+Case Keenum,Houston Texans,2013,9,6,8
+Andrew Luck*,Indianapolis Colts,2013,23,9,16
+Chad Henne,Jacksonville Jaguars,2013,13,14,13
+Blaine Gabbert,Jacksonville Jaguars,2013,1,7,3
+Alex Smith*,Kansas City Chiefs,2013,23,7,15
+Chase Daniel,Kansas City Chiefs,2013,1,1,1
+Philip Rivers*,San Diego Chargers,2013,32,11,16
+Sam Bradford,St. Louis Rams,2013,14,4,7
+Kellen Clemens,St. Louis Rams,2013,8,7,9
+Terrelle Pryor,Oakland Raiders,2013,7,11,9
+Matt McGloin,Oakland Raiders,2013,8,8,6
+Matt Flynn,Oakland Raiders,2013,1,1,1
+Ryan Tannehill,Miami Dolphins,2013,24,17,16
+Matt Cassel,Minnesota Vikings,2013,11,9,6
+Christian Ponder,Minnesota Vikings,2013,7,9,9
+Josh Freeman,Minnesota Vikings,2013,0,1,1
+Tom Brady*,New England Patriots,2013,25,11,16
+Drew Brees*,New Orleans Saints,2013,39,12,16
+Eli Manning,New York Giants,2013,18,27,16
+Geno Smith,New York Jets,2013,12,21,16
+Nick Foles*,Philadelphia Eagles,2013,27,2,10
+Michael Vick,Philadelphia Eagles,2013,5,3,6
+Ben Roethlisberger,Pittsburgh Steelers,2013,28,14,16
+Russell Wilson*,Seattle Seahawks,2013,26,9,16
+Colin Kaepernick,San Francisco 49ers,2013,21,8,16
+Mike Glennon,Tampa Bay Buccaneers,2013,19,9,13
+Josh Freeman,Tampa Bay Buccaneers,2013,2,3,3
+Ryan Fitzpatrick,Tennessee Titans,2013,14,12,9
+Jake Locker,Tennessee Titans,2013,8,4,7
+Robert Griffin III,Washington Redskins,2013,16,12,13
+Kirk Cousins,Washington Redskins,2013,4,7,3
+Drew Stanton,Arizona Cardinals,2014,7,5,8
+Carson Palmer,Arizona Cardinals,2014,11,3,6
+Ryan Lindley,Arizona Cardinals,2014,2,4,2
+Matt Ryan*,Atlanta Falcons,2014,28,14,16
+Joe Flacco,Baltimore Ravens,2014,27,12,16
+Kyle Orton,Buffalo Bills,2014,18,10,12
+EJ Manuel,Buffalo Bills,2014,5,3,4
+Cam Newton,Carolina Panthers,2014,18,12,14
+Derek Anderson,Carolina Panthers,2014,5,0,2
+Jay Cutler,Chicago Bears,2014,28,18,15
+Jimmy Clausen,Chicago Bears,2014,2,1,1
+Andy Dalton*,Cincinnati Bengals,2014,19,17,16
+Brian Hoyer,Cleveland Browns,2014,12,13,13
+Johnny Manziel,Cleveland Browns,2014,0,2,2
+Connor Shaw,Cleveland Browns,2014,0,1,1
+Tony Romo*,Dallas Cowboys,2014,34,9,15
+Brandon Weeden,Dallas Cowboys,2014,3,2,1
+Peyton Manning*,Denver Broncos,2014,39,15,16
+Matthew Stafford*,Detroit Lions,2014,22,12,16
+Aaron Rodgers*+,Green Bay Packers,2014,38,5,16
+Ryan Fitzpatrick,Houston Texans,2014,17,8,12
+Case Keenum,Houston Texans,2014,2,2,2
+Ryan Mallett,Houston Texans,2014,2,2,2
+Andrew Luck*,Indianapolis Colts,2014,40,16,16
+Blake Bortles,Jacksonville Jaguars,2014,11,17,13
+Chad Henne,Jacksonville Jaguars,2014,3,1,3
+Alex Smith,Kansas City Chiefs,2014,18,6,15
+Chase Daniel,Kansas City Chiefs,2014,0,0,1
+Philip Rivers,San Diego Chargers,2014,31,18,16
+Austin Davis,St. Louis Rams,2014,12,9,8
+Shaun Hill,St. Louis Rams,2014,8,7,8
+Derek Carr,Oakland Raiders,2014,21,12,16
+Ryan Tannehill,Miami Dolphins,2014,27,12,16
+Teddy Bridgewater,Minnesota Vikings,2014,14,12,12
+Matt Cassel,Minnesota Vikings,2014,3,4,3
+Christian Ponder,Minnesota Vikings,2014,0,2,1
+Tom Brady*,New England Patriots,2014,33,9,16
+Drew Brees*,New Orleans Saints,2014,33,17,16
+Eli Manning,New York Giants,2014,30,14,16
+Geno Smith,New York Jets,2014,13,13,13
+Michael Vick,New York Jets,2014,3,2,3
+Nick Foles,Philadelphia Eagles,2014,13,10,8
+Mark Sanchez,Philadelphia Eagles,2014,14,11,8
+Ben Roethlisberger*,Pittsburgh Steelers,2014,32,9,16
+Russell Wilson*,Seattle Seahawks,2014,20,7,16
+Colin Kaepernick,San Francisco 49ers,2014,19,10,16
+Josh McCown,Tampa Bay Buccaneers,2014,11,14,11
+Mike Glennon,Tampa Bay Buccaneers,2014,10,6,5
+Charlie Whitehurst,Tennessee Titans,2014,7,2,5
+Zach Mettenberger,Tennessee Titans,2014,8,7,6
+Jake Locker,Tennessee Titans,2014,5,7,5
+Robert Griffin III,Washington Redskins,2014,4,6,7
+Kirk Cousins,Washington Redskins,2014,10,9,5
+Colt McCoy,Washington Redskins,2014,4,3,4
+Carson Palmer*,Arizona Cardinals,2015,35,11,16
+Matt Ryan,Atlanta Falcons,2015,21,16,16
+Joe Flacco,Baltimore Ravens,2015,14,12,10
+Ryan Mallett,Baltimore Ravens,2015,2,2,2
+Jimmy Clausen,Baltimore Ravens,2015,2,3,2
+Matt Schaub,Baltimore Ravens,2015,3,4,2
+Tyrod Taylor*,Buffalo Bills,2015,20,6,14
+EJ Manuel,Buffalo Bills,2015,3,3,2
+Matt Cassel,Buffalo Bills,2015,0,0,1
+Cam Newton*+,Carolina Panthers,2015,35,10,16
+Jay Cutler,Chicago Bears,2015,21,11,15
+Jimmy Clausen,Chicago Bears,2015,0,1,1
+Andy Dalton,Cincinnati Bengals,2015,25,7,13
+A.J. McCarron,Cincinnati Bengals,2015,6,2,3
+Josh McCown,Cleveland Browns,2015,12,4,8
+Johnny Manziel,Cleveland Browns,2015,7,5,6
+Austin Davis,Cleveland Browns,2015,1,3,2
+Matt Cassel,Dallas Cowboys,2015,5,7,7
+Tony Romo,Dallas Cowboys,2015,5,7,4
+Kellen Moore,Dallas Cowboys,2015,4,6,2
+Brandon Weeden,Dallas Cowboys,2015,2,2,3
+Peyton Manning,Denver Broncos,2015,9,17,9
+Brock Osweiler,Denver Broncos,2015,10,6,7
+Matthew Stafford,Detroit Lions,2015,32,13,16
+Aaron Rodgers*,Green Bay Packers,2015,31,8,16
+Brian Hoyer,Houston Texans,2015,19,7,9
+Ryan Mallett,Houston Texans,2015,3,4,4
+T.J. Yates,Houston Texans,2015,3,1,2
+Brandon Weeden,Houston Texans,2015,3,0,1
+Andrew Luck,Indianapolis Colts,2015,15,12,7
+Matt Hasselbeck,Indianapolis Colts,2015,9,5,8
+Josh Freeman,Indianapolis Colts,2015,1,1,1
+Blake Bortles,Jacksonville Jaguars,2015,35,18,16
+Alex Smith,Kansas City Chiefs,2015,20,7,16
+Philip Rivers,San Diego Chargers,2015,29,13,16
+Nick Foles,St. Louis Rams,2015,7,10,11
+Case Keenum,St. Louis Rams,2015,4,1,5
+Derek Carr*,Oakland Raiders,2015,32,13,16
+Ryan Tannehill,Miami Dolphins,2015,24,12,16
+Teddy Bridgewater*,Minnesota Vikings,2015,14,9,16
+Tom Brady*,New England Patriots,2015,36,7,16
+Drew Brees,New Orleans Saints,2015,32,11,15
+Luke McCown,New Orleans Saints,2015,0,1,1
+Eli Manning*,New York Giants,2015,35,14,16
+Ryan Fitzpatrick,New York Jets,2015,31,15,16
+Sam Bradford,Philadelphia Eagles,2015,19,14,14
+Mark Sanchez,Philadelphia Eagles,2015,4,4,2
+Ben Roethlisberger*,Pittsburgh Steelers,2015,21,16,11
+Michael Vick,Pittsburgh Steelers,2015,2,1,3
+Landry Jones,Pittsburgh Steelers,2015,3,4,2
+Russell Wilson*,Seattle Seahawks,2015,34,8,16
+Blaine Gabbert,San Francisco 49ers,2015,10,7,8
+Colin Kaepernick,San Francisco 49ers,2015,6,5,8
+Jameis Winston*,Tampa Bay Buccaneers,2015,22,15,16
+Marcus Mariota,Tennessee Titans,2015,19,10,12
+Zach Mettenberger,Tennessee Titans,2015,4,7,4
+Kirk Cousins,Washington Redskins,2015,29,11,16
+Carson Palmer,Arizona Cardinals,2016,26,14,15
+Drew Stanton,Arizona Cardinals,2016,2,3,1
+Matt Ryan*+,Atlanta Falcons,2016,38,7,16
+Joe Flacco,Baltimore Ravens,2016,20,15,16
+Tyrod Taylor,Buffalo Bills,2016,17,6,15
+EJ Manuel,Buffalo Bills,2016,0,0,1
+Cam Newton,Carolina Panthers,2016,19,14,14
+Derek Anderson,Carolina Panthers,2016,2,5,2
+Matt Barkley,Chicago Bears,2016,8,14,6
+Brian Hoyer,Chicago Bears,2016,6,0,5
+Jay Cutler,Chicago Bears,2016,4,5,5
+Andy Dalton*,Cincinnati Bengals,2016,18,8,16
+Cody Kessler,Cleveland Browns,2016,6,2,8
+Josh McCown,Cleveland Browns,2016,6,6,3
+Robert Griffin III,Cleveland Browns,2016,2,3,5
+Dak Prescott*,Dallas Cowboys,2016,23,4,16
+Trevor Siemian,Denver Broncos,2016,18,10,14
+Paxton Lynch,Denver Broncos,2016,2,1,2
+Matthew Stafford,Detroit Lions,2016,24,10,16
+Aaron Rodgers*,Green Bay Packers,2016,40,7,16
+Brock Osweiler,Houston Texans,2016,15,16,14
+Tom Savage,Houston Texans,2016,0,0,2
+Andrew Luck,Indianapolis Colts,2016,31,13,15
+Scott Tolzien,Indianapolis Colts,2016,1,2,1
+Blake Bortles,Jacksonville Jaguars,2016,23,16,16
+Alex Smith*,Kansas City Chiefs,2016,15,8,15
+Nick Foles,Kansas City Chiefs,2016,3,0,1
+Philip Rivers*,San Diego Chargers,2016,33,21,16
+Case Keenum,Los Angeles Rams,2016,9,11,9
+Jared Goff,Los Angeles Rams,2016,5,7,7
+Derek Carr*,Oakland Raiders,2016,28,6,15
+Matt McGloin,Oakland Raiders,2016,0,0,1
+Ryan Tannehill,Miami Dolphins,2016,19,12,13
+Matt Moore,Miami Dolphins,2016,8,3,3
+Sam Bradford,Minnesota Vikings,2016,20,5,15
+Shaun Hill,Minnesota Vikings,2016,0,0,1
+Tom Brady*,New England Patriots,2016,28,2,12
+Jimmy Garoppolo,New England Patriots,2016,4,0,2
+Jacoby Brissett,New England Patriots,2016,0,0,2
+Drew Brees*,New Orleans Saints,2016,37,15,16
+Eli Manning,New York Giants,2016,26,16,16
+Ryan Fitzpatrick,New York Jets,2016,12,17,11
+Bryce Petty,New York Jets,2016,3,7,4
+Geno Smith,New York Jets,2016,1,1,1
+Carson Wentz,Philadelphia Eagles,2016,16,14,16
+Ben Roethlisberger*,Pittsburgh Steelers,2016,29,13,14
+Landry Jones,Pittsburgh Steelers,2016,4,2,2
+Russell Wilson,Seattle Seahawks,2016,21,11,16
+Colin Kaepernick,San Francisco 49ers,2016,16,4,11
+Blaine Gabbert,San Francisco 49ers,2016,5,6,5
+Jameis Winston,Tampa Bay Buccaneers,2016,28,18,16
+Marcus Mariota,Tennessee Titans,2016,26,9,15
+Matt Cassel,Tennessee Titans,2016,2,2,1
+Kirk Cousins*,Washington Redskins,2016,25,12,16
+Carson Palmer,Arizona Cardinals,2017,9,7,7
+Blaine Gabbert,Arizona Cardinals,2017,6,6,5
+Drew Stanton,Arizona Cardinals,2017,6,5,4
+Matt Ryan,Atlanta Falcons,2017,20,12,16
+Joe Flacco,Baltimore Ravens,2017,18,13,16
+Tyrod Taylor,Buffalo Bills,2017,14,4,14
+Nathan Peterman,Buffalo Bills,2017,2,5,2
+Cam Newton,Carolina Panthers,2017,22,16,16
+Mitchell Trubisky,Chicago Bears,2017,7,7,12
+Mike Glennon,Chicago Bears,2017,4,5,4
+Andy Dalton,Cincinnati Bengals,2017,25,12,16
+DeShone Kizer,Cleveland Browns,2017,11,22,15
+Kevin Hogan,Cleveland Browns,2017,4,5,1
+Dak Prescott,Dallas Cowboys,2017,22,13,16
+Trevor Siemian,Denver Broncos,2017,12,14,10
+Brock Osweiler,Denver Broncos,2017,5,5,4
+Paxton Lynch,Denver Broncos,2017,2,3,2
+Matthew Stafford,Detroit Lions,2017,29,10,16
+Brett Hundley,Green Bay Packers,2017,9,12,9
+Aaron Rodgers,Green Bay Packers,2017,16,6,7
+Tom Savage,Houston Texans,2017,5,6,7
+Deshaun Watson,Houston Texans,2017,19,8,6
+T.J. Yates,Houston Texans,2017,4,3,3
+Jacoby Brissett,Indianapolis Colts,2017,13,7,15
+Scott Tolzien,Indianapolis Colts,2017,0,2,1
+Blake Bortles,Jacksonville Jaguars,2017,21,13,16
+Alex Smith*,Kansas City Chiefs,2017,26,5,15
+Patrick Mahomes,Kansas City Chiefs,2017,0,1,1
+Philip Rivers*,Los Angeles Chargers,2017,28,10,16
+Jared Goff*,Los Angeles Rams,2017,28,7,15
+Sean Mannion,Los Angeles Rams,2017,0,0,1
+Derek Carr*,Oakland Raiders,2017,22,13,15
+EJ Manuel,Oakland Raiders,2017,1,1,1
+Jay Cutler,Miami Dolphins,2017,19,14,14
+Matt Moore,Miami Dolphins,2017,4,5,2
+Case Keenum,Minnesota Vikings,2017,22,7,14
+Sam Bradford,Minnesota Vikings,2017,3,0,2
+Tom Brady*+,New England Patriots,2017,32,8,16
+Drew Brees*,New Orleans Saints,2017,23,8,16
+Eli Manning,New York Giants,2017,19,13,15
+Geno Smith,New York Giants,2017,1,0,1
+Josh McCown,New York Jets,2017,18,9,13
+Bryce Petty,New York Jets,2017,1,3,3
+Carson Wentz*,Philadelphia Eagles,2017,33,7,13
+Nick Foles,Philadelphia Eagles,2017,5,2,3
+Ben Roethlisberger*,Pittsburgh Steelers,2017,28,14,15
+Landry Jones,Pittsburgh Steelers,2017,1,1,1
+Russell Wilson*,Seattle Seahawks,2017,34,11,16
+C.J. Beathard,San Francisco 49ers,2017,4,6,5
+Brian Hoyer,San Francisco 49ers,2017,4,4,6
+Jimmy Garoppolo,San Francisco 49ers,2017,7,5,5
+Jameis Winston,Tampa Bay Buccaneers,2017,19,11,13
+Ryan Fitzpatrick,Tampa Bay Buccaneers,2017,7,3,3
+Marcus Mariota,Tennessee Titans,2017,13,15,15
+Matt Cassel,Tennessee Titans,2017,1,2,1
+Kirk Cousins,Washington Redskins,2017,27,13,16
+Josh Rosen,Arizona Cardinals,2018,11,14,13
+Sam Bradford,Arizona Cardinals,2018,2,4,3
+Matt Ryan,Atlanta Falcons,2018,35,7,16
+Joe Flacco,Baltimore Ravens,2018,12,6,9
+Lamar Jackson,Baltimore Ravens,2018,6,3,7
+Josh Allen,Buffalo Bills,2018,10,12,11
+Nathan Peterman,Buffalo Bills,2018,1,7,2
+Derek Anderson,Buffalo Bills,2018,0,4,2
+Matt Barkley,Buffalo Bills,2018,2,0,1
+Cam Newton,Carolina Panthers,2018,24,13,14
+Taylor Heinicke,Carolina Panthers,2018,1,3,1
+Kyle Allen,Carolina Panthers,2018,2,0,1
+Mitchell Trubisky*,Chicago Bears,2018,24,12,14
+Chase Daniel,Chicago Bears,2018,3,2,2
+Andy Dalton,Cincinnati Bengals,2018,21,11,11
+Jeff Driskel,Cincinnati Bengals,2018,6,2,5
+Baker Mayfield,Cleveland Browns,2018,27,14,13
+Tyrod Taylor,Cleveland Browns,2018,2,2,3
+Dak Prescott*,Dallas Cowboys,2018,22,8,16
+Case Keenum,Denver Broncos,2018,18,15,16
+Matthew Stafford,Detroit Lions,2018,21,11,16
+Aaron Rodgers*,Green Bay Packers,2018,25,2,16
+Deshaun Watson*,Houston Texans,2018,26,9,16
+Andrew Luck*,Indianapolis Colts,2018,39,15,16
+Blake Bortles,Jacksonville Jaguars,2018,13,11,12
+Cody Kessler,Jacksonville Jaguars,2018,2,2,4
+Patrick Mahomes*+,Kansas City Chiefs,2018,50,12,16
+Philip Rivers*,Los Angeles Chargers,2018,32,12,16
+Jared Goff*,Los Angeles Rams,2018,32,12,16
+Derek Carr,Oakland Raiders,2018,19,10,16
+Ryan Tannehill,Miami Dolphins,2018,17,9,11
+Brock Osweiler,Miami Dolphins,2018,6,4,5
+Kirk Cousins,Minnesota Vikings,2018,30,10,16
+Tom Brady*,New England Patriots,2018,29,11,16
+Drew Brees*,New Orleans Saints,2018,32,5,15
+Teddy Bridgewater,New Orleans Saints,2018,1,1,1
+Taysom Hill,New Orleans Saints,2018,0,1,4
+Eli Manning,New York Giants,2018,21,11,16
+Sam Darnold,New York Jets,2018,17,15,13
+Josh McCown,New York Jets,2018,1,4,3
+Carson Wentz,Philadelphia Eagles,2018,21,7,11
+Nick Foles,Philadelphia Eagles,2018,7,4,5
+Ben Roethlisberger,Pittsburgh Steelers,2018,34,16,16
+Russell Wilson*,Seattle Seahawks,2018,35,7,16
+Nick Mullens,San Francisco 49ers,2018,13,10,8
+C.J. Beathard,San Francisco 49ers,2018,8,7,5
+Jimmy Garoppolo,San Francisco 49ers,2018,5,3,3
+Jameis Winston,Tampa Bay Buccaneers,2018,19,14,9
+Ryan Fitzpatrick,Tampa Bay Buccaneers,2018,17,12,7
+Marcus Mariota,Tennessee Titans,2018,11,8,13
+Blaine Gabbert,Tennessee Titans,2018,4,4,3
+Alex Smith,Washington Redskins,2018,10,5,10
+Josh Johnson,Washington Redskins,2018,3,4,3
+Colt McCoy,Washington Redskins,2018,3,3,2
+Mark Sanchez,Washington Redskins,2018,0,3,1
+Kyler Murray,Arizona Cardinals,2019,20,12,16
+Matt Ryan,Atlanta Falcons,2019,26,14,15
+Matt Schaub,Atlanta Falcons,2019,3,1,1
+Lamar Jackson*+,Baltimore Ravens,2019,36,6,15
+Robert Griffin III,Baltimore Ravens,2019,1,2,1
+Josh Allen,Buffalo Bills,2019,20,9,16
+Kyle Allen,Carolina Panthers,2019,17,16,12
+Cam Newton,Carolina Panthers,2019,0,1,2
+Will Grier,Carolina Panthers,2019,0,4,2
+Mitchell Trubisky,Chicago Bears,2019,17,10,15
+Chase Daniel,Chicago Bears,2019,3,2,1
+Andy Dalton,Cincinnati Bengals,2019,16,14,13
+Ryan Finley,Cincinnati Bengals,2019,2,2,3
+Baker Mayfield,Cleveland Browns,2019,22,21,16
+Dak Prescott,Dallas Cowboys,2019,30,11,16
+Joe Flacco,Denver Broncos,2019,6,5,8
+Drew Lock,Denver Broncos,2019,7,3,5
+Brandon Allen,Denver Broncos,2019,3,2,3
+Matthew Stafford,Detroit Lions,2019,19,5,8
+David Blough,Detroit Lions,2019,4,6,5
+Jeff Driskel,Detroit Lions,2019,4,4,3
+Aaron Rodgers*,Green Bay Packers,2019,26,4,16
+Deshaun Watson*,Houston Texans,2019,26,12,15
+A.J. McCarron,Houston Texans,2019,0,1,1
+Jacoby Brissett,Indianapolis Colts,2019,18,6,15
+Brian Hoyer,Indianapolis Colts,2019,4,4,1
+Gardner Minshew II,Jacksonville Jaguars,2019,21,6,12
+Nick Foles,Jacksonville Jaguars,2019,3,2,4
+Patrick Mahomes*,Kansas City Chiefs,2019,26,5,14
+Matt Moore,Kansas City Chiefs,2019,4,0,2
+Philip Rivers,Los Angeles Chargers,2019,23,20,16
+Jared Goff,Los Angeles Rams,2019,22,16,16
+Derek Carr,Oakland Raiders,2019,21,8,16
+Ryan Fitzpatrick,Miami Dolphins,2019,20,13,13
+Josh Rosen,Miami Dolphins,2019,1,5,3
+Kirk Cousins*,Minnesota Vikings,2019,26,6,15
+Sean Mannion,Minnesota Vikings,2019,0,2,1
+Tom Brady,New England Patriots,2019,24,8,16
+Drew Brees*,New Orleans Saints,2019,27,4,11
+Teddy Bridgewater,New Orleans Saints,2019,9,2,5
+Daniel Jones,New York Giants,2019,24,12,12
+Eli Manning,New York Giants,2019,6,5,4
+Sam Darnold,New York Jets,2019,19,13,13
+Luke Falk,New York Jets,2019,0,3,2
+Trevor Siemian,New York Jets,2019,0,0,1
+Carson Wentz,Philadelphia Eagles,2019,27,7,16
+Mason Rudolph,Pittsburgh Steelers,2019,13,9,8
+Devlin Hodges,Pittsburgh Steelers,2019,5,8,6
+Ben Roethlisberger,Pittsburgh Steelers,2019,0,1,2
+Russell Wilson*,Seattle Seahawks,2019,31,5,16
+Jimmy Garoppolo,San Francisco 49ers,2019,27,13,16
+Jameis Winston,Tampa Bay Buccaneers,2019,33,30,16
+Ryan Tannehill*,Tennessee Titans,2019,22,6,10
+Marcus Mariota,Tennessee Titans,2019,7,2,6
+Case Keenum,Washington Redskins,2019,11,5,8
+Dwayne Haskins,Washington Redskins,2019,7,7,7
+Colt McCoy,Washington Redskins,2019,0,1,1
+Kyler Murray*,Arizona Cardinals,2020,26,12,16
+Matt Ryan,Atlanta Falcons,2020,26,11,16
+Lamar Jackson,Baltimore Ravens,2020,26,9,15
+Robert Griffin III,Baltimore Ravens,2020,0,2,1
+Josh Allen*,Buffalo Bills,2020,37,10,16
+Teddy Bridgewater,Carolina Panthers,2020,15,11,15
+P.J. Walker,Carolina Panthers,2020,1,5,1
+Nick Foles,Chicago Bears,2020,10,8,7
+Mitchell Trubisky,Chicago Bears,2020,16,8,9
+Joe Burrow,Cincinnati Bengals,2020,13,5,10
+Brandon Allen,Cincinnati Bengals,2020,5,4,5
+Ryan Finley,Cincinnati Bengals,2020,1,2,1
+Baker Mayfield,Cleveland Browns,2020,26,8,16
+Andy Dalton,Dallas Cowboys,2020,14,8,9
+Dak Prescott,Dallas Cowboys,2020,9,4,5
+Ben DiNucci,Dallas Cowboys,2020,0,0,1
+Garrett Gilbert,Dallas Cowboys,2020,1,1,1
+Drew Lock,Denver Broncos,2020,16,15,13
+Jeff Driskel,Denver Broncos,2020,3,2,1
+Brett Rypien,Denver Broncos,2020,2,4,1
+Matthew Stafford,Detroit Lions,2020,26,10,16
+Aaron Rodgers*+,Green Bay Packers,2020,48,5,16
+Deshaun Watson*,Houston Texans,2020,33,7,16
+Philip Rivers,Indianapolis Colts,2020,24,11,16
+Gardner Minshew II,Jacksonville Jaguars,2020,16,5,8
+Mike Glennon,Jacksonville Jaguars,2020,7,5,5
+Jake Luton,Jacksonville Jaguars,2020,2,6,3
+Patrick Mahomes*,Kansas City Chiefs,2020,38,6,15
+Chad Henne,Kansas City Chiefs,2020,2,0,1
+Justin Herbert,Los Angeles Chargers,2020,31,10,15
+Tyrod Taylor,Los Angeles Chargers,2020,0,0,1
+Jared Goff,Los Angeles Rams,2020,20,13,15
+John Wolford,Los Angeles Rams,2020,0,1,1
+Derek Carr,Las Vegas Raiders,2020,27,9,16
+Tua Tagovailoa,Miami Dolphins,2020,11,5,9
+Ryan Fitzpatrick,Miami Dolphins,2020,13,8,7
+Kirk Cousins,Minnesota Vikings,2020,35,13,16
+Cam Newton,New England Patriots,2020,8,10,15
+Brian Hoyer,New England Patriots,2020,0,1,1
+Drew Brees,New Orleans Saints,2020,24,6,12
+Daniel Jones,New York Giants,2020,11,10,14
+Colt McCoy,New York Giants,2020,1,1,2
+Sam Darnold,New York Jets,2020,9,11,12
+Joe Flacco,New York Jets,2020,6,3,4
+Carson Wentz,Philadelphia Eagles,2020,16,15,12
+Jalen Hurts,Philadelphia Eagles,2020,6,4,4
+Ben Roethlisberger,Pittsburgh Steelers,2020,33,10,15
+Mason Rudolph,Pittsburgh Steelers,2020,2,1,1
+Russell Wilson*,Seattle Seahawks,2020,40,13,16
+Nick Mullens,San Francisco 49ers,2020,12,12,8
+Jimmy Garoppolo,San Francisco 49ers,2020,7,5,6
+C.J. Beathard,San Francisco 49ers,2020,6,0,2
+Tom Brady,Tampa Bay Buccaneers,2020,40,12,16
+Ryan Tannehill,Tennessee Titans,2020,33,7,16
+Alex Smith,Washington Football Team,2020,6,8,6
+Dwayne Haskins,Washington Football Team,2020,5,7,6
+Kyle Allen,Washington Football Team,2020,4,1,4
+Kyler Murray*,Arizona Cardinals,2021,24,10,14
+Colt McCoy,Arizona Cardinals,2021,3,1,3
+Matt Ryan,Atlanta Falcons,2021,20,12,17
+Lamar Jackson*,Baltimore Ravens,2021,16,13,12
+Tyler Huntley,Baltimore Ravens,2021,3,4,4
+Josh Johnson,Baltimore Ravens,2021,2,1,1
+Josh Allen,Buffalo Bills,2021,36,15,17
+Sam Darnold,Carolina Panthers,2021,9,13,11
+Cam Newton,Carolina Panthers,2021,4,5,5
+P.J. Walker,Carolina Panthers,2021,1,3,1
+Justin Fields,Chicago Bears,2021,7,10,10
+Andy Dalton,Chicago Bears,2021,8,9,6
+Nick Foles,Chicago Bears,2021,1,0,1
+Joe Burrow,Cincinnati Bengals,2021,34,14,16
+Brandon Allen,Cincinnati Bengals,2021,2,0,1
+Baker Mayfield,Cleveland Browns,2021,17,13,14
+Case Keenum,Cleveland Browns,2021,3,1,2
+Nick Mullens,Cleveland Browns,2021,1,0,1
+Dak Prescott,Dallas Cowboys,2021,37,10,16
+Cooper Rush,Dallas Cowboys,2021,3,1,1
+Teddy Bridgewater,Denver Broncos,2021,18,7,14
+Drew Lock,Denver Broncos,2021,2,2,3
+Jared Goff,Detroit Lions,2021,19,8,14
+Tim Boyle,Detroit Lions,2021,3,6,3
+Aaron Rodgers*+,Green Bay Packers,2021,37,4,16
+Jordan Love,Green Bay Packers,2021,2,3,1
+Davis Mills,Houston Texans,2021,16,10,11
+Tyrod Taylor,Houston Texans,2021,5,5,6
+Carson Wentz,Indianapolis Colts,2021,27,7,17
+Trevor Lawrence,Jacksonville Jaguars,2021,12,17,17
+Patrick Mahomes*,Kansas City Chiefs,2021,37,13,17
+Justin Herbert*,Los Angeles Chargers,2021,38,15,17
+Matthew Stafford,Los Angeles Rams,2021,41,17,17
+Derek Carr,Las Vegas Raiders,2021,23,14,17
+Tua Tagovailoa,Miami Dolphins,2021,16,10,12
+Jacoby Brissett,Miami Dolphins,2021,5,4,5
+Kirk Cousins*,Minnesota Vikings,2021,33,7,16
+Sean Mannion,Minnesota Vikings,2021,1,0,1
+Mac Jones*,New England Patriots,2021,22,13,17
+Trevor Siemian,New Orleans Saints,2021,11,3,4
+Jameis Winston,New Orleans Saints,2021,14,3,7
+Taysom Hill,New Orleans Saints,2021,4,5,9
+Ian Book,New Orleans Saints,2021,0,2,1
+Daniel Jones,New York Giants,2021,10,7,11
+Mike Glennon,New York Giants,2021,4,10,4
+Jake Fromm,New York Giants,2021,1,3,2
+Zach Wilson,New York Jets,2021,9,11,13
+Mike White,New York Jets,2021,5,8,3
+Joe Flacco,New York Jets,2021,3,0,1
+Jalen Hurts,Philadelphia Eagles,2021,16,9,15
+Gardner Minshew II,Philadelphia Eagles,2021,4,1,2
+Ben Roethlisberger,Pittsburgh Steelers,2021,22,10,16
+Mason Rudolph,Pittsburgh Steelers,2021,1,1,1
+Russell Wilson*,Seattle Seahawks,2021,25,6,14
+Geno Smith,Seattle Seahawks,2021,5,1,3
+Jimmy Garoppolo,San Francisco 49ers,2021,20,12,15
+Trey Lance,San Francisco 49ers,2021,5,2,2
+Tom Brady*,Tampa Bay Buccaneers,2021,43,12,17
+Ryan Tannehill,Tennessee Titans,2021,21,14,17
+Taylor Heinicke,Washington Football Team,2021,20,15,15
+Garrett Gilbert,Washington Football Team,2021,0,0,1
+Ryan Fitzpatrick,Washington Football Team,2021,0,0,1
+Kyler Murray,Arizona Cardinals,2022,14,7,11
+Colt McCoy,Arizona Cardinals,2022,1,3,3
+Trace McSorley,Arizona Cardinals,2022,0,5,1
+David Blough,Arizona Cardinals,2022,2,2,2
+Marcus Mariota,Atlanta Falcons,2022,15,9,13
+Desmond Ridder,Atlanta Falcons,2022,2,0,4
+Lamar Jackson,Baltimore Ravens,2022,17,7,12
+Tyler Huntley*,Baltimore Ravens,2022,2,3,4
+Anthony Brown,Baltimore Ravens,2022,0,2,1
+Josh Allen*,Buffalo Bills,2022,35,14,16
+Baker Mayfield,Carolina Panthers,2022,6,6,6
+Sam Darnold,Carolina Panthers,2022,7,3,6
+P.J. Walker,Carolina Panthers,2022,3,3,5
+Justin Fields,Chicago Bears,2022,17,11,15
+Trevor Siemian,Chicago Bears,2022,1,1,1
+Nathan Peterman,Chicago Bears,2022,1,1,1
+Joe Burrow*,Cincinnati Bengals,2022,35,12,16
+Jacoby Brissett,Cleveland Browns,2022,12,6,11
+Deshaun Watson,Cleveland Browns,2022,7,5,6
+Dak Prescott,Dallas Cowboys,2022,23,15,12
+Cooper Rush,Dallas Cowboys,2022,5,3,5
+Russell Wilson,Denver Broncos,2022,16,11,15
+Brett Rypien,Denver Broncos,2022,2,4,2
+Jared Goff*,Detroit Lions,2022,29,7,17
+Aaron Rodgers,Green Bay Packers,2022,26,12,17
+Davis Mills,Houston Texans,2022,17,15,15
+Kyle Allen,Houston Texans,2022,2,4,2
+Jeff Driskel,Houston Texans,2022,1,0,2
+Matt Ryan,Indianapolis Colts,2022,14,13,12
+Sam Ehlinger,Indianapolis Colts,2022,3,3,3
+Nick Foles,Indianapolis Colts,2022,0,4,2
+Trevor Lawrence*,Jacksonville Jaguars,2022,25,8,17
+Patrick Mahomes*+,Kansas City Chiefs,2022,41,12,17
+Justin Herbert,Los Angeles Chargers,2022,25,10,17
+Matthew Stafford,Los Angeles Rams,2022,10,8,9
+Baker Mayfield,Los Angeles Rams,2022,4,2,4
+John Wolford,Los Angeles Rams,2022,1,3,3
+Bryce Perkins,Los Angeles Rams,2022,1,2,1
+Derek Carr*,Las Vegas Raiders,2022,24,14,15
+Jarrett Stidham,Las Vegas Raiders,2022,4,3,2
+Tua Tagovailoa,Miami Dolphins,2022,25,8,13
+Skylar Thompson,Miami Dolphins,2022,1,3,2
+Teddy Bridgewater,Miami Dolphins,2022,4,4,2
+Kirk Cousins*,Minnesota Vikings,2022,29,14,17
+Mac Jones,New England Patriots,2022,14,11,14
+Bailey Zappe,New England Patriots,2022,5,3,2
+Brian Hoyer,New England Patriots,2022,0,0,1
+Andy Dalton,New Orleans Saints,2022,18,9,14
+Jameis Winston,New Orleans Saints,2022,4,5,3
+Daniel Jones,New York Giants,2022,15,5,16
+Davis Webb,New York Giants,2022,1,0,1
+Zach Wilson,New York Jets,2022,6,7,9
+Joe Flacco,New York Jets,2022,5,3,4
+Mike White,New York Jets,2022,3,4,4
+Chris Streveler,New York Jets,2022,0,0,1
+Jalen Hurts*,Philadelphia Eagles,2022,22,6,15
+Gardner Minshew II,Philadelphia Eagles,2022,3,3,2
+Kenny Pickett,Pittsburgh Steelers,2022,7,9,12
+Mitchell Trubisky,Pittsburgh Steelers,2022,4,5,5
+Geno Smith*,Seattle Seahawks,2022,30,11,17
+Jimmy Garoppolo,San Francisco 49ers,2022,16,4,10
+Brock Purdy,San Francisco 49ers,2022,13,4,5
+Trey Lance,San Francisco 49ers,2022,0,1,2
+Tom Brady,Tampa Bay Buccaneers,2022,25,9,17
+Ryan Tannehill,Tennessee Titans,2022,13,6,12
+Joshua Dobbs,Tennessee Titans,2022,2,2,2
+Malik Willis,Tennessee Titans,2022,0,3,3
+Carson Wentz,Washington Commanders,2022,11,9,7
+Taylor Heinicke,Washington Commanders,2022,12,6,9
+Sam Howell,Washington Commanders,2022,1,1,1
