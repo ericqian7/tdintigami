@@ -1,7 +1,5 @@
-
-
 // layout for the grid
-var layout = {
+const layout = {
     width: 1300,
     height: 700,
     xaxis: {     title: {
@@ -46,6 +44,8 @@ var layout = {
 let teamsSelected = "all";
 processDataAndPlot(["", [teamsSelected], ""]);
 toggleSwitch();
+
+
 // read/interpret csv file. Entire program lives here to ensure csv file is properly read before displaying data.
 function processDataAndPlot(filter) {
     // 56 by 43 grid (touchdown by interception).
@@ -111,7 +111,7 @@ function processDataAndPlot(filter) {
               hovertemplate: 'TD: %{x}<br>INT: %{y}<br>Players: %{z}<extra></extra>'
 
           }];
-          var config = { displayModeBar: false};
+          var config = { displayModeBar: true};
           // Create the Plotly graph after processing CSV data
           Plotly.newPlot('plot', data, layout, config);
 
@@ -220,25 +220,27 @@ function toggleSwitch() {
     // Chosen.js initialization for the carFilter select element
     $(document).ready(function(){
       $('#carFilter').chosen({
-        disable_search_threshold: 10,
-        max_selected_options: 50 // Adjust as needed
+        placeholder_text_multiple: "Select team(s)",
+        width: "45%"
+      });
+      $(".search-field").css('font-size','17px');
+      $(".chosen-results").css('font-size','20px');
+      $(".chosen-choices").css('font-size','20px');
+
+      $('#carFilter').on('change', function() {
+        const selectedTeams = $(this).val();
+        
+        if (selectedTeams == null || selectedTeams.length === 0) {
+          teamsSelected = "all";
+        } else {
+          teamsSelected = selectedTeams;
+        }
+        filterCriteria[1] = teamsSelected;
+        console.log(teamsSelected);
+        processDataAndPlot(filterCriteria);
       });
     });
-
-    document.getElementById('enterButton').addEventListener('click', function() {
-      const selectedTeams = $('#carFilter').val();
-      // Perform actions based on the selected values
-      if (selectedTeams.includes('All Teams')) {
-        console.log('henlo');
-        teamsSelected = "op";
-      } else {
-        teamsSelected = selectedTeams;
-      }
-      filterCriteria[1] = teamsSelected;
-      console.log(teamsSelected);
-      processDataAndPlot(filterCriteria); // Call processDataAndPlot inside the click event
-
-    });
+    
     filterCriteria[1] = teamsSelected;
     processDataAndPlot(filterCriteria); // Call processDataAndPlot inside the click event
 
