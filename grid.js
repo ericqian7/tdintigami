@@ -8,10 +8,12 @@ const layout = {
         family: 'Arvo',
         size: 20,
         color: 'purple'
-      }
-    }, fixedrange: true, hovertemplate: 'Touchdowns %{x}',mirror:true,
+      }, standoff:0
+    },      
+    side: 'top',
+    fixedrange: true, hovertemplate: 'Touchdowns %{x}',mirror:true,
     ticks:'outside',
-    showline:true},
+    showline:true, dtick: 1},
     yaxis: {     title: {
       text: 'QB INT in a Season',
       font: {
@@ -20,12 +22,12 @@ const layout = {
         color: 'purple'
       }
     }, fixedrange: true,mirror:true,
-    ticks:'outside',
+    ticks:'outside', dtick: 2,
     showline:true },
     annotations: [
       {
-          x: 1, // X position of the legend
-          y: 1.1, // Y position of the legend
+          x: 0.98, // X position of the legend
+          y: 0.95, // Y position of the legend
           xref: 'paper', // Use 'paper' as a reference for x-coordinate
           yref: 'paper', // Use 'paper' as a reference for y-coordinate
           text: '* Selected to Pro Bowl, + First-Team AP All-Pro', // Your key descriptions
@@ -42,7 +44,9 @@ const layout = {
 
 
 let teamsSelected = "all";
-processDataAndPlot(["", [teamsSelected], ""]);
+let startingYear = 1932;
+let endingYear = 2023;
+processDataAndPlot(["", [teamsSelected], [1932, 2023]]);
 toggleSwitch();
 
 
@@ -72,17 +76,21 @@ function processDataAndPlot(filter) {
               allRows.push(rowData);
           }
           const combinedData = combineStats(allRows); // if a player started on 2+ teams in a given year, their stats will be combined
+          let wasValidData = false;
           for (const entry of combinedData) {
-            if (entry.player.includes(filter[0])) {
+
+            console.log(filter[2][0]);
+            if (entry.player.includes(filter[0]) && entry.year >= filter[2][0] && entry.year <= filter[2][1]) {
               if (filter[1].includes("all")) {
                 // Handle the case when 'all' is selected
                 grid[entry.int][entry.td] += 1;
+                wasValidData = true;
                 tdint_info[entry.int][entry.td] += entry.player + "," + entry.team + "," + entry.year + "," + entry.starts + '\n';
               } else {
                 // Loop through selected teams if 'all' is not selected
                 for (const selectedTeam of filter[1]) {
-                  console.log(selectedTeam);
                   if (entry.team.includes(selectedTeam)) {
+                    wasValidData = true;
                     grid[entry.int][entry.td] += 1;
                     tdint_info[entry.int][entry.td] += entry.player + "," + entry.team + "," + entry.year + "," + entry.starts + '\n';
                   }
@@ -93,9 +101,8 @@ function processDataAndPlot(filter) {
           
                       
                                   
-
-        
           // Create data for Plotly only after processing the CSV data
+          if (wasValidData) {
           var data = [{
               z: grid,
               type: 'heatmap',
@@ -111,6 +118,18 @@ function processDataAndPlot(filter) {
               hovertemplate: 'TD: %{x}<br>INT: %{y}<br>Players: %{z}<extra></extra>'
 
           }];
+        }
+        else {
+          var data = [{
+            z: grid,
+            type: 'heatmap',
+            colorscale: [
+              [0, 'white'],
+            ],
+            hovertemplate: 'TD: %{x}<br>INT: %{y}<br>Players: %{z}<extra></extra>'
+
+        }];
+        }
           var config = { displayModeBar: true};
           // Create the Plotly graph after processing CSV data
           Plotly.newPlot('plot', data, layout, config);
@@ -125,9 +144,7 @@ function processDataAndPlot(filter) {
                 if (grid[rowIndex][colIndex] > 0) {
                   
               // Split the string into individual entries
-              console.log("info is " + info);
               const entries = info.split('\n');
-              console.log("entries is " + entries);
               // Construct a table with each entry as a row
               let tableContent = '<table class="table"><thead><tr><th>Player Name</th><th>Team</th><th>Year</th><th>Starts</th></tr></thead><tbody>';
               for (let i = 0; i < entries.length - 1; i++) {
@@ -137,7 +154,6 @@ function processDataAndPlot(filter) {
             }
             
               tableContent += '</tbody></table>';
-                console.log(tableContent);
                 $('#infoModal').find('.modal-body').html(tableContent);
                 if (colIndex == 1) {
                   pluralTD = "Touchdown"
@@ -198,24 +214,37 @@ function toggleSwitch() {
     const switchStatusPro = document.getElementById('switch1').checked;
   const switchProBowl = document.getElementById('switch2').checked;
 
-  const filterCriteria = ['', [''], '']; // first index for probowl/all pro, second for team name, third for decade
+  const filterCriteria = ['', [''], []]; // first index for probowl/all pro, second for team name, third for decade
   if (switchProBowl) {
     filterCriteria[0] += '*';
   }
   if (switchStatusPro) {
     filterCriteria[0] += '+';
   }
-    const lines = csvData.split('\n');
+    const lines = csvData.split('\n').slice(1);
 
-    const dropdown = document.getElementById('carFilter');
+    const teamDropdown = document.getElementById('carFilter');
+    const startYearDropdown = document.getElementById('startYear');
+    const endYearDropdown = document.getElementById('endYear');
 
     lines.forEach(line => {
       const teamName = line.trim();
       const option = document.createElement('option');
       option.value = teamName;
       option.textContent = teamName;
-      dropdown.appendChild(option);
+      teamDropdown.appendChild(option);
     });
+    for (i = 1932; i <= 2023; i++) {
+      const yearOptionStart = document.createElement('option');
+      const yearOptionEnd = document.createElement('option');
+
+      yearOptionStart.value = i;
+      yearOptionStart.textContent = i;
+      yearOptionEnd.value = i;
+      yearOptionEnd.textContent = i;
+      startYearDropdown.appendChild(yearOptionStart);
+      endYearDropdown.appendChild(yearOptionEnd);
+    }
 
     // Chosen.js initialization for the carFilter select element
     $(document).ready(function(){
@@ -223,6 +252,14 @@ function toggleSwitch() {
         placeholder_text_multiple: "Select team(s)",
         width: "45%"
       });
+      $('#startYear').chosen({
+        placeholder_text: "Start year",
+        width: "10%"
+      })
+      $('#endYear').chosen({
+        placeholder_text: "End year",
+        width: "10%"
+      })
       $(".search-field").css('font-size','17px');
       $(".chosen-results").css('font-size','20px');
       $(".chosen-choices").css('font-size','20px');
@@ -236,12 +273,40 @@ function toggleSwitch() {
           teamsSelected = selectedTeams;
         }
         filterCriteria[1] = teamsSelected;
-        console.log(teamsSelected);
+        processDataAndPlot(filterCriteria);
+      });
+      $('#startYear').on('change', function() {
+        const selectedStartYear = $(this).val();
+        
+        if (selectedStartYear == null) {
+          startingYear = 1932;
+        } else {
+          startingYear = selectedStartYear;
+        }
+        filterCriteria[2][0] = startingYear;
+        console.log(startingYear);
+        processDataAndPlot(filterCriteria);
+      });
+      $('#endYear').on('change', function() {
+        const selectedEndYear = $(this).val();
+        
+        if (!selectedEndYear) {
+          endingYear = 2023;
+        } else {
+          endingYear = selectedEndYear;
+        }
+        filterCriteria[2][1] = endingYear;
+        console.log(endingYear);
+        console.log(filterCriteria[2][1]);
         processDataAndPlot(filterCriteria);
       });
     });
-    
+    filterCriteria[2][0] = startingYear;
+    filterCriteria[2][1] = endingYear;
+
     filterCriteria[1] = teamsSelected;
+
+
     processDataAndPlot(filterCriteria); // Call processDataAndPlot inside the click event
 
   })

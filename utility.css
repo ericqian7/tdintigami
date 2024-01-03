@@ -17,6 +17,16 @@ body {
 	padding: 0px;
 	position: relative;
 }
+#container {
+	min-height: 100%;
+	max-width: 1140px;
+	padding: 0px 10px;
+	margin: 0px auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 #header {
 	display: flex;
 	flex-direction: row;
@@ -39,15 +49,15 @@ body {
 
 .switch-container {
   display: flex;
-  justify-content: space-between; /* Distribute space between sliders */
-  width: 400px; /* Set a fixed width for the container */
+  justify-content: space-evenly; /* Distribute space between sliders */
+  width: 100%; /* Set a fixed width for the container */
   margin: 0 auto; /* Center the container */
 }
 
 .switch {
   position: relative;
-  flex: 1; /* Distribute available space equally between switches */
   margin-right: 10px;
+  display: inline-block;
 }
 
 .switch input {
@@ -55,6 +65,7 @@ body {
   width: 0;
   height: 10px; /* Include a unit for the height */
   width: 10px;
+  
 }
 
 .slider {
@@ -67,9 +78,10 @@ body {
   background-color: #ccc;
   -webkit-transition: .4s;
   transition: .4s;
-  border-radius: 34px;
+  border-radius: 20px;
   width: 50px;
-  height: 26px; /* Set a specific height for the slider */
+  height: 26px;
+  display: inline-block;  
 }
 
 
@@ -95,10 +107,10 @@ input:checked + .slider:before {
   -ms-transform: translateX(26px);
   transform: translateX(26px);
 }
-.switch span {
+.switchText {
   display: block;
   text-align: right; /* Center the text */
-  margin-left: 100px;
+  margin-left: 70px;
 }
 
 .car {

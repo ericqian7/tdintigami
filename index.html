@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TDINTigami</title>
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
@@ -26,30 +27,37 @@
     <div id="header">
       <h1>TDINTigami</h1>
     </div>
+
+    <div id="container">
     <div class="switch-container">
+      <select id="carFilter" multiple>
+      </select>
       <label class="switch">
-        <span> aaaaa All Pro</span>
+        <span class="switchText">All Pro</span>
         <input type="checkbox" onchange="toggleSwitch()" id="switch1">
         <span class="slider"></span>
       </label>
       
       <label class="switch">
-        <span>Pro Bowl</span>
+        <span class="switchText">Pro Bowl</span>
         <input type="checkbox" onchange="toggleSwitch()" id="switch2">
         <span class="slider"></span>
       </label>
+      <select id="startYear">
+        <option value="1932"></option>
+      </select>
+      <select id="endYear">
+        <option value="2023"></option>
+      </select>
     </div>
-    
-    <select id="carFilter" multiple>
-      <option value="all"></option>
-    </select>
-    
-
 
     
     <div class="plot-container">
       <div id="plot"></div>
       <div id="outline"></div>
+
+      
+
     <div class="description">
       <h2>What is TDINTigami?</h2>
       <div class="expanded-text">
