@@ -133,7 +133,7 @@ function processDataAndPlot(filter) {
         }
           const config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
           // Create the Plotly graph after processing CSV data
-          Plotly.newPlot('plot', data, layout, config);
+          Plotly.newPlot('plot', data, layout, config, {staticPlot: true});
 
           const plot = document.getElementById('plot'); // Get the Plotly plot element
           plot.on('plotly_click', function(data) {
