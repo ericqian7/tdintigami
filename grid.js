@@ -140,8 +140,8 @@ function processDataAndPlot(filter) {
           console.log('yo')
         }
         else {
-          layout.width = 500;
-          layout.height = 270;
+          layout.width = '100%';
+          layout.height = '100%';
           alert('mobile');
           console.log('bro')
         }
