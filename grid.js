@@ -11,6 +11,7 @@ const layout = {
       }, standoff:0
     },      
     side: 'top',
+    dragmode: 'pan',
     fixedrange: true, hovertemplate: 'Touchdowns %{x}',mirror:true,
     ticks:'outside',
     showline:true, dtick: 1},
