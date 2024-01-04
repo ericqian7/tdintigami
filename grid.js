@@ -134,14 +134,13 @@ function processDataAndPlot(filter) {
         let config = {};
         if (window.innerWidth > 700) {
           console.log(window.innerWidth);
-          
            config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
           console.log('yo')
         }
         else {
           layout.width = 500;
-
+          alert('mobile');
            config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
 
           console.log('bro')
