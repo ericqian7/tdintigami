@@ -131,18 +131,18 @@ function processDataAndPlot(filter) {
 
         }];
         }
-        let config = {};
-        if (window.innerWidth > 700) {
+        let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
+        if (window.innerWidth > 7000) {
           console.log(window.innerWidth);
-           config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
+          alert('desktop');
+           
 
           console.log('yo')
         }
         else {
           layout.width = 500;
+          layout.height = 270;
           alert('mobile');
-           config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
-
           console.log('bro')
         }
 
