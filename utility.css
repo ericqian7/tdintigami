@@ -20,7 +20,7 @@ body {
 #container {
 	min-height: 100%;
 	max-width: 1140px;
-	padding: 0px 10px;
+	padding: 0px 30px;
 	margin: 0px auto;
 	display: flex;
 	flex-direction: row;
@@ -122,3 +122,4 @@ input:checked + .slider:before {
 }
 
 
+.cursor-pointer { cursor: crosshair !important; }

@@ -131,7 +131,7 @@ function processDataAndPlot(filter) {
 
         }];
         }
-          var config = { displayModeBar: true, responsive: true};
+          var config = { displayModeBar: true, responsive: true, scrollZoom: true, dragmode: false};
           // Create the Plotly graph after processing CSV data
           Plotly.newPlot('plot', data, layout, config);
 
