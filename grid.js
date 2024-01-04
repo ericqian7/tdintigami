@@ -139,6 +139,9 @@ function processDataAndPlot(filter) {
           console.log('yo')
         }
         else {
+          const container = document.getElementById('container');
+          container.style.padding = '0px 100px';
+
            config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
 
           console.log('bro')
