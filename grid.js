@@ -1,5 +1,5 @@
 // layout for the grid
-const layout = {
+let layout = {
     width: 1300,
     height: 700,
     xaxis: {     title: {
@@ -134,13 +134,13 @@ function processDataAndPlot(filter) {
         let config = {};
         if (window.innerWidth > 700) {
           console.log(window.innerWidth);
+          
            config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
           console.log('yo')
         }
         else {
-          var container = document.getElementById('container');
-          container.style.padding = '0px 100px';
+          layout.width = 500;
 
            config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
 
