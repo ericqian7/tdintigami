@@ -131,7 +131,19 @@ function processDataAndPlot(filter) {
 
         }];
         }
-          const config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
+        let config = {};
+        if (window.innerWidth > 700) {
+          console.log(window.innerWidth);
+           config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
+
+          console.log('yo')
+        }
+        else {
+           config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
+
+          console.log('bro')
+        }
+
           // Create the Plotly graph after processing CSV data
           Plotly.newPlot('plot', data, layout, config);
 
