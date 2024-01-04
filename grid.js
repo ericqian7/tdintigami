@@ -131,11 +131,11 @@ function processDataAndPlot(filter) {
 
         }];
         }
-          var config = { displayModeBar: true, responsive: true, scrollZoom: true, dragmode: false};
+          const config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
           // Create the Plotly graph after processing CSV data
           Plotly.newPlot('plot', data, layout, config);
 
-          var plot = document.getElementById('plot'); // Get the Plotly plot element
+          const plot = document.getElementById('plot'); // Get the Plotly plot element
           plot.on('plotly_click', function(data) {
             if (data.points) {
                 const clickedPoint = data.points[0];
