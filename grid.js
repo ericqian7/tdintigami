@@ -279,6 +279,7 @@ function toggleSwitch() {
       $(".chosen-results").css('font-size','20px');
       $(".chosen-choices").css('font-size','20px');
 
+
       $('#carFilter').on('change', function() {
         const selectedTeams = $(this).val();
         

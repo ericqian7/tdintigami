@@ -32,14 +32,14 @@
       <select id="carFilter" multiple>
       </select>
       <label class="switch">
-        <span class="switchText">All Pro</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="switch1">
+        <span class="switchText">Pro Bowl</span>
+        <input type="checkbox" onchange="toggleSwitch()" id="switch2">
         <span class="slider"></span>
       </label>
       
       <label class="switch">
-        <span class="switchText">Pro Bowl</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="switch2">
+        <span class="switchText">All Pro</span>
+        <input type="checkbox" onchange="toggleSwitch()" id="switch1">
         <span class="slider"></span>
       </label>
       <select id="startYear">
@@ -68,19 +68,18 @@
       </div>
       <h2>Data Collection</h2>
       <div class="expanded-text">
-        <p>Data was collected from profootballreference.com. I couldn't find a data file containing the information I wanted so I wrote a python script to webscrape roughly 2000 webpages 
-          using the BeautifulSoup library. Each quarterback in TDINTigami had to have started at least one game that season
-          and have their position officially be a quarterback. 
+        <p>Data was collected from profootballreference.com. I used BeautifulSoup to webscrape approx. 2000 webpages. Each quarterback in TDINTigami had to have started at least one game that season
+          and have their position officially be a quarterback. In total there are 3667 quarterbacks included.
         </p>
       </div>
       <h2>Why 1932?</h2>
       <div class="expanded-text">
         <p>Unfortunately QB data is incomplete pre-1932.
-          Thankfully the quarterback was essentially non existant back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
+          Thankfully the quarterback was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
         </p>
       </div>
       <footer>
-        <p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p>
+       <!--<p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p> --> 
       </footer>
     </div>
     </div>
