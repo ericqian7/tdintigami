@@ -131,9 +131,9 @@ function processDataAndPlot(filter) {
 
         }];
         }
-          const config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
+          const config = { displayModeBar: true, responsive: true, dragmode: 'pan', staticPlot: true};
           // Create the Plotly graph after processing CSV data
-          Plotly.newPlot('plot', data, layout, config, {staticPlot: true});
+          Plotly.newPlot('plot', data, layout, config);
 
           const plot = document.getElementById('plot'); // Get the Plotly plot element
           plot.on('plotly_click', function(data) {
