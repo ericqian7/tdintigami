@@ -140,7 +140,6 @@ function processDataAndPlot(filter) {
           const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
           plotContainer.style.width = "100%";
           actualPlot.style.padding = '0';
-          outerContainer.style.padding = '0'; // Change the padding values as needed
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
           actualPlot.style.width = 'auto';
