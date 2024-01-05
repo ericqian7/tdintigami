@@ -132,11 +132,9 @@ function processDataAndPlot(filter) {
         }];
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
-        if (window.innerWidth > 700) {
-          console.log(window.innerWidth);
-          Plotly.newPlot('plot', data, layout, config);
-        }
-        else {
+        const isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+        if (isMobile == true) {
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
@@ -146,14 +144,14 @@ function processDataAndPlot(filter) {
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
           actualPlot.style.width = 'auto';
-
           layout.width = '100%';
           layout.height = '100%';
           layout.annotations[0].font.size = 10;
           layout.xaxis.dtick = 3
           layout.yaxis.dtick = 3
-          console.log('bro')
         }
+
+        Plotly.newPlot('plot', data, layout, config);
 
           // Create the Plotly graph after processing CSV data
 
