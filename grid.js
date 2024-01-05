@@ -134,6 +134,8 @@ function processDataAndPlot(filter) {
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
         if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+          alert('test');
+
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
