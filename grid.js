@@ -150,8 +150,10 @@ function processDataAndPlot(filter) {
           layout.xaxis.dtick = 3
           layout.yaxis.dtick = 3
         }
+        else {
 
         Plotly.newPlot('plot', data, layout, config);
+        }
 
           // Create the Plotly graph after processing CSV data
 
