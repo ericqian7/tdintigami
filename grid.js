@@ -134,20 +134,26 @@ function processDataAndPlot(filter) {
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
         if (window.innerWidth > 7000) {
           console.log(window.innerWidth);
-          alert('desktop');
-           
+          alert('maintenance sorry!');
+          Plotly.newPlot('plot', data, layout, config);
+
 
           console.log('yo')
         }
         else {
+          Plotly.newPlot('plot', data, layout, config);
+          const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
+          const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
+          plotContainer.style.width = "100%";
+          actualPlot.style.marginLeft = "auto";
+          actualPlot.style.marginRight = "auto";
           layout.width = '100%';
           layout.height = '100%';
-          alert('mobile');
+          alert('in maintenance sorry!');
           console.log('bro')
         }
 
           // Create the Plotly graph after processing CSV data
-          Plotly.newPlot('plot', data, layout, config);
 
           const plot = document.getElementById('plot'); // Get the Plotly plot element
           plot.on('plotly_click', function(data) {
