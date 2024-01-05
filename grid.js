@@ -133,9 +133,7 @@ function processDataAndPlot(filter) {
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
-        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
-          alert('test');
-
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent)){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
@@ -150,9 +148,10 @@ function processDataAndPlot(filter) {
           layout.annotations[0].font.size = 10;
           layout.xaxis.dtick = 3
           layout.yaxis.dtick = 3
+          alert('testing');
         }
         else {
-          alert('hi');
+          alert('test');
         Plotly.newPlot('plot', data, layout, config);
         }
 
