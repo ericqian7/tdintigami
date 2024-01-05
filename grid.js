@@ -136,8 +136,10 @@ function processDataAndPlot(filter) {
         if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent)){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
+          const switchContainer = document.querySelector('.switch-container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
           const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
+          switchContainer.style.flexWrap = "wrap";
           plotContainer.style.width = "100%";
           actualPlot.style.padding = '0';
           actualPlot.style.marginLeft = "auto";
