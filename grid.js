@@ -146,16 +146,16 @@ function processDataAndPlot(filter) {
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
           const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
           plotContainer.style.width = "100%";
-          outerContainer.style.padding = '0 40px 0 40px'; // Change the padding values as needed
+          outerContainer.style.padding = '0 50% 0 5%'; // Change the padding values as needed
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
+          actualPlot.style.width = '100%';
 
           layout.width = '100%';
           layout.height = '100%';
           layout.annotations[0].font.size = 10;
           layout.xaxis.dtick = 3
           layout.yaxis.dtick = 3
-          alert('in maintenance sorry!');
           console.log('bro')
         }
 
