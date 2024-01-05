@@ -132,13 +132,9 @@ function processDataAndPlot(filter) {
         }];
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
-        if (window.innerWidth > 7000) {
+        if (window.innerWidth > 700) {
           console.log(window.innerWidth);
-          alert('maintenance sorry!');
           Plotly.newPlot('plot', data, layout, config);
-
-
-          console.log('yo')
         }
         else {
           Plotly.newPlot('plot', data, layout, config);
@@ -146,10 +142,10 @@ function processDataAndPlot(filter) {
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
           const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
           plotContainer.style.width = "100%";
-          outerContainer.style.padding = '0 50% 0 5%'; // Change the padding values as needed
+          outerContainer.style.padding = '0 5% 0 5%'; // Change the padding values as needed
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
-          actualPlot.style.width = '100%';
+          actualPlot.style.width = 'auto';
 
           layout.width = '100%';
           layout.height = '100%';
