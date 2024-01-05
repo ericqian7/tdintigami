@@ -133,7 +133,7 @@ function processDataAndPlot(filter) {
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
-        if((/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
+        if(!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const switchContainer = document.querySelector('.switch-container');
@@ -154,11 +154,9 @@ function processDataAndPlot(filter) {
           layout.yaxis.title.font.size = 14;
  
           layout.dragmode = false;
-          alert('under work')
         }
         else {
         Plotly.newPlot('plot', data, layout, config);
-        alert('under progress')
         }
 
           // Create the Plotly graph after processing CSV data

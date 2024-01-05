@@ -72,6 +72,7 @@ body {
 @media (max-width: 600px) {
   .switch-container {
     flex-direction: row;
+    align-items: center;
   }
 
   #carFilter {
@@ -79,10 +80,14 @@ body {
   }
 
   .switch {
-    width: 100%;
+    width: 50%;
+    display: inline-block;
+    margin-left: 50%;
+    display: flex;
 
     /* Additional styling for switches if needed */
   }
+
  
 
   #startYear {
@@ -91,6 +96,10 @@ body {
   }
   #endYear {
     width: 50%;
+  }
+  .switchText {
+    text-align: right; /* Center the text */
+    margin-left: 0px;
   }
 }
 
