@@ -146,11 +146,16 @@ function processDataAndPlot(filter) {
           layout.width = '100%';
           layout.height = '100%';
           layout.annotations[0].font.size = 10;
-          layout.xaxis.dtick = 3
-          layout.yaxis.dtick = 3
+          layout.xaxis.dtick = 3;
+          layout.yaxis.dtick = 3;
+          layout.xaxis.font.size = 14;
+          layout.yaxis.font.size = 14;
+          layout.dragmode = false;
+          alert('under work')
         }
         else {
         Plotly.newPlot('plot', data, layout, config);
+        alert('under progress')
         }
 
           // Create the Plotly graph after processing CSV data
@@ -271,7 +276,7 @@ function toggleSwitch() {
     $(document).ready(function(){
       $('#carFilter').chosen({
         placeholder_text_multiple: "Select team(s)",
-        width: "45%"
+        width: "30%"
       });
       $('#startYear').chosen({
         placeholder_text: "Start year",
