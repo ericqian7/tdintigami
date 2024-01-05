@@ -132,7 +132,7 @@ function processDataAndPlot(filter) {
         }];
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
-        if (window.innerWidth > 7000) {
+        if (window.innerWidth > 700) {
           console.log(window.innerWidth);
           alert('maintenance sorry!');
           Plotly.newPlot('plot', data, layout, config);
@@ -147,6 +147,7 @@ function processDataAndPlot(filter) {
           plotContainer.style.width = "100%";
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
+
           layout.width = '100%';
           layout.height = '100%';
           alert('in maintenance sorry!');
