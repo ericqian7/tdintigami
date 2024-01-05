@@ -68,6 +68,32 @@ body {
   
 }
 
+/* Small screens: Team on one line, Pro Bowl/All Pro on another, Year selectors on another */
+@media (max-width: 600px) {
+  .switch-container {
+    flex-direction: row;
+  }
+
+  #carFilter {
+    width: 100%;
+  }
+
+  .switch {
+    width: 100%;
+
+    /* Additional styling for switches if needed */
+  }
+ 
+
+  #startYear {
+    width: 50%;
+    /* Additional styling for year selectors if needed */
+  }
+  #endYear {
+    width: 50%;
+  }
+}
+
 .slider {
   position: absolute;
   cursor: pointer;

@@ -133,7 +133,7 @@ function processDataAndPlot(filter) {
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
-        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent)){
+        if(!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const switchContainer = document.querySelector('.switch-container');
@@ -147,13 +147,12 @@ function processDataAndPlot(filter) {
           actualPlot.style.width = 'auto';
           actualPlot.style.overflowX = "auto";
           actualPlot.style.whiteSpace = "nowrap";
-          layout.width = '100%';
-          layout.height = '100%';
           layout.annotations[0].font.size = 10;
           layout.xaxis.dtick = 3;
           layout.yaxis.dtick = 3;
           layout.xaxis.title.font.size = 14;
           layout.yaxis.title.font.size = 14;
+ 
           layout.dragmode = false;
           alert('under work')
         }
