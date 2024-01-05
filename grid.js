@@ -148,10 +148,8 @@ function processDataAndPlot(filter) {
           layout.annotations[0].font.size = 10;
           layout.xaxis.dtick = 3
           layout.yaxis.dtick = 3
-          alert('testing');
         }
         else {
-          alert('test');
         Plotly.newPlot('plot', data, layout, config);
         }
 
