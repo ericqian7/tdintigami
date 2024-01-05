@@ -132,9 +132,8 @@ function processDataAndPlot(filter) {
         }];
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
-        const isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-        if (isMobile == true) {
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
@@ -151,7 +150,7 @@ function processDataAndPlot(filter) {
           layout.yaxis.dtick = 3
         }
         else {
-
+          alert('hi');
         Plotly.newPlot('plot', data, layout, config);
         }
 
