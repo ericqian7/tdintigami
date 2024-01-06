@@ -47,8 +47,13 @@ let layout = {
 let teamsSelected = "all";
 let startingYear = 1932;
 let endingYear = 2023;
+let isMobile;
 processDataAndPlot(["", [teamsSelected], [1932, 2023]]);
 toggleSwitch();
+window.addEventListener('resize', handleResize);
+
+// Call the function initially to check the window size on page load
+handleResize();
 
 
 // read/interpret csv file. Entire program lives here to ensure csv file is properly read before displaying data.
@@ -132,8 +137,8 @@ function processDataAndPlot(filter) {
         }];
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
-
-        if(!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
+        if((/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
+          isMobile = true;
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const switchContainer = document.querySelector('.switch-container');
@@ -158,6 +163,7 @@ function processDataAndPlot(filter) {
           layout.dragmode = false;
         }
         else {
+          isMobile = false;
        
         Plotly.newPlot('plot', data, layout, config);
         }
@@ -345,4 +351,22 @@ function toggleSwitch() {
 
   
 }
+
+function handleResize() {
+  const windowWidth = window.innerWidth;
+  const maxWidth = screen.availWidth;
+
+  const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
+  if (windowWidth < maxWidth && isMobile == false) {
+    // Window has been shrunk from the original size
+    actualPlot.style.width = 'auto';
+    // Perform actions specific to window being shrunk from original size
+  }
+  else if (windowWidth == maxWidth && isMobile == false) {
+    actualPlot.style.width = '1300px';
+    
+  }
+}
+
+
 
