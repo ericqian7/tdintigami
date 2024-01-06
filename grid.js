@@ -133,14 +133,14 @@ function processDataAndPlot(filter) {
         }
         let config = { displayModeBar: true, responsive: true, dragmode: 'pan'};
 
-        if((/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
+        if(!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|(tablet|ipad|playbook|silk)|(android(?!.*mobile))/i.test(navigator.userAgent))){
           Plotly.newPlot('plot', data, layout, config);
           const outerContainer = document.getElementById('container');
           const switchContainer = document.querySelector('.switch-container');
           const plotContainer = document.getElementsByClassName("plot-container plotly")[0];
           const actualPlot = document.getElementsByClassName("user-select-none svg-container")[0];
           switchContainer.style.flexWrap = "wrap";
-          plotContainer.style.width = "100%";
+          plotContainer.style.width = "auto";
           actualPlot.style.padding = '0';
           actualPlot.style.marginLeft = "auto";
           actualPlot.style.marginRight = "auto";
@@ -152,10 +152,13 @@ function processDataAndPlot(filter) {
           layout.yaxis.dtick = 3;
           layout.xaxis.title.font.size = 14;
           layout.yaxis.title.font.size = 14;
+
+          
  
           layout.dragmode = false;
         }
         else {
+       
         Plotly.newPlot('plot', data, layout, config);
         }
 

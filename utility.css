@@ -82,7 +82,7 @@ body {
   .switch {
     width: 50%;
     display: inline-block;
-    margin-left: 50%;
+    margin-left: 40%;
     display: flex;
 
     /* Additional styling for switches if needed */
@@ -101,6 +101,7 @@ body {
     text-align: right; /* Center the text */
     margin-left: 0px;
   }
+
 }
 
 .slider {
@@ -162,6 +163,11 @@ footer {
   text-align: center;
 }
 
+.expanded-text {
+  font-size: 1rem;
+}
+
 .description {
   width: 100%;
 }
+

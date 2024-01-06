@@ -44,40 +44,41 @@
         <span class="slider"></span>
       </label>
       <select id="startYear">
-        <option value="1932"></option>
+        <option value="1932">Start Year</option>
       </select>
       <select id="endYear">
-        <option value="2023"></option>
+        <option value="2023">End Year</option>
       </select>
     </div>
 
     
     <div class="plot-container">
-      <div id="plot"></div>
+      <div id="plot">
+        <div class="scrollable-bar"></div>      
+      </div>
       <div id="outline"></div>
-
-      
 
     <div class="description">
       <h2>What is TDINTigami?</h2>
       <div class="expanded-text">
         <p>TDINTigami is inspired by <a href="https://en.wikipedia.org/wiki/Scorigami" target="_blank">Scorigami</a>
           . TDINTigami
-          displays every unique touchdown to interception ratio by a quarterback
+          displays every unique touchdown to interception ratio by a quarterback in a given season
           since 1932.
         </p>
       </div>
       <h2>Data Collection</h2>
       <div class="expanded-text">
-        <p>Data was collected from profootballreference.com. The Beautiful Soup Python package was used to webscrape information such as the quarterback's 
-          touchdown/interception total, number of starts, team played, and year played. Each quarterback in TDINTigami has started at least one game in the given season
-          has their position officialy be a quarterback. In total, approx. 2000 webpages were scraped and 3667 quarterbacks are included in  TDINTigami.
+          <p>
+            Data from over 2,000 webpages on profootballreference.com was scraped using the Beautiful Soup Python package.
+            Various statistics for quarterbacks in a given season are included, such as their touchdown/interception totals, number of starts, team affiliations, and the respective playing year.
+              Every player listed in TDINTigami has started at least one game during the specified season, and holds the official position of quarterback. In total, there are 3,667 quarterbacks included in TDINTigami.
         </p>
       </div>
       <h2>Why 1932?</h2>
       <div class="expanded-text">
         <p>Unfortunately QB data is incomplete pre-1932.
-          Thankfully the quarterback was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
+          Thankfully the quarterback position was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
         </p>
       </div>
        <!--<p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p> --> 
