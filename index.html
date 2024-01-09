@@ -32,6 +32,12 @@
     <div class="switch-container">
       <select id="carFilter" multiple>
       </select>
+      <select id="startYear">
+        <option value="1932">Start Year</option>
+      </select>
+      <select id="endYear">
+        <option value="2023">End Year</option>
+      </select>
       <label class="switch">
         <span class="switchText">Pro Bowl</span>
         <input type="checkbox" onchange="toggleSwitch()" id="switch2">
@@ -43,11 +49,9 @@
         <input type="checkbox" onchange="toggleSwitch()" id="switch1">
         <span class="slider"></span>
       </label>
-      <select id="startYear">
-        <option value="1932">Start Year</option>
-      </select>
-      <select id="endYear">
-        <option value="2023">End Year</option>
+ 
+      <select id="minStarts">
+        <option value="1">Min Starts</option>
       </select>
     </div>
 

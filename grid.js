@@ -39,7 +39,8 @@ let layout = {
             color: 'black'
         }
     }
-]
+],
+
 };
 
 
@@ -47,8 +48,9 @@ let layout = {
 let teamsSelected = "all";
 let startingYear = 1932;
 let endingYear = 2023;
+let minStarts = 1;
 let isMobile;
-processDataAndPlot(["", [teamsSelected], [1932, 2023]]);
+processDataAndPlot(["", [teamsSelected], [1932, 2023, minStarts]]); 
 toggleSwitch();
 window.addEventListener('resize', handleResize);
 
@@ -86,7 +88,7 @@ fetch('statigami.csv')
         for (const entry of combinedData) {
 
           console.log(filter[2][0]);
-          if (entry.player.includes(filter[0]) && entry.year >= filter[2][0] && entry.year <= filter[2][1]) {
+          if (entry.player.includes(filter[0]) && entry.year >= filter[2][0] && entry.year <= filter[2][1] && entry.starts >= filter[2][2]) {
             if (filter[1].includes("all")) {
               // Handle the case when 'all' is selected
               grid[entry.int][entry.td] += 1;
@@ -262,6 +264,7 @@ if (switchStatusPro) {
   const teamDropdown = document.getElementById('carFilter');
   const startYearDropdown = document.getElementById('startYear');
   const endYearDropdown = document.getElementById('endYear');
+  const minStartsDropdown = document.getElementById('minStarts')
 
   lines.forEach(line => {
     const teamName = line.trim();
@@ -270,7 +273,7 @@ if (switchStatusPro) {
     option.textContent = teamName;
     teamDropdown.appendChild(option);
   });
-  for (i = 1932; i <= 2023; i++) {
+  for (i = 1932; i <= 2023; i++) { // populate start/end year dropdowns
     const yearOptionStart = document.createElement('option');
     const yearOptionEnd = document.createElement('option');
 
@@ -280,6 +283,12 @@ if (switchStatusPro) {
     yearOptionEnd.textContent = i;
     startYearDropdown.appendChild(yearOptionStart);
     endYearDropdown.appendChild(yearOptionEnd);
+  }
+  for (i = 1; i <= 17; i++) {
+    const minStartOption = document.createElement('option');
+    minStartOption.value = i;
+    minStartOption.textContent = i;
+    minStartsDropdown.appendChild(minStartOption);
   }
 
   // Chosen.js initialization for the carFilter select element
@@ -294,6 +303,10 @@ if (switchStatusPro) {
     })
     $('#endYear').chosen({
       placeholder_text: "End year",
+      width: "10%"
+    })
+    $('#minStarts').chosen({
+      placeholder_text: "Min. Starts",
       width: "10%"
     })
     $(".search-field").css('font-size','17px');
@@ -321,7 +334,6 @@ if (switchStatusPro) {
         startingYear = selectedStartYear;
       }
       filterCriteria[2][0] = startingYear;
-      console.log(startingYear);
       processDataAndPlot(filterCriteria);
     });
     $('#endYear').on('change', function() {
@@ -333,13 +345,25 @@ if (switchStatusPro) {
         endingYear = selectedEndYear;
       }
       filterCriteria[2][1] = endingYear;
-      console.log(endingYear);
-      console.log(filterCriteria[2][1]);
+      
+      processDataAndPlot(filterCriteria);
+    });
+    $('#minStarts').on('change', function() {
+      const selectedMinStarts = $(this).val();
+      
+      if (!selectedMinStarts) {
+        minStarts = 1;
+      } else {
+        minStarts = selectedMinStarts;
+      }
+      filterCriteria[2][2] = minStarts;
+      
       processDataAndPlot(filterCriteria);
     });
   });
   filterCriteria[2][0] = startingYear;
   filterCriteria[2][1] = endingYear;
+  filterCriteria[2][2] = minStarts;
 
   filterCriteria[1] = teamsSelected;
 

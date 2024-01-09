@@ -91,11 +91,14 @@ body {
  
 
   #startYear {
-    width: 50%;
+    width: 33%;
     /* Additional styling for year selectors if needed */
   }
   #endYear {
-    width: 50%;
+    width: 33%;
+  }
+  #minStarts {
+    width: 33%;
   }
   .switchText {
     text-align: right; /* Center the text */
