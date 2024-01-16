@@ -27,11 +27,11 @@ let layout = {
   showline:true },
   annotations: [
     {
-        x: 0.98, // X position of the legend
-        y: 0.95, // Y position of the legend
-        xref: 'paper', // Use 'paper' as a reference for x-coordinate
-        yref: 'paper', // Use 'paper' as a reference for y-coordinate
-        text: '* Selected to Pro Bowl, + First-Team AP All-Pro', // Your key descriptions
+        x: 0.98, 
+        y: 0.95,
+        xref: 'paper', 
+        yref: 'paper', 
+        text: '* Selected to Pro Bowl, + First-Team AP All-Pro',
         showarrow: false,
         font: {
             family: 'Arial',
@@ -40,75 +40,70 @@ let layout = {
         }
     }
 ],
-
 };
 
-
-
+// 4 global variables that represent filter options. These can be modified dynamically by the user.
 let teamsSelected = "all";
 let startingYear = 1932;
 let endingYear = 2023;
 let minStarts = 1;
-let isMobile;
+
+let isMobile; // displays website differently if viewing on mobile
+
 processDataAndPlot(["", [teamsSelected], [1932, 2023, minStarts]]); 
 toggleSwitch();
 window.addEventListener('resize', handleResize);
-
-// Call the function initially to check the window size on page load
-handleResize();
+handleResize(); // Call the function initially to check the window size on page load
 
 
-// read/interpret csv file. Entire program lives here to ensure csv file is properly read before displaying data.
+
+// read/interpret main csv file containg players. Displays interactive grid
 function processDataAndPlot(filter) {
-  // 56 by 43 grid (touchdown by interception).
-// Grid is to be displayed and tdint_info contains players,year,starts for each ratio
-var grid = new Array(43).fill(0).map(() => new Array(56).fill(0));
-var tdint_info = [];
-for (let i = 0; i < 43; i++) {
-    tdint_info.push(Array(56).fill(""));
-}
+    // 56 by 43 grid (touchdown by interception).
+    // Grid is to be displayed and tdint_info contains players,year,starts for each ratio
+    let grid = new Array(43).fill(0).map(() => new Array(56).fill(0));
+    let tdint_info = [];
+    for (let i = 0; i < 43; i++) {
+        tdint_info.push(Array(56).fill(""));
+    }
 
-fetch('statigami.csv')
-    .then(response => response.text())
-    .then(csvData => {       
-        const rows = csvData.split('\n'); // Split the CSV data into rows
-        const headers = rows[0].split(',').map(header => header.trim()); // Extract column headers
-        let allRows = [];
-        for (let i = 1; i < rows.length; i++) { // i = 1 to skip header row
-            const columns = rows[i].split(',');           
-            const rowData = {};
-            for (let j = 0; j < headers.length; j++) {
-                rowData[headers[j]] = columns[j]; // each header will have corresponding value, i.e rowData[player] = 'Josh Allen'
+    fetch('statigami.csv')
+        .then(response => response.text())
+        .then(csvData => {       
+            const rows = csvData.split('\n'); // Split the CSV data into rows
+            const headers = rows[0].split(',').map(header => header.trim()); // Extract column headers
+            let allRows = [];
+            for (let i = 1; i < rows.length; i++) { // i = 1 to skip header row
+                const columns = rows[i].split(',');           
+                const rowData = {};
+                for (let j = 0; j < headers.length; j++) {
+                    rowData[headers[j]] = columns[j]; // each header will have corresponding value, i.e rowData[player] = 'Josh Allen'
+                }                
+                allRows.push(rowData);
             }
-            
-            allRows.push(rowData);
-        }
         const combinedData = combineStats(allRows); // if a player started on 2+ teams in a given year, their stats will be combined
         let wasValidData = false;
         for (const entry of combinedData) {
-
-          console.log(filter[2][0]);
-          if (entry.player.includes(filter[0]) && entry.year >= filter[2][0] && entry.year <= filter[2][1] && entry.starts >= filter[2][2]) {
-            if (filter[1].includes("all")) {
-              // Handle the case when 'all' is selected
-              grid[entry.int][entry.td] += 1;
-              wasValidData = true;
-              tdint_info[entry.int][entry.td] += entry.player + "," + entry.team + "," + entry.year + "," + entry.starts + '\n';
-            } else {
-              // Loop through selected teams if 'all' is not selected
-              for (const selectedTeam of filter[1]) {
-                if (entry.team.includes(selectedTeam)) {
-                  wasValidData = true;
+            if (entry.player.includes(filter[0]) && entry.year >= filter[2][0] && entry.year <= filter[2][1] && entry.starts >= filter[2][2]) {
+                if (filter[1].includes("all")) {
+                  // Handle the case when 'all' is selected
                   grid[entry.int][entry.td] += 1;
+                  wasValidData = true;
                   tdint_info[entry.int][entry.td] += entry.player + "," + entry.team + "," + entry.year + "," + entry.starts + '\n';
                 }
-              }
+                else {
+                    // Loop through selected teams if 'all' is not selected
+                    for (const selectedTeam of filter[1]) {
+                        if (entry.team.includes(selectedTeam)) {
+                        wasValidData = true;
+                        grid[entry.int][entry.td] += 1;
+                        tdint_info[entry.int][entry.td] += entry.player + "," + entry.team + "," + entry.year + "," + entry.starts + '\n';
+                        }
+                    }
+                }
             }
-          }
         }
-        
-                    
-                                
+                                                            
         // Create data for Plotly only after processing the CSV data
         if (wasValidData) {
         var data = [{
@@ -249,8 +244,8 @@ function toggleSwitch() {
 fetch('sorted_teams.csv')
 .then(response => response.text())
 .then(csvData => {
-  const switchStatusPro = document.getElementById('switch1').checked;
-const switchProBowl = document.getElementById('switch2').checked;
+  const switchStatusPro = document.getElementById('allProSwitch').checked;
+const switchProBowl = document.getElementById('proBowlSwitch').checked;
 
 const filterCriteria = ['', [''], []]; // first index for probowl/all pro, second for team name, third for decade
 if (switchProBowl) {

@@ -1,35 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
-    <title>TDINTigami</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-<link rel="manifest" href="favicon/site.webmanifest">
-<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
+  <title>TDINTigami</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="favicon/site.webmanifest">
+  <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
     <!-- Include Plotly.js -->
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <link rel="stylesheet" href="utility.css">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
-
-
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <link rel="stylesheet" href="utility.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
 </head>
+
 <body>
-
+  <div id="header">
+    <h1>TDINTigami</h1>
   </div>
-    <!-- Add a container for the plot -->
-    <div id="header">
-      <h1>TDINTigami</h1>
-    </div>
 
-    <div id="container">
-    <div class="switch-container">
+  <div id="container">
+    <div class="switch-container">     
       <select id="carFilter" multiple>
       </select>
       <select id="startYear">
@@ -38,56 +34,58 @@
       <select id="endYear">
         <option value="2023">End Year</option>
       </select>
+
       <label class="switch">
         <span class="switchText">Pro Bowl</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="switch2">
+        <input type="checkbox" onchange="toggleSwitch()" id="proBowlSwitch">
         <span class="slider"></span>
       </label>
       
       <label class="switch">
         <span class="switchText">All Pro</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="switch1">
+        <input type="checkbox" onchange="toggleSwitch()" id="allProSwitch">
         <span class="slider"></span>
       </label>
- 
+
       <select id="minStarts">
         <option value="1">Min Starts</option>
       </select>
     </div>
 
-    
     <div class="plot-container">
       <div id="plot">
         <div class="scrollable-bar"></div>      
       </div>
       <div id="outline"></div>
 
-    <div class="description">
-      <h2>What is TDINTigami?</h2>
-      <div class="expanded-text">
-        <p>TDINTigami is inspired by <a href="https://en.wikipedia.org/wiki/Scorigami" target="_blank">Scorigami</a>
-          . TDINTigami
-          displays every unique touchdown to interception ratio by a quarterback in a given season
-          since 1932.
-        </p>
-      </div>
-      <h2>Data Collection</h2>
-      <div class="expanded-text">
-          <p>
-            Data from over 2,000 webpages on profootballreference.com was scraped using the Beautiful Soup Python package.
-            Various statistics for quarterbacks in a given season are included, such as their touchdown/interception totals, number of starts, team affiliations, and the respective playing year.
-              Every player listed in TDINTigami has started at least one game during the specified season, and holds the official position of quarterback. In total, there are 3,667 quarterbacks included in TDINTigami.
-        </p>
-      </div>
-      <h2>Why 1932?</h2>
-      <div class="expanded-text">
-        <p>Unfortunately QB data is incomplete pre-1932.
-          Thankfully the quarterback position was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
-        </p>
-      </div>
-       <!--<p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p> --> 
+      <div class="description">
+        <h2>What is TDINTigami?</h2>
+        <div class="expanded-text">
+          <p>TDINTigami is inspired by <a href="https://en.wikipedia.org/wiki/Scorigami" target="_blank">Scorigami</a>
+            . TDINTigami
+            displays every unique touchdown to interception ratio by a quarterback in a given season
+            since 1932.
+          </p>
+        </div>
+
+          <h2>Data Collection</h2>
+          <div class="expanded-text">
+              <p>
+                Data from over 2,000 webpages on profootballreference.com was scraped using the Beautiful Soup Python package.
+                Various statistics for quarterbacks in a given season are included, such as their touchdown/interception totals, number of starts, team affiliations, and the respective playing year.
+                  Every player listed in TDINTigami has started at least one game during the specified season, and holds the official position of quarterback. In total, there are 3,667 quarterbacks included in TDINTigami.
+            </p>
+          </div>
+          
+          <h2>Why 1932?</h2>
+          <div class="expanded-text">
+            <p>Unfortunately QB data is incomplete pre-1932.
+              Thankfully the quarterback position was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
+            </p>
+          </div>
+          <!--<p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p> --> 
     </div>
-    </div>
+  </div>
 
 
     <!-- Modal HTML -->
@@ -116,7 +114,6 @@
           </div>
       </div>
   </div>
-</div>
 
     <script src="grid.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
