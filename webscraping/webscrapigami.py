@@ -1,5 +1,5 @@
 # Scrapes from first superbowl to present day
-# This file scrapes necessary data to igami.csv. Scrapes approx. 1600 webpages and takes ~ 2 hours.
+# This file scrapes necessary data to igami.csv. Scrapes approx. 2000 webpages and takes ~ 2 hours.
 # Easily modifable to scrape different data from profootballreference.com
 import requests
 from bs4 import BeautifulSoup

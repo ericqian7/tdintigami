@@ -5,7 +5,7 @@ let layout = {
   xaxis: {     title: {
     text: 'QB Passing TD in a Season',
     font: {
-      family: 'Arvo',
+      family: 'Arial',
       size: 20,
       color: 'purple'
     }, standoff:0
@@ -18,7 +18,7 @@ let layout = {
   yaxis: {     title: {
     text: 'QB INT in a Season',
     font: {
-      family: 'Arvo',
+      family: 'Arial',
       size: 20,
       color: 'purple'
     }
@@ -50,7 +50,7 @@ let minStarts = 1;
 
 let isMobile; // displays website differently if viewing on mobile
 
-processDataAndPlot(["", [teamsSelected], [1932, 2023, minStarts]]); 
+processDataAndPlot(["", [teamsSelected], [1932, 2023, minStarts]]); // first variable is probowl/all pro status
 toggleSwitch();
 window.addEventListener('resize', handleResize);
 handleResize(); // Call the function initially to check the window size on page load
@@ -118,6 +118,7 @@ function processDataAndPlot(filter) {
               [0.4, 'orange'],
               [1, 'red']
             ],
+            
             hovertemplate: 'TD: %{x}<br>INT: %{y}<br>Players: %{z}<extra></extra>'
 
         }];
