@@ -11,10 +11,9 @@
   <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
-    <!-- Include Plotly.js -->
+  <!-- Include Plotly.js -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <link rel="stylesheet" href="utility.css">
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
 </head>
@@ -23,101 +22,104 @@
   <div id="header">
     <h1>TDINTigami</h1>
   </div>
+  
+  <main>
+    <div id="container">
+      <div class="switch-container">     
+        <select id="carFilter" multiple>
+        </select>
+        <select id="startYear">
+          <option value="1932">Start Year</option>
+        </select>
+        <select id="endYear">
+          <option value="2023">End Year</option>
+        </select>
 
-  <div id="container">
-    <div class="switch-container">     
-      <select id="carFilter" multiple>
-      </select>
-      <select id="startYear">
-        <option value="1932">Start Year</option>
-      </select>
-      <select id="endYear">
-        <option value="2023">End Year</option>
-      </select>
+        <label class="switch">
+          <span class="switchText">Pro Bowl</span>
+          <input type="checkbox" onchange="toggleSwitch()" id="proBowlSwitch">
+          <span class="slider"></span>
+        </label>
+        
+        <label class="switch">
+          <span class="switchText">All Pro</span>
+          <input type="checkbox" onchange="toggleSwitch()" id="allProSwitch">
+          <span class="slider"></span>
+        </label>
 
-      <label class="switch">
-        <span class="switchText">Pro Bowl</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="proBowlSwitch">
-        <span class="slider"></span>
-      </label>
-      
-      <label class="switch">
-        <span class="switchText">All Pro</span>
-        <input type="checkbox" onchange="toggleSwitch()" id="allProSwitch">
-        <span class="slider"></span>
-      </label>
-
-      <select id="minStarts">
-        <option value="1">Min Starts</option>
-      </select>
-    </div>
-
-    <div class="plot-container">
-      <div id="plot">
-        <div class="scrollable-bar"></div>      
+        <select id="minStarts">
+          <option value="1">Min Starts</option>
+        </select>
       </div>
-      <div id="outline"></div>
 
-      <div class="description">
-        <h2>What is TDINTigami?</h2>
-        <div class="expanded-text">
-          <p>TDINTigami is inspired by <a href="https://en.wikipedia.org/wiki/Scorigami" target="_blank">Scorigami</a>
-            . TDINTigami
-            displays every unique touchdown to interception ratio by a quarterback in a given season
-            since 1932.
-          </p>
+      <div class="plot-container">
+        <div id="plot">
+          <div class="scrollable-bar"></div>      
         </div>
+        <div id="outline"></div>
 
-          <h2>Data Collection</h2>
-          <div class="expanded-text">
-              <p>
-                Data from over 2,000 webpages on profootballreference.com was scraped using the Beautiful Soup Python package.
-                Various statistics for quarterbacks in a given season are included, such as their touchdown/interception totals, number of starts, team affiliations, and the respective playing year.
-                  Every player listed in TDINTigami has started at least one game during the specified season, and holds the official position of quarterback. In total, there are 3,667 quarterbacks included in TDINTigami.
+        <section class="info-section">
+          <div class="card">
+            <h2>What is TDINTigami?</h2>
+            <p>
+              <strong>TDINTigami</strong> is inspired by <a href="#" class="link">Scorigami</a>. It displays every unique
+              touchdown-to-interception ratio by a quarterback in a given season since 1932.
+            </p>
+            <h2>Data Collection</h2>
+            <p>
+              Data from over 2,000 webpages on <span class="code">pro-football-reference.com</span> was scraped using the
+              <span class="code">BeautifulSoup</span> Python package. Each quarterback listed has started at least one game during a season. The dataset includes 3,667 quarterbacks.
+            </p>
+            <h2>Why 1932?</h2>
+            <p>
+              QB data before 1932 is incomplete. The quarterback role barely existed prior to that—only 6 unique players were recorded from 1932 to 1940—so this range includes nearly all QBs.
             </p>
           </div>
-          
-          <h2>Why 1932?</h2>
-          <div class="expanded-text">
-            <p>Unfortunately QB data is incomplete pre-1932.
-              Thankfully the quarterback position was essentially non-existent back then (there were only 6 unique players at the qb position from 1932-1940!) so the overwhelming majority of quarterbacks are included.
-            </p>
-          </div>
-          <!--<p>Source code can be found <a href="https://github.com/ericqian7/tdintigami" target="_blank">here</a>.</p> --> 
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer moved outside of other containers -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>🚀 Built by <strong>Eric Qian</strong> · <a href="https://github.com/ericqian7/tdintigami" target="_blank">View on GitHub</a></p>
+      <p>💡 Have ideas or suggestions?  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWn7mM2ZKRPgDvzdmS9c30Qn-wdFdfBhA5dxR8QbBXu9X_uA/viewform?usp=dialog" target="_blank">Submit feedback</a>.</p>
+    </div>
+  </footer>
+
+  <!-- Modal HTML -->
+  <div class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoModalLabel">Clicked cell info</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Column Name</th>
+                <th>Value</th>
+              </tr>
+            </thead>
+            <tbody id="modalBodyContent"></tbody>
+          </table>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
     </div>
   </div>
 
-
-    <!-- Modal HTML -->
-<div class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-      <div class="modal-content">
-          <div class="modal-header">
-              <h5 class="modal-title" id="infoModalLabel">Clicked cell info</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-              </button>
-          </div>
-          <div class="modal-body">
-              <table class="table">
-                  <thead>
-                      <tr>
-                          <th>Column Name</th>
-                          <th>Value</th>
-                      </tr>
-                  </thead>
-                  <tbody id="modalBodyContent"></tbody>
-              </table>
-          </div>
-          <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-          </div>
-      </div>
-  </div>
-
-    <script src="grid.js"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
+  <!-- Scripts -->
+  <script src="grid.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
 </body>
 </html>

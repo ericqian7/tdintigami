@@ -5,7 +5,7 @@ from bs4 import Comment
 import time
 
 # Set up season/team abbrs to iterate over and declare lists to be populated.
-seasons = [str(season) for season in range(2023, 2024)] # gets 2023 stats
+seasons = [str(season) for season in range(2023, 2024)] # gets 2024 stats
 team_abbrs = ['crd', 'atl', 'rav', 'buf', 'car', 'chi', 'cin', 'cle', 'dal', 'den', 'det', 'gnb', 'htx', 'clt', 'jax',
               'kan',
               'sdg', 'ram', 'rai', 'mia', 'min', 'nwe', 'nor', 'nyg', 'nyj', 'phi', 'pit', 'sea', 'sfo', 'tam', 'oti',
@@ -21,6 +21,7 @@ starts = []
 for season in seasons:
     for team in team_abbrs:
       url = "https://www.pro-football-reference.com/teams/" + team + "/" + season + ".htm"
+      print(url)
       time.sleep(4) # bypass request limit
       response = requests.get(url)
       soup = BeautifulSoup(response.text, 'html.parser')
