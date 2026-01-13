@@ -45,12 +45,12 @@ let layout = {
 // 4 global variables that represent filter options. These can be modified dynamically by the user.
 let teamsSelected = "all";
 let startingYear = 1932;
-let endingYear = 2023;
+let endingYear = 2025;
 let minStarts = 1;
 
 let isMobile; // displays website differently if viewing on mobile
 
-processDataAndPlot(["", [teamsSelected], [1932, 2023, minStarts]]); // first variable is probowl/all pro status
+processDataAndPlot(["", [teamsSelected], [1932, 2025, minStarts]]); // first variable is probowl/all pro status
 toggleSwitch();
 window.addEventListener('resize', handleResize);
 handleResize(); // Call the function initially to check the window size on page load
@@ -269,7 +269,7 @@ if (switchStatusPro) {
     option.textContent = teamName;
     teamDropdown.appendChild(option);
   });
-  for (i = 1932; i <= 2023; i++) { // populate start/end year dropdowns
+  for (i = 1932; i <= 2025; i++) { // populate start/end year dropdowns
     const yearOptionStart = document.createElement('option');
     const yearOptionEnd = document.createElement('option');
 
@@ -336,7 +336,7 @@ if (switchStatusPro) {
       const selectedEndYear = $(this).val();
       
       if (!selectedEndYear) {
-        endingYear = 2023;
+        endingYear = 2025;
       } else {
         endingYear = selectedEndYear;
       }

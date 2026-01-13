@@ -1,0 +1,123 @@
+player,team,year,td,int,starts
+Kyler Murray,Arizona Cardinals,2024,21,11,17
+Kirk Cousins,Atlanta Falcons,2024,18,16,14
+Michael Penix,Atlanta Falcons,2024,3,3,3
+Lamar Jackson*,Baltimore Ravens,2024,41,4,17
+Josh Allen*,Buffalo Bills,2024,28,6,17
+Bryce Young,Carolina Panthers,2024,15,9,12
+Andy Dalton,Carolina Panthers,2024,7,6,5
+Caleb Williams,Chicago Bears,2024,20,6,17
+Joe Burrow*,Cincinnati Bengals,2024,43,9,17
+Jameis Winston,Cleveland Browns,2024,13,12,7
+Deshaun Watson,Cleveland Browns,2024,5,3,7
+Dorian Thompson-Robinson,Cleveland Browns,2024,0,6,2
+Bailey Zappe,Cleveland Browns,2024,1,2,1
+Dak Prescott,Dallas Cowboys,2024,11,8,8
+Cooper Rush,Dallas Cowboys,2024,12,5,8
+Trey Lance,Dallas Cowboys,2024,0,1,1
+Bo Nix,Denver Broncos,2024,29,12,17
+Jared Goff*,Detroit Lions,2024,37,12,17
+Jordan Love,Green Bay Packers,2024,25,11,15
+Malik Willis,Green Bay Packers,2024,3,0,2
+C.J. Stroud,Houston Texans,2024,20,12,17
+Anthony Richardson,Indianapolis Colts,2024,8,12,11
+Joe Flacco,Indianapolis Colts,2024,12,7,6
+Trevor Lawrence,Jacksonville Jaguars,2024,11,7,10
+Mac Jones,Jacksonville Jaguars,2024,8,8,7
+Patrick Mahomes,Kansas City Chiefs,2024,26,11,16
+Carson Wentz,Kansas City Chiefs,2024,0,0,1
+Justin Herbert,Los Angeles Chargers,2024,23,3,17
+Matthew Stafford,Los Angeles Rams,2024,20,8,16
+Jimmy Garoppolo,Los Angeles Rams,2024,2,1,1
+Gardner Minshew II,Las Vegas Raiders,2024,9,10,9
+Aidan O'Connell,Las Vegas Raiders,2024,8,4,7
+Desmond Ridder,Las Vegas Raiders,2024,2,2,1
+Tua Tagovailoa,Miami Dolphins,2024,19,7,11
+Tyler Huntley,Miami Dolphins,2024,3,3,5
+Skylar Thompson,Miami Dolphins,2024,0,0,1
+Sam Darnold*,Minnesota Vikings,2024,35,12,17
+Drake Maye*,New England Patriots,2024,15,10,12
+Jacoby Brissett,New England Patriots,2024,2,1,5
+Derek Carr,New Orleans Saints,2024,15,5,10
+Spencer Rattler,New Orleans Saints,2024,4,5,6
+Jake Haener,New Orleans Saints,2024,1,1,1
+Daniel Jones,New York Giants,2024,8,7,10
+Drew Lock,New York Giants,2024,6,5,5
+Tommy DeVito,New York Giants,2024,0,0,2
+Aaron Rodgers,New York Jets,2024,28,11,17
+Jalen Hurts,Philadelphia Eagles,2024,18,5,15
+Tanner McKee,Philadelphia Eagles,2024,4,0,1
+Kenny Pickett,Philadelphia Eagles,2024,2,1,1
+Russell Wilson*,Pittsburgh Steelers,2024,16,5,11
+Justin Fields,Pittsburgh Steelers,2024,5,1,6
+Geno Smith,Seattle Seahawks,2024,21,15,17
+Brock Purdy,San Francisco 49ers,2024,20,12,15
+Joshua Dobbs,San Francisco 49ers,2024,2,2,1
+Brandon Allen,San Francisco 49ers,2024,1,2,1
+Baker Mayfield*,Tampa Bay Buccaneers,2024,41,16,17
+Will Levis,Tennessee Titans,2024,13,12,12
+Mason Rudolph,Tennessee Titans,2024,9,9,5
+Jayden Daniels*,Washington Commanders,2024,25,9,17
+Jacoby Brissett,Arizona Cardinals,2025,23,8,12
+Kyler Murray,Arizona Cardinals,2025,6,3,5
+Michael Penix,Atlanta Falcons,2025,9,3,9
+Kirk Cousins,Atlanta Falcons,2025,10,5,8
+Lamar Jackson,Baltimore Ravens,2025,21,7,13
+Tyler Huntley,Baltimore Ravens,2025,2,0,2
+Cooper Rush,Baltimore Ravens,2025,0,4,2
+Josh Allen*,Buffalo Bills,2025,25,10,17
+Bryce Young,Carolina Panthers,2025,23,11,16
+Andy Dalton,Carolina Panthers,2025,1,1,1
+Caleb Williams,Chicago Bears,2025,27,7,17
+Joe Burrow,Cincinnati Bengals,2025,17,5,8
+Joe Flacco,Cincinnati Bengals,2025,13,4,6
+Jake Browning,Cincinnati Bengals,2025,6,8,3
+Shedeur Sanders,Cleveland Browns,2025,7,10,7
+Dillon Gabriel,Cleveland Browns,2025,7,2,6
+Joe Flacco,Cleveland Browns,2025,2,6,4
+Dak Prescott*,Dallas Cowboys,2025,30,10,17
+Bo Nix,Denver Broncos,2025,25,11,17
+Jared Goff,Detroit Lions,2025,34,8,17
+Jordan Love,Green Bay Packers,2025,23,6,15
+Malik Willis,Green Bay Packers,2025,3,0,1
+Clayton Tune,Green Bay Packers,2025,0,1,1
+C.J. Stroud,Houston Texans,2025,19,8,14
+Davis Mills,Houston Texans,2025,5,1,3
+Daniel Jones,Indianapolis Colts,2025,19,8,13
+Philip Rivers,Indianapolis Colts,2025,4,3,3
+Riley Leonard,Indianapolis Colts,2025,2,3,1
+Trevor Lawrence,Jacksonville Jaguars,2025,29,12,17
+Patrick Mahomes,Kansas City Chiefs,2025,22,11,14
+Chris Oladokun,Kansas City Chiefs,2025,1,0,2
+Gardner Minshew II,Kansas City Chiefs,2025,0,1,1
+Justin Herbert*,Los Angeles Chargers,2025,26,13,16
+Trey Lance,Los Angeles Chargers,2025,0,1,1
+Matthew Stafford*,Los Angeles Rams,2025,46,8,17
+Geno Smith,Las Vegas Raiders,2025,19,17,15
+Kenny Pickett,Las Vegas Raiders,2025,1,2,2
+Tua Tagovailoa,Miami Dolphins,2025,20,15,14
+Quinn Ewers,Miami Dolphins,2025,3,3,3
+J.J. McCarthy,Minnesota Vikings,2025,11,12,10
+Carson Wentz,Minnesota Vikings,2025,6,5,5
+Max Brosmer,Minnesota Vikings,2025,0,4,2
+Drake Maye*,New England Patriots,2025,31,8,17
+Tyler Shough,New Orleans Saints,2025,10,6,9
+Spencer Rattler,New Orleans Saints,2025,8,5,8
+Jaxson Dart,New York Giants,2025,15,5,12
+Russell Wilson,New York Giants,2025,3,3,3
+Jameis Winston,New York Giants,2025,2,2,2
+Justin Fields,New York Jets,2025,7,1,9
+Tyrod Taylor,New York Jets,2025,5,5,4
+Brady Cook,New York Jets,2025,2,7,4
+Jalen Hurts,Philadelphia Eagles,2025,25,6,16
+Tanner McKee,Philadelphia Eagles,2025,1,1,1
+Aaron Rodgers,Pittsburgh Steelers,2025,24,7,16
+Mason Rudolph,Pittsburgh Steelers,2025,2,2,1
+Sam Darnold*,Seattle Seahawks,2025,25,14,17
+Brock Purdy,San Francisco 49ers,2025,20,10,9
+Mac Jones,San Francisco 49ers,2025,13,6,8
+Baker Mayfield,Tampa Bay Buccaneers,2025,26,11,17
+Cam Ward,Tennessee Titans,2025,15,7,17
+Marcus Mariota,Washington Commanders,2025,10,7,8
+Jayden Daniels,Washington Commanders,2025,8,3,7
+Josh Johnson,Washington Commanders,2025,1,2,2
