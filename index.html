@@ -10,46 +10,76 @@
   <link rel="manifest" href="favicon/site.webmanifest">
   <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+  <meta name="theme-color" content="#667eea">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
   <!-- Include Plotly.js -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <link rel="stylesheet" href="utility.css">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css">
 </head>
 
 <body>
   <div id="header">
     <h1>TDINTigami</h1>
+    <button class="dark-mode-btn" onclick="toggleDarkMode()">
+      <span class="icon-sun">☀️</span>
+      <span class="icon-moon">🌙</span>
+    </button>
   </div>
   
   <main>
     <div id="container">
-      <div class="switch-container">     
-        <select id="carFilter" multiple>
-        </select>
-        <select id="startYear">
-          <option value="1932">Start Year</option>
-        </select>
-        <select id="endYear">
-          <option value="2025">End Year</option>
-        </select>
-
-        <label class="switch">
-          <span class="switchText">Pro Bowl</span>
-          <input type="checkbox" onchange="toggleSwitch()" id="proBowlSwitch">
-          <span class="slider"></span>
-        </label>
-        
-        <label class="switch">
-          <span class="switchText">All Pro</span>
-          <input type="checkbox" onchange="toggleSwitch()" id="allProSwitch">
-          <span class="slider"></span>
-        </label>
-
-        <select id="minStarts">
-          <option value="1">Min Starts</option>
-        </select>
+      <div class="switch-container">
+        <div class="filter-row">
+          <div class="filter-group">
+            <label class="filter-label">Team</label>
+            <select id="carFilter" multiple></select>
+          </div>
+          <div class="filter-group">
+            <label class="filter-label">Player Name</label>
+            <input type="text" id="playerSearch" placeholder="Search players..." class="player-search-input">
+          </div>
+        </div>
+        <div class="filter-row">
+          <div class="filter-group year-slider-group">
+            <div class="year-slider-header">
+              <label class="filter-label">Year Range: <span id="yearRangeDisplay">1932 - 2025</span></label>
+              <button class="sim-btn" id="simBtn" onclick="toggleSimulation()">
+                <span class="sim-icon-play">▶</span>
+                <span class="sim-icon-pause">❚❚</span>
+              </button>
+            </div>
+            <div id="yearSlider"></div>
+          </div>
+          <div class="filter-group">
+            <label class="filter-label">Min Starts</label>
+            <select id="minStarts">
+              <option value="1">Min Starts</option>
+            </select>
+          </div>
+          <div class="filter-group toggle-group">
+            <label class="switch">
+              <span class="switchText">Pro Bowl</span>
+              <input type="checkbox" onchange="toggleSwitch()" id="proBowlSwitch">
+              <span class="slider"></span>
+            </label>
+          </div>
+          <div class="filter-group toggle-group">
+            <label class="switch">
+              <span class="switchText">All Pro</span>
+              <input type="checkbox" onchange="toggleSwitch()" id="allProSwitch">
+              <span class="slider"></span>
+            </label>
+          </div>
+          <div class="filter-group toggle-group reset-group">
+            <button class="reset-btn" onclick="resetAllFilters()">Reset All</button>
+          </div>
+        </div>
       </div>
 
       <div class="plot-container">
@@ -62,13 +92,13 @@
           <div class="card">
             <h2>What is TDINTigami?</h2>
             <p>
-              <strong>TDINTigami</strong> is inspired by <a href="#" class="link">Scorigami</a>. It displays every unique
+              <strong>TDINTigami</strong> is inspired by <a href="https://en.wikipedia.org/wiki/Scorigami" target="_blank" class="link">Scorigami</a>. It displays every unique
               touchdown-to-interception ratio by a quarterback in a given season since 1932.
             </p>
             <h2>Data Collection</h2>
             <p>
               Data from over 2,000 webpages on <span class="code">pro-football-reference.com</span> was scraped using the
-              <span class="code">BeautifulSoup</span> Python package. Each quarterback listed has started at least one game during a season. The dataset includes 3,667 quarterbacks.
+              <span class="code">BeautifulSoup</span> Python package. Each quarterback listed has started at least one game during a season. The dataset includes 3,857 quarterbacks.
             </p>
             <h2>Why 1932?</h2>
             <p>
@@ -117,9 +147,10 @@
   </div>
 
   <!-- Scripts -->
-  <script src="grid.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
+  <script src="grid.js"></script>
 </body>
 </html>
